@@ -1,0 +1,3104 @@
+id,date,state_name,state_code,airport,freight
+0,01-01-2022,West Bengal,19,Kolkata,3088
+1,01-01-2022,Tamil Nadu,33,Chennai,20054
+2,01-01-2022,Goa,30,Goa,93
+3,01-01-2022,Jammu and Kashmir,1,Srinagar,0
+4,01-01-2022,Odisha,21,Bhubaneswar,0
+5,01-01-2022,Uttar Pradesh,9,Varanasi,56
+6,01-01-2022,Kerala,32,Calicut,779
+7,01-01-2022,Punjab,3,Amritsar,62
+8,01-01-2022,Tamil Nadu,33,Coimbatore,107
+9,01-01-2022,Andhra Pradesh,28,Vijayawada,0
+10,01-01-2022,Manipur,14,Imphal,0
+11,01-01-2022,Andaman and Nicobar Islands,35,Portblair,0
+12,01-01-2022,Tamil Nadu,33,Trichy,500
+13,01-01-2022,Andhra Pradesh,28,Tirupati,0
+14,01-01-2022,Uttar Pradesh,9,Kushinagar,0
+15,01-01-2022,Gujarat,24,Ahmedabad,4061
+16,01-01-2022,Uttar Pradesh,9,Lucknow,232
+17,01-01-2022,Karnataka,29,Manglore,108
+18,01-01-2022,Assam,18,Guwahati,0
+19,01-01-2022,Rajasthan,8,Jaipur,14
+20,01-01-2022,Kerala,32,Trivandrum,874
+21,01-01-2022,Delhi,7,Delhi,48129
+22,01-01-2022,Maharashtra,27,Mumbai,41803
+23,01-01-2022,Karnataka,29,Bangalore,21710
+24,01-01-2022,Telangana,36,Hyderabad,5711
+25,01-01-2022,Kerala,32,Cochin,3386
+26,01-01-2022,Maharashtra,27,Nagpur,4
+27,01-01-2022,Kerala,32,Kannur,265
+28,01-01-2022,Bihar,10,Patna,0
+29,01-01-2022,Maharashtra,27,Pune,0
+30,01-01-2022,West Bengal,19,Bagdora,0
+31,01-01-2022,Chandigarh,4,Chandigarh,0
+32,01-01-2022,Andhra Pradesh,28,Visakhapatnam,2
+33,01-01-2022,Madhya Pradesh,23,Indore,10
+34,01-01-2022,Tamil Nadu,33,Madurai,28
+35,01-01-2022,Gujarat,24,Surat,0
+36,01-01-2022,Maharashtra,27,Aurangabad,0
+37,01-01-2022,Bihar,10,Gaya,0
+38,01-02-2022,West Bengal,19,Kolkata,2870
+39,01-02-2022,Tamil Nadu,33,Chennai,19209
+40,01-02-2022,Goa,30,Goa,97
+41,01-02-2022,Jammu and Kashmir,1,Srinagar,0
+42,01-02-2022,Odisha,21,Bhubaneswar,0
+43,01-02-2022,Uttar Pradesh,9,Varanasi,8
+44,01-02-2022,Kerala,32,Calicut,671
+45,01-02-2022,Punjab,3,Amritsar,77
+46,01-02-2022,Tamil Nadu,33,Coimbatore,71
+47,01-02-2022,Andhra Pradesh,28,Vijayawada,0
+48,01-02-2022,Manipur,14,Imphal,0
+49,01-02-2022,Andaman and Nicobar Islands,35,Portblair,0
+50,01-02-2022,Tamil Nadu,33,Trichy,500
+51,01-02-2022,Andhra Pradesh,28,Tirupati,0
+52,01-02-2022,Uttar Pradesh,9,Kushinagar,0
+53,01-02-2022,Gujarat,24,Ahmedabad,4192
+54,01-02-2022,Uttar Pradesh,9,Lucknow,217
+55,01-02-2022,Karnataka,29,Manglore,114
+56,01-02-2022,Assam,18,Guwahati,0
+57,01-02-2022,Rajasthan,8,Jaipur,16
+58,01-02-2022,Kerala,32,Trivandrum,1124
+59,01-02-2022,Delhi,7,Delhi,43246
+60,01-02-2022,Maharashtra,27,Mumbai,41449
+61,01-02-2022,Karnataka,29,Bangalore,20981
+62,01-02-2022,Telangana,36,Hyderabad,6270
+63,01-02-2022,Kerala,32,Cochin,3424
+64,01-02-2022,Maharashtra,27,Nagpur,35
+65,01-02-2022,Kerala,32,Kannur,409
+66,01-02-2022,Bihar,10,Patna,0
+67,01-02-2022,Maharashtra,27,Pune,0
+68,01-02-2022,West Bengal,19,Bagdora,0
+69,01-02-2022,Chandigarh,4,Chandigarh,0
+70,01-02-2022,Andhra Pradesh,28,Visakhapatnam,6
+71,01-02-2022,Madhya Pradesh,23,Indore,4
+72,01-02-2022,Tamil Nadu,33,Madurai,51
+73,01-02-2022,Gujarat,24,Surat,0
+74,01-02-2022,Maharashtra,27,Aurangabad,0
+75,01-02-2022,Bihar,10,Gaya,0
+76,01-03-2022,West Bengal,19,Kolkata,4095
+77,01-03-2022,Tamil Nadu,33,Chennai,24485
+78,01-03-2022,Goa,30,Goa,111
+79,01-03-2022,Jammu and Kashmir,1,Srinagar,0
+80,01-03-2022,Odisha,21,Bhubaneswar,0
+81,01-03-2022,Uttar Pradesh,9,Varanasi,2
+82,01-03-2022,Kerala,32,Calicut,811
+83,01-03-2022,Punjab,3,Amritsar,78
+84,01-03-2022,Tamil Nadu,33,Coimbatore,85
+85,01-03-2022,Andhra Pradesh,28,Vijayawada,0
+86,01-03-2022,Manipur,14,Imphal,0
+87,01-03-2022,Andaman and Nicobar Islands,35,Portblair,0
+88,01-03-2022,Tamil Nadu,33,Trichy,555
+89,01-03-2022,Andhra Pradesh,28,Tirupati,0
+90,01-03-2022,Uttar Pradesh,9,Kushinagar,0
+91,01-03-2022,Gujarat,24,Ahmedabad,4891
+92,01-03-2022,Uttar Pradesh,9,Lucknow,256
+93,01-03-2022,Karnataka,29,Manglore,135
+94,01-03-2022,Assam,18,Guwahati,0
+95,01-03-2022,Rajasthan,8,Jaipur,12
+96,01-03-2022,Kerala,32,Trivandrum,1164
+97,01-03-2022,Delhi,7,Delhi,52551
+98,01-03-2022,Maharashtra,27,Mumbai,49468
+99,01-03-2022,Karnataka,29,Bangalore,23843
+100,01-03-2022,Telangana,36,Hyderabad,7148
+101,01-03-2022,Kerala,32,Cochin,4284
+102,01-03-2022,Maharashtra,27,Nagpur,3
+103,01-03-2022,Kerala,32,Kannur,370
+104,01-03-2022,Bihar,10,Patna,0
+105,01-03-2022,Maharashtra,27,Pune,5
+106,01-03-2022,West Bengal,19,Bagdora,0
+107,01-03-2022,Chandigarh,4,Chandigarh,0
+108,01-03-2022,Andhra Pradesh,28,Visakhapatnam,1
+109,01-03-2022,Madhya Pradesh,23,Indore,8
+110,01-03-2022,Tamil Nadu,33,Madurai,37
+111,01-03-2022,Gujarat,24,Surat,0
+112,01-03-2022,Maharashtra,27,Aurangabad,0
+113,01-03-2022,Bihar,10,Gaya,0
+114,01-04-2022,West Bengal,19,Kolkata,3570
+115,01-04-2022,Tamil Nadu,33,Chennai,23249
+116,01-04-2022,Goa,30,Goa,173
+117,01-04-2022,Jammu and Kashmir,1,Srinagar,0
+118,01-04-2022,Odisha,21,Bhubaneswar,0
+119,01-04-2022,Uttar Pradesh,9,Varanasi,4
+120,01-04-2022,Kerala,32,Calicut,863
+121,01-04-2022,Punjab,3,Amritsar,142
+122,01-04-2022,Tamil Nadu,33,Coimbatore,73
+123,01-04-2022,Andhra Pradesh,28,Vijayawada,0
+124,01-04-2022,Manipur,14,Imphal,0
+125,01-04-2022,Andaman and Nicobar Islands,35,Portblair,0
+126,01-04-2022,Tamil Nadu,33,Trichy,0
+127,01-04-2022,Andhra Pradesh,28,Tirupati,517
+128,01-04-2022,Uttar Pradesh,9,Kushinagar,0
+129,01-04-2022,Gujarat,24,Ahmedabad,4184
+130,01-04-2022,Uttar Pradesh,9,Lucknow,382
+131,01-04-2022,Karnataka,29,Manglore,0
+132,01-04-2022,Assam,18,Guwahati,16
+133,01-04-2022,Rajasthan,8,Jaipur,1255
+134,01-04-2022,Kerala,32,Trivandrum,195
+135,01-04-2022,Delhi,7,Delhi,50844
+136,01-04-2022,Maharashtra,27,Mumbai,46532
+137,01-04-2022,Karnataka,29,Bangalore,20416
+138,01-04-2022,Telangana,36,Hyderabad,6627
+139,01-04-2022,Kerala,32,Cochin,5172
+140,01-04-2022,Maharashtra,27,Nagpur,12
+141,01-04-2022,Kerala,32,Kannur,299
+142,01-04-2022,Bihar,10,Patna,5
+143,01-04-2022,Maharashtra,27,Pune,0
+144,01-05-2022,West Bengal,19,Bagdora,0
+145,01-05-2022,Chandigarh,4,Chandigarh,0
+146,01-05-2022,Andhra Pradesh,28,Visakhapatnam,9
+147,01-05-2022,Madhya Pradesh,23,Indore,3
+148,01-05-2022,Tamil Nadu,33,Madurai,0
+149,01-05-2022,Gujarat,24,Surat,113
+150,01-05-2022,Maharashtra,27,Aurangabad,0
+151,01-05-2022,Bihar,10,Gaya,0
+152,01-05-2022,West Bengal,19,Kolkata,2843
+153,01-05-2022,Tamil Nadu,33,Chennai,22267
+154,01-05-2022,Goa,30,Goa,205
+155,01-05-2022,Jammu and Kashmir,1,Srinagar,0
+156,01-05-2022,Odisha,21,Bhubaneswar,0
+157,01-05-2022,Uttar Pradesh,9,Varanasi,3
+158,01-05-2022,Kerala,32,Calicut,987
+159,01-05-2022,Punjab,3,Amritsar,136
+160,01-05-2022,Tamil Nadu,33,Coimbatore,68
+161,01-05-2022,Andhra Pradesh,28,Vijayawada,0
+162,01-05-2022,Manipur,14,Imphal,0
+163,01-05-2022,Andaman and Nicobar Islands,35,Portblair,0
+164,01-05-2022,Tamil Nadu,33,Trichy,0
+165,01-05-2022,Andhra Pradesh,28,Tirupati,508
+166,01-05-2022,Uttar Pradesh,9,Kushinagar,0
+167,01-05-2022,Gujarat,24,Ahmedabad,4145
+168,01-05-2022,Uttar Pradesh,9,Lucknow,252
+169,01-05-2022,Karnataka,29,Manglore,0
+170,01-05-2022,Assam,18,Guwahati,17
+171,01-05-2022,Rajasthan,8,Jaipur,1094
+172,01-05-2022,Kerala,32,Trivandrum,143
+173,01-05-2022,Delhi,7,Delhi,46085
+174,01-05-2022,Maharashtra,27,Mumbai,46032
+175,01-05-2022,Karnataka,29,Bangalore,21492
+176,01-05-2022,Telangana,36,Hyderabad,6135
+177,01-05-2022,Kerala,32,Cochin,3768
+178,01-05-2022,Maharashtra,27,Nagpur,4
+179,01-05-2022,Kerala,32,Kannur,340
+180,01-05-2022,Bihar,10,Patna,4
+181,01-05-2022,Maharashtra,27,Pune,0
+182,01-05-2022,Andhra Pradesh,28,Visakhapatnam,1
+183,01-05-2022,Madhya Pradesh,23,Indore,1
+184,01-05-2022,Gujarat,24,Surat,116
+185,01-01-2021,West Bengal,19,Kolkata,3512
+186,01-01-2021,Tamil Nadu,33,Chennai,21525
+187,01-01-2021,Goa,30,Goa,9
+188,01-01-2021,Jammu and Kashmir,1,Srinagar,0
+189,01-01-2021,Odisha,21,Bhubaneswar,0
+190,01-01-2021,Uttar Pradesh,9,Varanasi,3
+191,01-01-2021,Kerala,32,Calicut,607
+192,01-01-2021,Punjab,3,Amritsar,34
+193,01-01-2021,Tamil Nadu,33,Coimbatore,43
+194,01-01-2021,Andhra Pradesh,28,Vijayawada,0
+195,01-01-2021,Manipur,14,Imphal,0
+196,01-01-2021,Andaman and Nicobar Islands,35,Portblair,0
+197,01-01-2021,Tamil Nadu,33,Trichy,276
+198,01-01-2021,Andhra Pradesh,28,Tirupati,0
+199,01-01-2021,Uttar Pradesh,9,Kushinagar,0
+200,01-01-2021,Gujarat,24,Ahmedabad,3031
+201,01-01-2021,Uttar Pradesh,9,Lucknow,61
+202,01-01-2021,Karnataka,29,Manglore,28
+203,01-01-2021,Assam,18,Guwahati,0
+204,01-01-2021,Rajasthan,8,Jaipur,63
+205,01-01-2021,Kerala,32,Trivandrum,992
+206,01-01-2021,Delhi,7,Delhi,43810
+207,01-01-2021,Maharashtra,27,Mumbai,41721
+208,01-01-2021,Karnataka,29,Bangalore,19259
+209,01-01-2021,Telangana,36,Hyderabad,5892
+210,01-01-2021,Kerala,32,Cochin,2708
+211,01-01-2021,Maharashtra,27,Nagpur,0
+212,01-01-2021,Kerala,32,Kannur,0
+213,01-01-2021,Bihar,10,Patna,0
+214,01-01-2021,Maharashtra,27,Pune,0
+215,01-01-2021,West Bengal,19,Bagdora,0
+216,01-01-2021,Chandigarh,4,Chandigarh,0
+217,01-01-2021,Andhra Pradesh,28,Visakhapatnam,1
+218,01-01-2021,Madhya Pradesh,23,Indore,11
+219,01-01-2021,Tamil Nadu,33,Madurai,33
+220,01-01-2021,Gujarat,24,Surat,0
+221,01-01-2021,Maharashtra,27,Aurangabad,0
+222,01-01-2021,Bihar,10,Gaya,0
+223,01-02-2021,West Bengal,19,Kolkata,2969
+224,01-02-2021,Tamil Nadu,33,Chennai,21769
+225,01-02-2021,Goa,30,Goa,5
+226,01-02-2021,Jammu and Kashmir,1,Srinagar,0
+227,01-02-2021,Odisha,21,Bhubaneswar,0
+228,01-02-2021,Uttar Pradesh,9,Varanasi,1
+229,01-02-2021,Kerala,32,Calicut,603
+230,01-02-2021,Punjab,3,Amritsar,35
+231,01-02-2021,Tamil Nadu,33,Coimbatore,43
+232,01-02-2021,Andhra Pradesh,28,Vijayawada,0
+233,01-02-2021,Manipur,14,Imphal,0
+234,01-02-2021,Andaman and Nicobar Islands,35,Portblair,0
+235,01-02-2021,Tamil Nadu,33,Trichy,307
+236,01-02-2021,Andhra Pradesh,28,Tirupati,0
+237,01-02-2021,Uttar Pradesh,9,Kushinagar,0
+238,01-02-2021,Gujarat,24,Ahmedabad,3189
+239,01-02-2021,Uttar Pradesh,9,Lucknow,130
+240,01-02-2021,Karnataka,29,Manglore,18
+241,01-02-2021,Assam,18,Guwahati,0
+242,01-02-2021,Rajasthan,8,Jaipur,12
+243,01-02-2021,Kerala,32,Trivandrum,902
+244,01-02-2021,Delhi,7,Delhi,43318
+245,01-02-2021,Maharashtra,27,Mumbai,44209
+246,01-02-2021,Karnataka,29,Bangalore,19060
+247,01-02-2021,Telangana,36,Hyderabad,6248
+248,01-02-2021,Kerala,32,Cochin,2758
+249,01-02-2021,Maharashtra,27,Nagpur,3
+250,01-02-2021,Kerala,32,Kannur,0
+251,01-02-2021,Bihar,10,Patna,0
+252,01-02-2021,Maharashtra,27,Pune,0
+253,01-02-2021,West Bengal,19,Bagdora,0
+254,01-02-2021,Chandigarh,4,Chandigarh,0
+255,01-02-2021,Andhra Pradesh,28,Visakhapatnam,0
+256,01-02-2021,Madhya Pradesh,23,Indore,7
+257,01-02-2021,Tamil Nadu,33,Madurai,28
+258,01-02-2021,Gujarat,24,Surat,0
+259,01-02-2021,Maharashtra,27,Aurangabad,0
+260,01-02-2021,Bihar,10,Gaya,0
+261,01-03-2021,West Bengal,19,Kolkata,4201
+262,01-03-2021,Tamil Nadu,33,Chennai,26770
+263,01-03-2021,Goa,30,Goa,4
+264,01-03-2021,Jammu and Kashmir,1,Srinagar,0
+265,01-03-2021,Odisha,21,Bhubaneswar,0
+266,01-03-2021,Uttar Pradesh,9,Varanasi,0
+267,01-03-2021,Kerala,32,Calicut,643
+268,01-03-2021,Punjab,3,Amritsar,43
+269,01-03-2021,Tamil Nadu,33,Coimbatore,68
+270,01-03-2021,Andhra Pradesh,28,Vijayawada,0
+271,01-03-2021,Manipur,14,Imphal,0
+272,01-03-2021,Andaman and Nicobar Islands,35,Portblair,0
+273,01-03-2021,Tamil Nadu,33,Trichy,414
+274,01-03-2021,Andhra Pradesh,28,Tirupati,0
+275,01-03-2021,Uttar Pradesh,9,Kushinagar,0
+276,01-03-2021,Gujarat,24,Ahmedabad,3684
+277,01-03-2021,Uttar Pradesh,9,Lucknow,90
+278,01-03-2021,Karnataka,29,Manglore,58
+279,01-03-2021,Assam,18,Guwahati,0
+280,01-03-2021,Rajasthan,8,Jaipur,20
+281,01-03-2021,Kerala,32,Trivandrum,1132
+282,01-03-2021,Delhi,7,Delhi,51631
+283,01-03-2021,Maharashtra,27,Mumbai,51579
+284,01-03-2021,Karnataka,29,Bangalore,21966
+285,01-03-2021,Telangana,36,Hyderabad,6796
+286,01-03-2021,Kerala,32,Cochin,3324
+287,01-03-2021,Maharashtra,27,Nagpur,0
+288,01-03-2021,Kerala,32,Kannur,0
+289,01-03-2021,Bihar,10,Patna,0
+290,01-03-2021,Maharashtra,27,Pune,0
+291,01-03-2021,West Bengal,19,Bagdora,0
+292,01-03-2021,Chandigarh,4,Chandigarh,0
+293,01-03-2021,Andhra Pradesh,28,Visakhapatnam,0
+294,01-03-2021,Madhya Pradesh,23,Indore,10
+295,01-03-2021,Tamil Nadu,33,Madurai,34
+296,01-03-2021,Gujarat,24,Surat,0
+297,01-03-2021,Maharashtra,27,Aurangabad,0
+298,01-03-2021,Bihar,10,Gaya,0
+299,01-04-2021,West Bengal,19,Kolkata,3446
+300,01-04-2021,Tamil Nadu,33,Chennai,24447
+301,01-04-2021,Goa,30,Goa,13
+302,01-04-2021,Jammu and Kashmir,1,Srinagar,0
+303,01-04-2021,Odisha,21,Bhubaneswar,0
+304,01-04-2021,Uttar Pradesh,9,Varanasi,0
+305,01-04-2021,Kerala,32,Calicut,753
+306,01-04-2021,Punjab,3,Amritsar,51
+307,01-04-2021,Tamil Nadu,33,Coimbatore,66
+308,01-04-2021,Andhra Pradesh,28,Vijayawada,0
+309,01-04-2021,Manipur,14,Imphal,0
+310,01-04-2021,Andaman and Nicobar Islands,35,Portblair,0
+311,01-04-2021,Tamil Nadu,33,Trichy,0
+312,01-04-2021,Andhra Pradesh,28,Tirupati,337
+313,01-04-2021,Uttar Pradesh,9,Kushinagar,0
+314,01-04-2021,Gujarat,24,Ahmedabad,3950
+315,01-04-2021,Uttar Pradesh,9,Lucknow,193
+316,01-04-2021,Karnataka,29,Manglore,0
+317,01-04-2021,Assam,18,Guwahati,14
+318,01-04-2021,Rajasthan,8,Jaipur,1267
+319,01-04-2021,Kerala,32,Trivandrum,86
+320,01-04-2021,Delhi,7,Delhi,50752
+321,01-04-2021,Maharashtra,27,Mumbai,49757
+322,01-04-2021,Karnataka,29,Bangalore,21743
+323,01-04-2021,Telangana,36,Hyderabad,5604
+324,01-04-2021,Kerala,32,Cochin,3610
+325,01-04-2021,Maharashtra,27,Nagpur,0
+326,01-04-2021,Kerala,32,Kannur,0
+327,01-04-2021,Bihar,10,Patna,0
+328,01-04-2021,Maharashtra,27,Pune,0
+329,01-04-2021,West Bengal,19,Bagdora,0
+330,01-04-2021,Chandigarh,4,Chandigarh,0
+331,01-04-2021,Andhra Pradesh,28,Visakhapatnam,7
+332,01-04-2021,Madhya Pradesh,23,Indore,2
+333,01-04-2021,Tamil Nadu,33,Madurai,0
+334,01-04-2021,Gujarat,24,Surat,50
+335,01-04-2021,Maharashtra,27,Aurangabad,0
+336,01-04-2021,Bihar,10,Gaya,0
+337,01-05-2021,West Bengal,19,Kolkata,2773
+338,01-05-2021,Tamil Nadu,33,Chennai,22160
+339,01-05-2021,Goa,30,Goa,1
+340,01-05-2021,Jammu and Kashmir,1,Srinagar,0
+341,01-05-2021,Odisha,21,Bhubaneswar,31
+342,01-05-2021,Uttar Pradesh,9,Varanasi,0
+343,01-05-2021,Kerala,32,Calicut,559
+344,01-05-2021,Punjab,3,Amritsar,40
+345,01-05-2021,Tamil Nadu,33,Coimbatore,57
+346,01-05-2021,Andhra Pradesh,28,Vijayawada,0
+347,01-05-2021,Manipur,14,Imphal,0
+348,01-05-2021,Andaman and Nicobar Islands,35,Portblair,0
+349,01-05-2021,Tamil Nadu,33,Trichy,0
+350,01-05-2021,Andhra Pradesh,28,Tirupati,249
+351,01-05-2021,Uttar Pradesh,9,Kushinagar,0
+352,01-05-2021,Gujarat,24,Ahmedabad,3996
+353,01-05-2021,Uttar Pradesh,9,Lucknow,145
+354,01-05-2021,Karnataka,29,Manglore,0
+355,01-05-2021,Assam,18,Guwahati,18
+356,01-05-2021,Rajasthan,8,Jaipur,1300
+357,01-05-2021,Kerala,32,Trivandrum,38
+358,01-05-2021,Delhi,7,Delhi,53998
+359,01-05-2021,Maharashtra,27,Mumbai,48664
+360,01-05-2021,Karnataka,29,Bangalore,20926
+361,01-05-2021,Telangana,36,Hyderabad,6192
+362,01-05-2021,Kerala,32,Cochin,3058
+363,01-05-2021,Maharashtra,27,Nagpur,0
+364,01-05-2021,Kerala,32,Kannur,0
+365,01-05-2021,Bihar,10,Patna,0
+366,01-05-2021,Maharashtra,27,Pune,0
+367,01-05-2021,West Bengal,19,Bagdora,0
+368,01-05-2021,Chandigarh,4,Chandigarh,0
+369,01-05-2021,Andhra Pradesh,28,Visakhapatnam,3
+370,01-05-2021,Madhya Pradesh,23,Indore,7
+371,01-05-2021,Tamil Nadu,33,Madurai,0
+372,01-05-2021,Gujarat,24,Surat,27
+373,01-05-2021,Maharashtra,27,Aurangabad,0
+374,01-05-2021,Bihar,10,Gaya,0
+375,01-06-2021,West Bengal,19,Kolkata,3281
+376,01-06-2021,Tamil Nadu,33,Chennai,21786
+377,01-06-2021,Goa,30,Goa,1
+378,01-06-2021,Jammu and Kashmir,1,Srinagar,0
+379,01-06-2021,Odisha,21,Bhubaneswar,0
+380,01-06-2021,Uttar Pradesh,9,Varanasi,0
+381,01-06-2021,Kerala,32,Calicut,477
+382,01-06-2021,Punjab,3,Amritsar,39
+383,01-06-2021,Tamil Nadu,33,Coimbatore,39
+384,01-06-2021,Andhra Pradesh,28,Vijayawada,0
+385,01-06-2021,Manipur,14,Imphal,0
+386,01-06-2021,Andaman and Nicobar Islands,35,Portblair,0
+387,01-06-2021,Tamil Nadu,33,Trichy,350
+388,01-06-2021,Andhra Pradesh,28,Tirupati,0
+389,01-06-2021,Uttar Pradesh,9,Kushinagar,0
+390,01-06-2021,Gujarat,24,Ahmedabad,4031
+391,01-06-2021,Uttar Pradesh,9,Lucknow,89
+392,01-06-2021,Karnataka,29,Manglore,32
+393,01-06-2021,Assam,18,Guwahati,5
+394,01-06-2021,Rajasthan,8,Jaipur,17
+395,01-06-2021,Kerala,32,Trivandrum,1227
+396,01-06-2021,Delhi,7,Delhi,49720
+397,01-06-2021,Maharashtra,27,Mumbai,46465
+398,01-06-2021,Karnataka,29,Bangalore,20666
+399,01-06-2021,Telangana,36,Hyderabad,6196
+400,01-06-2021,Kerala,32,Cochin,2903
+401,01-06-2021,Maharashtra,27,Nagpur,0
+402,01-06-2021,Kerala,32,Kannur,0
+403,01-06-2021,Bihar,10,Patna,0
+404,01-06-2021,Maharashtra,27,Pune,0
+405,01-06-2021,West Bengal,19,Bagdora,0
+406,01-06-2021,Chandigarh,4,Chandigarh,0
+407,01-06-2021,Andhra Pradesh,28,Visakhapatnam,0
+408,01-06-2021,Madhya Pradesh,23,Indore,8
+409,01-06-2021,Tamil Nadu,33,Madurai,0
+410,01-06-2021,Gujarat,24,Surat,0
+411,01-06-2021,Maharashtra,27,Aurangabad,0
+412,01-06-2021,Bihar,10,Gaya,0
+413,01-07-2021,West Bengal,19,Kolkata,3516
+414,01-07-2021,Tamil Nadu,33,Chennai,24312
+415,01-07-2021,Goa,30,Goa,2
+416,01-07-2021,Jammu and Kashmir,1,Srinagar,0
+417,01-07-2021,Odisha,21,Bhubaneswar,0
+418,01-07-2021,Uttar Pradesh,9,Varanasi,0
+419,01-07-2021,Kerala,32,Calicut,606
+420,01-07-2021,Punjab,3,Amritsar,47
+421,01-07-2021,Tamil Nadu,33,Coimbatore,76
+422,01-07-2021,Andhra Pradesh,28,Vijayawada,0
+423,01-07-2021,Manipur,14,Imphal,0
+424,01-07-2021,Andaman and Nicobar Islands,35,Portblair,0
+425,01-07-2021,Tamil Nadu,33,Trichy,351
+426,01-07-2021,Andhra Pradesh,28,Tirupati,0
+427,01-07-2021,Uttar Pradesh,9,Kushinagar,0
+428,01-07-2021,Gujarat,24,Ahmedabad,3837
+429,01-07-2021,Uttar Pradesh,9,Lucknow,73
+430,01-07-2021,Karnataka,29,Manglore,65
+431,01-07-2021,Assam,18,Guwahati,28
+432,01-07-2021,Rajasthan,8,Jaipur,18
+433,01-07-2021,Kerala,32,Trivandrum,1372
+434,01-07-2021,Delhi,7,Delhi,48970
+435,01-07-2021,Maharashtra,27,Mumbai,45560
+436,01-07-2021,Karnataka,29,Bangalore,22758
+437,01-07-2021,Telangana,36,Hyderabad,6429
+438,01-07-2021,Kerala,32,Cochin,3821
+439,01-07-2021,Maharashtra,27,Nagpur,56
+440,01-07-2021,Kerala,32,Kannur,0
+441,01-07-2021,Bihar,10,Patna,0
+442,01-07-2021,Maharashtra,27,Pune,0
+443,01-07-2021,West Bengal,19,Bagdora,0
+444,01-07-2021,Chandigarh,4,Chandigarh,0
+445,01-07-2021,Andhra Pradesh,28,Visakhapatnam,0
+446,01-07-2021,Madhya Pradesh,23,Indore,0
+447,01-07-2021,Tamil Nadu,33,Madurai,7
+448,01-07-2021,Gujarat,24,Surat,0
+449,01-07-2021,Maharashtra,27,Aurangabad,0
+450,01-07-2021,Bihar,10,Gaya,0
+451,01-08-2021,West Bengal,19,Kolkata,3096
+452,01-08-2021,Tamil Nadu,33,Chennai,24083
+453,01-08-2021,Goa,30,Goa,15
+454,01-08-2021,Jammu and Kashmir,1,Srinagar,0
+455,01-08-2021,Odisha,21,Bhubaneswar,0
+456,01-08-2021,Uttar Pradesh,9,Varanasi,0
+457,01-08-2021,Kerala,32,Calicut,881
+458,01-08-2021,Punjab,3,Amritsar,84
+459,01-08-2021,Tamil Nadu,33,Coimbatore,54
+460,01-08-2021,Andhra Pradesh,28,Vijayawada,0
+461,01-08-2021,Manipur,14,Imphal,0
+462,01-08-2021,Andaman and Nicobar Islands,35,Portblair,0
+463,01-08-2021,Tamil Nadu,33,Trichy,404
+464,01-08-2021,Andhra Pradesh,28,Tirupati,0
+465,01-08-2021,Uttar Pradesh,9,Kushinagar,0
+466,01-08-2021,Gujarat,24,Ahmedabad,3754
+467,01-08-2021,Uttar Pradesh,9,Lucknow,162
+468,01-08-2021,Karnataka,29,Manglore,83
+469,01-08-2021,Assam,18,Guwahati,11
+470,01-08-2021,Rajasthan,8,Jaipur,17
+471,01-08-2021,Kerala,32,Trivandrum,1555
+472,01-08-2021,Delhi,7,Delhi,48488
+473,01-08-2021,Maharashtra,27,Mumbai,44782
+474,01-08-2021,Karnataka,29,Bangalore,24316
+475,01-08-2021,Telangana,36,Hyderabad,6004
+476,01-08-2021,Kerala,32,Cochin,3783
+477,01-08-2021,Maharashtra,27,Nagpur,48
+478,01-08-2021,Kerala,32,Kannur,0
+479,01-08-2021,Bihar,10,Patna,0
+480,01-08-2021,Maharashtra,27,Pune,0
+481,01-08-2021,West Bengal,19,Bagdora,0
+482,01-08-2021,Chandigarh,4,Chandigarh,0
+483,01-08-2021,Andhra Pradesh,28,Visakhapatnam,1
+484,01-08-2021,Madhya Pradesh,23,Indore,2
+485,01-08-2021,Tamil Nadu,33,Madurai,0
+486,01-08-2021,Gujarat,24,Surat,0
+487,01-08-2021,Maharashtra,27,Aurangabad,0
+488,01-08-2021,Bihar,10,Gaya,0
+489,01-09-2021,West Bengal,19,Kolkata,5027
+490,01-09-2021,Tamil Nadu,33,Chennai,26780
+491,01-09-2021,Goa,30,Goa,58
+492,01-09-2021,Jammu and Kashmir,1,Srinagar,0
+493,01-09-2021,Odisha,21,Bhubaneswar,0
+494,01-09-2021,Uttar Pradesh,9,Varanasi,0
+495,01-09-2021,Kerala,32,Calicut,977
+496,01-09-2021,Punjab,3,Amritsar,86
+497,01-09-2021,Tamil Nadu,33,Coimbatore,70
+498,01-09-2021,Andhra Pradesh,28,Vijayawada,0
+499,01-09-2021,Manipur,14,Imphal,0
+500,01-09-2021,Andaman and Nicobar Islands,35,Portblair,0
+501,01-09-2021,Tamil Nadu,33,Trichy,416
+502,01-09-2021,Andhra Pradesh,28,Tirupati,0
+503,01-09-2021,Uttar Pradesh,9,Kushinagar,0
+504,01-09-2021,Gujarat,24,Ahmedabad,3548
+505,01-09-2021,Uttar Pradesh,9,Lucknow,287
+506,01-09-2021,Karnataka,29,Manglore,168
+507,01-09-2021,Assam,18,Guwahati,0
+508,01-09-2021,Rajasthan,8,Jaipur,17
+509,01-09-2021,Kerala,32,Trivandrum,1307
+510,01-09-2021,Delhi,7,Delhi,50332
+511,01-09-2021,Maharashtra,27,Mumbai,46010
+512,01-09-2021,Karnataka,29,Bangalore,24440
+513,01-09-2021,Telangana,36,Hyderabad,6304
+514,01-09-2021,Kerala,32,Cochin,3911
+515,01-09-2021,Maharashtra,27,Nagpur,32
+516,01-09-2021,Kerala,32,Kannur,0
+517,01-09-2021,Bihar,10,Patna,0
+518,01-09-2021,Maharashtra,27,Pune,0
+519,01-09-2021,West Bengal,19,Bagdora,0
+520,01-09-2021,Chandigarh,4,Chandigarh,0
+521,01-09-2021,Andhra Pradesh,28,Visakhapatnam,1
+522,01-09-2021,Madhya Pradesh,23,Indore,10
+523,01-09-2021,Tamil Nadu,33,Madurai,5
+524,01-09-2021,Gujarat,24,Surat,0
+525,01-09-2021,Maharashtra,27,Aurangabad,0
+526,01-09-2021,Bihar,10,Gaya,0
+527,01-10-2021,West Bengal,19,Kolkata,5460
+528,01-10-2021,Tamil Nadu,33,Chennai,25604
+529,01-10-2021,Goa,30,Goa,112
+530,01-10-2021,Jammu and Kashmir,1,Srinagar,0
+531,01-10-2021,Odisha,21,Bhubaneswar,0
+532,01-10-2021,Uttar Pradesh,9,Varanasi,0
+533,01-10-2021,Kerala,32,Calicut,1507
+534,01-10-2021,Punjab,3,Amritsar,82
+535,01-10-2021,Tamil Nadu,33,Coimbatore,89
+536,01-10-2021,Andhra Pradesh,28,Vijayawada,0
+537,01-10-2021,Manipur,14,Imphal,0
+538,01-10-2021,Andaman and Nicobar Islands,35,Portblair,0
+539,01-10-2021,Tamil Nadu,33,Trichy,433
+540,01-10-2021,Andhra Pradesh,28,Tirupati,0
+541,01-10-2021,Uttar Pradesh,9,Kushinagar,0
+542,01-10-2021,Gujarat,24,Ahmedabad,4375
+543,01-10-2021,Uttar Pradesh,9,Lucknow,288
+544,01-10-2021,Karnataka,29,Manglore,94
+545,01-10-2021,Assam,18,Guwahati,0
+546,01-10-2021,Rajasthan,8,Jaipur,16
+547,01-10-2021,Kerala,32,Trivandrum,1348
+548,01-10-2021,Delhi,7,Delhi,57295
+549,01-10-2021,Maharashtra,27,Mumbai,50638
+550,01-10-2021,Karnataka,29,Bangalore,25657
+551,01-10-2021,Telangana,36,Hyderabad,6646
+552,01-10-2021,Kerala,32,Cochin,4016
+553,01-10-2021,Maharashtra,27,Nagpur,66
+554,01-10-2021,Kerala,32,Kannur,99
+555,01-10-2021,Bihar,10,Patna,0
+556,01-10-2021,Maharashtra,27,Pune,0
+557,01-10-2021,West Bengal,19,Bagdora,0
+558,01-10-2021,Chandigarh,4,Chandigarh,0
+559,01-10-2021,Andhra Pradesh,28,Visakhapatnam,0
+560,01-10-2021,Madhya Pradesh,23,Indore,5
+561,01-10-2021,Tamil Nadu,33,Madurai,22
+562,01-10-2021,Gujarat,24,Surat,0
+563,01-10-2021,Maharashtra,27,Aurangabad,0
+564,01-10-2021,Bihar,10,Gaya,0
+565,01-11-2021,West Bengal,19,Kolkata,4984
+566,01-11-2021,Tamil Nadu,33,Chennai,21439
+567,01-11-2021,Goa,30,Goa,76
+568,01-11-2021,Jammu and Kashmir,1,Srinagar,0
+569,01-11-2021,Odisha,21,Bhubaneswar,0
+570,01-11-2021,Uttar Pradesh,9,Varanasi,16
+571,01-11-2021,Kerala,32,Calicut,1287
+572,01-11-2021,Punjab,3,Amritsar,85
+573,01-11-2021,Tamil Nadu,33,Coimbatore,48
+574,01-11-2021,Andhra Pradesh,28,Vijayawada,0
+575,01-11-2021,Manipur,14,Imphal,0
+576,01-11-2021,Andaman and Nicobar Islands,35,Portblair,0
+577,01-11-2021,Tamil Nadu,33,Trichy,548
+578,01-11-2021,Andhra Pradesh,28,Tirupati,0
+579,01-11-2021,Uttar Pradesh,9,Kushinagar,0
+580,01-11-2021,Gujarat,24,Ahmedabad,3996
+581,01-11-2021,Uttar Pradesh,9,Lucknow,310
+582,01-11-2021,Karnataka,29,Manglore,86
+583,01-11-2021,Assam,18,Guwahati,0
+584,01-11-2021,Rajasthan,8,Jaipur,16
+585,01-11-2021,Kerala,32,Trivandrum,1070
+586,01-11-2021,Delhi,7,Delhi,48147
+587,01-11-2021,Maharashtra,27,Mumbai,44386
+588,01-11-2021,Karnataka,29,Bangalore,22590
+589,01-11-2021,Telangana,36,Hyderabad,6351
+590,01-11-2021,Kerala,32,Cochin,3408
+591,01-11-2021,Maharashtra,27,Nagpur,89
+592,01-11-2021,Kerala,32,Kannur,231
+593,01-11-2021,Bihar,10,Patna,0
+594,01-11-2021,Maharashtra,27,Pune,0
+595,01-11-2021,West Bengal,19,Bagdora,0
+596,01-11-2021,Chandigarh,4,Chandigarh,0
+597,01-11-2021,Andhra Pradesh,28,Visakhapatnam,0
+598,01-11-2021,Madhya Pradesh,23,Indore,9
+599,01-11-2021,Tamil Nadu,33,Madurai,25
+600,01-11-2021,Gujarat,24,Surat,0
+601,01-11-2021,Maharashtra,27,Aurangabad,0
+602,01-11-2021,Bihar,10,Gaya,0
+603,01-12-2021,West Bengal,19,Kolkata,4169
+604,01-12-2021,Tamil Nadu,33,Chennai,22618
+605,01-12-2021,Goa,30,Goa,80
+606,01-12-2021,Jammu and Kashmir,1,Srinagar,0
+607,01-12-2021,Odisha,21,Bhubaneswar,0
+608,01-12-2021,Uttar Pradesh,9,Varanasi,67
+609,01-12-2021,Kerala,32,Calicut,629
+610,01-12-2021,Punjab,3,Amritsar,70
+611,01-12-2021,Tamil Nadu,33,Coimbatore,55
+612,01-12-2021,Andhra Pradesh,28,Vijayawada,0
+613,01-12-2021,Manipur,14,Imphal,0
+614,01-12-2021,Andaman and Nicobar Islands,35,Portblair,0
+615,01-12-2021,Tamil Nadu,33,Trichy,574
+616,01-12-2021,Andhra Pradesh,28,Tirupati,0
+617,01-12-2021,Uttar Pradesh,9,Kushinagar,0
+618,01-12-2021,Gujarat,24,Ahmedabad,4209
+619,01-12-2021,Uttar Pradesh,9,Lucknow,302
+620,01-12-2021,Karnataka,29,Manglore,90
+621,01-12-2021,Assam,18,Guwahati,0
+622,01-12-2021,Rajasthan,8,Jaipur,23
+623,01-12-2021,Kerala,32,Trivandrum,1042
+624,01-12-2021,Delhi,7,Delhi,51508
+625,01-12-2021,Maharashtra,27,Mumbai,47917
+626,01-12-2021,Karnataka,29,Bangalore,22336
+627,01-12-2021,Telangana,36,Hyderabad,6691
+628,01-12-2021,Kerala,32,Cochin,3653
+629,01-12-2021,Maharashtra,27,Nagpur,34
+630,01-12-2021,Kerala,32,Kannur,164
+631,01-12-2021,Bihar,10,Patna,0
+632,01-12-2021,Maharashtra,27,Pune,0
+633,01-12-2021,West Bengal,19,Bagdora,0
+634,01-12-2021,Chandigarh,4,Chandigarh,0
+635,01-12-2021,Andhra Pradesh,28,Visakhapatnam,0
+636,01-12-2021,Madhya Pradesh,23,Indore,8
+637,01-12-2021,Tamil Nadu,33,Madurai,18
+638,01-12-2021,Gujarat,24,Surat,0
+639,01-12-2021,Maharashtra,27,Aurangabad,0
+640,01-12-2021,Bihar,10,Gaya,0
+641,01-01-2020,Tamil Nadu,33,Chennai,23143
+642,01-01-2020,West Bengal,19,Kolkata,4673
+643,01-01-2020,Gujarat,24,Ahmedabad,3097
+644,01-01-2020,Goa,30,Goa,104
+645,01-01-2020,Assam,18,Guwahati,7
+646,01-01-2020,Uttar Pradesh,9,Lucknow,226
+647,01-01-2020,Rajasthan,8,Jaipur,248
+648,01-01-2020,Kerala,32,Trivandrum,1801
+649,01-01-2020,Odisha,21,Bhubaneswar,0
+650,01-01-2020,Kerala,32,Calicut,1694
+651,01-01-2020,Tamil Nadu,33,Coimbatore,178
+652,01-01-2020,Uttar Pradesh,9,Varanasi,0
+653,01-01-2020,Jammu and Kashmir,1,Srinagar,0
+654,01-01-2020,Punjab,3,Amritsar,73
+655,01-01-2020,Karnataka,29,Mangalore,148
+656,01-01-2020,Andaman and Nicobar Islands,35,Portblair,0
+657,01-01-2020,Tamil Nadu,33,Trichy,601
+658,01-01-2020,Manipur,14,Imphal,0
+659,01-01-2020,Andhra Pradesh,28,Vijayawada,0
+660,01-01-2020,Andhra Pradesh,28,Tirupati,0
+661,01-01-2020,Delhi,7,Delhi,50326
+662,01-01-2020,Maharashtra,27,Mumbai,51828
+663,01-01-2020,Karnataka,29,Bangalore,18363
+664,01-01-2020,Telangana,36,Hyderabad,6497
+665,01-01-2020,Kerala,32,Cochin,5042
+666,01-01-2020,Maharashtra,27,Nagpur,83
+667,01-01-2020,Kerala,32,Kannur,0
+668,01-01-2020,Maharashtra,27,Pune,39
+669,01-01-2020,Bihar,10,Patna,0
+670,01-01-2020,West Bengal,19,Bagdogra,0
+671,01-01-2020,Andhra Pradesh,28,Visakhapatnam,37
+672,01-01-2020,Chandigarh,4,Chandigarh,0
+673,01-01-2020,Tamil Nadu,33,Madurai,126
+674,01-01-2020,Gujarat,24,Surat,0
+675,01-01-2020,Maharashtra,27,Aurangabad,0
+676,01-01-2020,Bihar,10,Gaya,0
+677,01-01-2020,Madhya Pradesh,23,Indore,0
+678,01-02-2020,Tamil Nadu,33,Chennai,20749
+679,01-02-2020,West Bengal,19,Kolkata,3936
+680,01-02-2020,Gujarat,24,Ahmedabad,3327
+681,01-02-2020,Goa,30,Goa,55
+682,01-02-2020,Assam,18,Guwahati,0
+683,01-02-2020,Uttar Pradesh,9,Lucknow,205
+684,01-02-2020,Rajasthan,8,Jaipur,196
+685,01-02-2020,Kerala,32,Trivandrum,1620
+686,01-02-2020,Odisha,21,Bhubaneswar,6
+687,01-02-2020,Kerala,32,Calicut,2370
+688,01-02-2020,Tamil Nadu,33,Coimbatore,233
+689,01-02-2020,Uttar Pradesh,9,Varanasi,0
+690,01-02-2020,Jammu and Kashmir,1,Srinagar,0
+691,01-02-2020,Punjab,3,Amritsar,83
+692,01-02-2020,Karnataka,29,Mangalore,316
+693,01-02-2020,Andaman and Nicobar Islands,35,Portblair,0
+694,01-02-2020,Tamil Nadu,33,Trichy,777
+695,01-02-2020,Manipur,14,Imphal,0
+696,01-02-2020,Andhra Pradesh,28,Vijayawada,0
+697,01-02-2020,Andhra Pradesh,28,Tirupati,0
+698,01-02-2020,Delhi,7,Delhi,47331
+699,01-02-2020,Maharashtra,27,Mumbai,49453
+700,01-02-2020,Karnataka,29,Bangalore,19063
+701,01-02-2020,Telangana,36,Hyderabad,6897
+702,01-02-2020,Kerala,32,Cochin,4622
+703,01-02-2020,Maharashtra,27,Nagpur,30
+704,01-02-2020,Kerala,32,Kannur,0
+705,01-02-2020,Maharashtra,27,Pune,57
+706,01-02-2020,Bihar,10,Patna,0
+707,01-02-2020,West Bengal,19,Bagdogra,0
+708,01-02-2020,Andhra Pradesh,28,Visakhapatnam,32
+709,01-02-2020,Chandigarh,4,Chandigarh,0
+710,01-02-2020,Tamil Nadu,33,Madurai,150
+711,01-02-2020,Gujarat,24,Surat,0
+712,01-02-2020,Maharashtra,27,Aurangabad,0
+713,01-02-2020,Bihar,10,Gaya,0
+714,01-02-2020,Madhya Pradesh,23,Indore,25
+715,01-03-2020,Tamil Nadu,33,Chennai,28699
+716,01-03-2020,West Bengal,19,Kolkata,5516
+717,01-03-2020,Gujarat,24,Ahmedabad,3782
+718,01-03-2020,Goa,30,Goa,132
+719,01-03-2020,Assam,18,Guwahati,0
+720,01-03-2020,Uttar Pradesh,9,Lucknow,0
+721,01-03-2020,Rajasthan,8,Jaipur,1211
+722,01-03-2020,Kerala,32,Trivandrum,2289
+723,01-03-2020,Odisha,21,Bhubaneswar,0
+724,01-03-2020,Kerala,32,Calicut,2113
+725,01-03-2020,Tamil Nadu,33,Coimbatore,277
+726,01-03-2020,Uttar Pradesh,9,Varanasi,0
+727,01-03-2020,Jammu and Kashmir,1,Srinagar,0
+728,01-03-2020,Punjab,3,Amritsar,0
+729,01-03-2020,Karnataka,29,Mangalore,226
+730,01-03-2020,Andaman and Nicobar Islands,35,Portblair,0
+731,01-03-2020,Tamil Nadu,33,Trichy,720
+732,01-03-2020,Manipur,14,Imphal,0
+733,01-03-2020,Andhra Pradesh,28,Vijayawada,0
+734,01-03-2020,Andhra Pradesh,28,Tirupati,0
+735,01-03-2020,Delhi,7,Delhi,55226
+736,01-03-2020,Maharashtra,27,Mumbai,60233
+737,01-03-2020,Karnataka,29,Bangalore,21568
+738,01-03-2020,Telangana,36,Hyderabad,7766
+739,01-03-2020,Kerala,32,Cochin,5162
+740,01-03-2020,Maharashtra,27,Nagpur,58
+741,01-03-2020,Kerala,32,Kannur,0
+742,01-03-2020,Maharashtra,27,Pune,9
+743,01-03-2020,Bihar,10,Patna,0
+744,01-03-2020,West Bengal,19,Bagdogra,0
+745,01-03-2020,Andhra Pradesh,28,Visakhapatnam,52
+746,01-03-2020,Chandigarh,4,Chandigarh,0
+747,01-03-2020,Tamil Nadu,33,Madurai,198
+748,01-03-2020,Gujarat,24,Surat,0
+749,01-03-2020,Maharashtra,27,Aurangabad,0
+750,01-03-2020,Bihar,10,Gaya,0
+751,01-03-2020,Madhya Pradesh,23,Indore,0
+752,01-04-2020,Tamil Nadu,33,Chennai,24754
+753,01-04-2020,West Bengal,19,Kolkata,5153
+754,01-04-2020,Gujarat,24,Ahmedabad,4192
+755,01-04-2020,Goa,30,Goa,159
+756,01-04-2020,Assam,18,Guwahati,0
+757,01-04-2020,Uttar Pradesh,9,Lucknow,368
+758,01-04-2020,Rajasthan,8,Jaipur,240
+759,01-04-2020,Kerala,32,Trivandrum,2066
+760,01-04-2020,Odisha,21,Bhubaneswar,0
+761,01-04-2020,Kerala,32,Calicut,2340
+762,01-04-2020,Tamil Nadu,33,Coimbatore,215
+763,01-04-2020,Uttar Pradesh,9,Varanasi,2
+764,01-04-2020,Jammu and Kashmir,1,Srinagar,0
+765,01-04-2020,Punjab,3,Amritsar,201
+766,01-04-2020,Karnataka,29,Mangalore,250
+767,01-04-2020,Andaman and Nicobar Islands,35,Portblair,0
+768,01-04-2020,Tamil Nadu,33,Trichy,672
+769,01-04-2020,Manipur,14,Imphal,0
+770,01-04-2020,Andhra Pradesh,28,Vijayawada,0
+771,01-04-2020,Andhra Pradesh,28,Tirupati,0
+772,01-04-2020,Delhi,7,Delhi,52204
+773,01-04-2020,Maharashtra,27,Mumbai,48712
+774,01-04-2020,Karnataka,29,Bangalore,19610
+775,01-04-2020,Telangana,36,Hyderabad,7193
+776,01-04-2020,Kerala,32,Cochin,5001
+777,01-04-2020,Maharashtra,27,Nagpur,79
+778,01-04-2020,Kerala,32,Kannur,0
+779,01-04-2020,Maharashtra,27,Pune,3
+780,01-04-2020,Bihar,10,Patna,0
+781,01-04-2020,West Bengal,19,Bagdogra,0
+782,01-04-2020,Andhra Pradesh,28,Visakhapatnam,42
+783,01-04-2020,Chandigarh,4,Chandigarh,0
+784,01-04-2020,Tamil Nadu,33,Madurai,160
+785,01-04-2020,Gujarat,24,Surat,0
+786,01-04-2020,Maharashtra,27,Aurangabad,0
+787,01-04-2020,Bihar,10,Gaya,0
+788,01-04-2020,Madhya Pradesh,23,Indore,29
+789,01-05-2020,Tamil Nadu,33,Chennai,24168
+790,01-05-2020,West Bengal,19,Kolkata,4969
+791,01-05-2020,Gujarat,24,Ahmedabad,4045
+792,01-05-2020,Goa,30,Goa,138
+793,01-05-2020,Assam,18,Guwahati,0
+794,01-05-2020,Uttar Pradesh,9,Lucknow,383
+795,01-05-2020,Rajasthan,8,Jaipur,198
+796,01-05-2020,Kerala,32,Trivandrum,1915
+797,01-05-2020,Odisha,21,Bhubaneswar,0
+798,01-05-2020,Kerala,32,Calicut,2343
+799,01-05-2020,Tamil Nadu,33,Coimbatore,259
+800,01-05-2020,Uttar Pradesh,9,Varanasi,3
+801,01-05-2020,Jammu and Kashmir,1,Srinagar,0
+802,01-05-2020,Punjab,3,Amritsar,146
+803,01-05-2020,Karnataka,29,Mangalore,217
+804,01-05-2020,Andaman and Nicobar Islands,35,Portblair,0
+805,01-05-2020,Tamil Nadu,33,Trichy,670
+806,01-05-2020,Manipur,14,Imphal,0
+807,01-05-2020,Andhra Pradesh,28,Vijayawada,0
+808,01-05-2020,Andhra Pradesh,28,Tirupati,0
+809,01-05-2020,Delhi,7,Delhi,53305
+810,01-05-2020,Maharashtra,27,Mumbai,55028
+811,01-05-2020,Karnataka,29,Bangalore,19968
+812,01-05-2020,Telangana,36,Hyderabad,7772
+813,01-05-2020,Kerala,32,Cochin,5501
+814,01-05-2020,Maharashtra,27,Nagpur,31
+815,01-05-2020,Kerala,32,Kannur,0
+816,01-05-2020,Maharashtra,27,Pune,2
+817,01-05-2020,Bihar,10,Patna,0
+818,01-05-2020,West Bengal,19,Bagdogra,0
+819,01-05-2020,Andhra Pradesh,28,Visakhapatnam,20
+820,01-05-2020,Chandigarh,4,Chandigarh,0
+821,01-05-2020,Tamil Nadu,33,Madurai,119
+822,01-05-2020,Gujarat,24,Surat,0
+823,01-05-2020,Maharashtra,27,Aurangabad,0
+824,01-05-2020,Bihar,10,Gaya,0
+825,01-05-2020,Madhya Pradesh,23,Indore,171
+826,01-06-2020,Tamil Nadu,33,Chennai,12910
+827,01-06-2020,West Bengal,19,Kolkata,2468
+828,01-06-2020,Gujarat,24,Ahmedabad,637
+829,01-06-2020,Goa,30,Goa,1
+830,01-06-2020,Assam,18,Guwahati,0
+831,01-06-2020,Uttar Pradesh,9,Lucknow,71
+832,01-06-2020,Rajasthan,8,Jaipur,0
+833,01-06-2020,Kerala,32,Trivandrum,1372
+834,01-06-2020,Odisha,21,Bhubaneswar,0
+835,01-06-2020,Kerala,32,Calicut,954
+836,01-06-2020,Tamil Nadu,33,Coimbatore,75
+837,01-06-2020,Uttar Pradesh,9,Varanasi,0
+838,01-06-2020,Jammu and Kashmir,1,Srinagar,0
+839,01-06-2020,Punjab,3,Amritsar,0
+840,01-06-2020,Karnataka,29,Mangalore,68
+841,01-06-2020,Andaman and Nicobar Islands,35,Portblair,0
+842,01-06-2020,Tamil Nadu,33,Trichy,200
+843,01-06-2020,Manipur,14,Imphal,0
+844,01-06-2020,Andhra Pradesh,28,Vijayawada,0
+845,01-06-2020,Andhra Pradesh,28,Tirupati,0
+846,01-06-2020,Delhi,7,Delhi,32614
+847,01-06-2020,Maharashtra,27,Mumbai,31618
+848,01-06-2020,Karnataka,29,Bangalore,16236
+849,01-06-2020,Telangana,36,Hyderabad,4798
+850,01-06-2020,Kerala,32,Cochin,3039
+851,01-06-2020,Maharashtra,27,Nagpur,0
+852,01-06-2020,Kerala,32,Kannur,0
+853,01-06-2020,Maharashtra,27,Pune,0
+854,01-06-2020,Bihar,10,Patna,0
+855,01-06-2020,West Bengal,19,Bagdogra,0
+856,01-06-2020,Andhra Pradesh,28,Visakhapatnam,0
+857,01-06-2020,Chandigarh,4,Chandigarh,0
+858,01-06-2020,Tamil Nadu,33,Madurai,1
+859,01-06-2020,Gujarat,24,Surat,0
+860,01-06-2020,Maharashtra,27,Aurangabad,0
+861,01-06-2020,Bihar,10,Gaya,0
+862,01-06-2020,Madhya Pradesh,23,Indore,5
+863,01-07-2020,Tamil Nadu,33,Chennai,15811
+864,01-07-2020,West Bengal,19,Kolkata,3276
+865,01-07-2020,Gujarat,24,Ahmedabad,4418
+866,01-07-2020,Goa,30,Goa,0
+867,01-07-2020,Assam,18,Guwahati,0
+868,01-07-2020,Uttar Pradesh,9,Lucknow,102
+869,01-07-2020,Rajasthan,8,Jaipur,0
+870,01-07-2020,Kerala,32,Trivandrum,1684
+871,01-07-2020,Odisha,21,Bhubaneswar,18
+872,01-07-2020,Kerala,32,Calicut,864
+873,01-07-2020,Tamil Nadu,33,Coimbatore,111
+874,01-07-2020,Uttar Pradesh,9,Varanasi,0
+875,01-07-2020,Jammu and Kashmir,1,Srinagar,0
+876,01-07-2020,Punjab,3,Amritsar,26
+877,01-07-2020,Karnataka,29,Mangalore,65
+878,01-07-2020,Andaman and Nicobar Islands,35,Portblair,0
+879,01-07-2020,Tamil Nadu,33,Trichy,136
+880,01-07-2020,Manipur,14,Imphal,0
+881,01-07-2020,Andhra Pradesh,28,Vijayawada,0
+882,01-07-2020,Andhra Pradesh,28,Tirupati,0
+883,01-07-2020,Delhi,7,Delhi,39752
+884,01-07-2020,Maharashtra,27,Mumbai,32295
+885,01-07-2020,Karnataka,29,Bangalore,16303
+886,01-07-2020,Telangana,36,Hyderabad,5078
+887,01-07-2020,Kerala,32,Cochin,3200
+888,01-07-2020,Maharashtra,27,Nagpur,0
+889,01-07-2020,Kerala,32,Kannur,0
+890,01-07-2020,Maharashtra,27,Pune,0
+891,01-07-2020,Bihar,10,Patna,0
+892,01-07-2020,West Bengal,19,Bagdogra,0
+893,01-07-2020,Andhra Pradesh,28,Visakhapatnam,0
+894,01-07-2020,Chandigarh,4,Chandigarh,0
+895,01-07-2020,Tamil Nadu,33,Madurai,4
+896,01-07-2020,Gujarat,24,Surat,0
+897,01-07-2020,Maharashtra,27,Aurangabad,0
+898,01-07-2020,Bihar,10,Gaya,0
+899,01-07-2020,Madhya Pradesh,23,Indore,4
+900,01-08-2020,Tamil Nadu,33,Chennai,18959
+901,01-08-2020,West Bengal,19,Kolkata,2894
+902,01-08-2020,Gujarat,24,Ahmedabad,941
+903,01-08-2020,Goa,30,Goa,8
+904,01-08-2020,Assam,18,Guwahati,0
+905,01-08-2020,Uttar Pradesh,9,Lucknow,109
+906,01-08-2020,Rajasthan,8,Jaipur,44
+907,01-08-2020,Kerala,32,Trivandrum,2023
+908,01-08-2020,Odisha,21,Bhubaneswar,0
+909,01-08-2020,Kerala,32,Calicut,1238
+910,01-08-2020,Tamil Nadu,33,Coimbatore,104
+911,01-08-2020,Uttar Pradesh,9,Varanasi,0
+912,01-08-2020,Jammu and Kashmir,1,Srinagar,0
+913,01-08-2020,Punjab,3,Amritsar,16
+914,01-08-2020,Karnataka,29,Mangalore,109
+915,01-08-2020,Andaman and Nicobar Islands,35,Portblair,0
+916,01-08-2020,Tamil Nadu,33,Trichy,168
+917,01-08-2020,Manipur,14,Imphal,0
+918,01-08-2020,Andhra Pradesh,28,Vijayawada,0
+919,01-08-2020,Andhra Pradesh,28,Tirupati,0
+920,01-08-2020,Delhi,7,Delhi,42530
+921,01-08-2020,Maharashtra,27,Mumbai,33084
+922,01-08-2020,Karnataka,29,Bangalore,17139
+923,01-08-2020,Telangana,36,Hyderabad,5277
+924,01-08-2020,Kerala,32,Cochin,3824
+925,01-08-2020,Maharashtra,27,Nagpur,0
+926,01-08-2020,Kerala,32,Kannur,0
+927,01-08-2020,Maharashtra,27,Pune,0
+928,01-08-2020,Bihar,10,Patna,0
+929,01-08-2020,West Bengal,19,Bagdogra,0
+930,01-08-2020,Andhra Pradesh,28,Visakhapatnam,1
+931,01-08-2020,Chandigarh,4,Chandigarh,0
+932,01-08-2020,Tamil Nadu,33,Madurai,0
+933,01-08-2020,Gujarat,24,Surat,0
+934,01-08-2020,Maharashtra,27,Aurangabad,0
+935,01-08-2020,Bihar,10,Gaya,0
+936,01-08-2020,Madhya Pradesh,23,Indore,4
+937,01-09-2020,Tamil Nadu,33,Chennai,21862
+938,01-09-2020,West Bengal,19,Kolkata,3481
+939,01-09-2020,Gujarat,24,Ahmedabad,980
+940,01-09-2020,Goa,30,Goa,2
+941,01-09-2020,Assam,18,Guwahati,0
+942,01-09-2020,Uttar Pradesh,9,Lucknow,86
+943,01-09-2020,Rajasthan,8,Jaipur,49
+944,01-09-2020,Kerala,32,Trivandrum,1381
+945,01-09-2020,Odisha,21,Bhubaneswar,0
+946,01-09-2020,Kerala,32,Calicut,937
+947,01-09-2020,Tamil Nadu,33,Coimbatore,17
+948,01-09-2020,Uttar Pradesh,9,Varanasi,0
+949,01-09-2020,Jammu and Kashmir,1,Srinagar,0
+950,01-09-2020,Punjab,3,Amritsar,25
+951,01-09-2020,Karnataka,29,Mangalore,60
+952,01-09-2020,Andaman and Nicobar Islands,35,Portblair,0
+953,01-09-2020,Tamil Nadu,33,Trichy,263
+954,01-09-2020,Manipur,14,Imphal,0
+955,01-09-2020,Andhra Pradesh,28,Vijayawada,0
+956,01-09-2020,Andhra Pradesh,28,Tirupati,0
+957,01-09-2020,Delhi,7,Delhi,48037
+958,01-09-2020,Maharashtra,27,Mumbai,38303
+959,01-09-2020,Karnataka,29,Bangalore,19123
+960,01-09-2020,Telangana,36,Hyderabad,5954
+961,01-09-2020,Kerala,32,Cochin,3241
+962,01-09-2020,Maharashtra,27,Nagpur,9
+963,01-09-2020,Kerala,32,Kannur,0
+964,01-09-2020,Maharashtra,27,Pune,0
+965,01-09-2020,Bihar,10,Patna,0
+966,01-09-2020,West Bengal,19,Bagdogra,0
+967,01-09-2020,Andhra Pradesh,28,Visakhapatnam,0
+968,01-09-2020,Chandigarh,4,Chandigarh,0
+969,01-09-2020,Tamil Nadu,33,Madurai,4
+970,01-09-2020,Gujarat,24,Surat,0
+971,01-09-2020,Maharashtra,27,Aurangabad,0
+972,01-09-2020,Bihar,10,Gaya,0
+973,01-09-2020,Madhya Pradesh,23,Indore,0
+974,01-10-2020,Tamil Nadu,33,Chennai,22937
+975,01-10-2020,West Bengal,19,Kolkata,3979
+976,01-10-2020,Gujarat,24,Ahmedabad,1151
+977,01-10-2020,Goa,30,Goa,20
+978,01-10-2020,Assam,18,Guwahati,0
+979,01-10-2020,Uttar Pradesh,9,Lucknow,97
+980,01-10-2020,Rajasthan,8,Jaipur,92
+981,01-10-2020,Kerala,32,Trivandrum,893
+982,01-10-2020,Odisha,21,Bhubaneswar,0
+983,01-10-2020,Kerala,32,Calicut,781
+984,01-10-2020,Tamil Nadu,33,Coimbatore,22
+985,01-10-2020,Uttar Pradesh,9,Varanasi,0
+986,01-10-2020,Jammu and Kashmir,1,Srinagar,0
+987,01-10-2020,Punjab,3,Amritsar,67
+988,01-10-2020,Karnataka,29,Mangalore,73
+989,01-10-2020,Andaman and Nicobar Islands,35,Portblair,0
+990,01-10-2020,Tamil Nadu,33,Trichy,285
+991,01-10-2020,Manipur,14,Imphal,0
+992,01-10-2020,Andhra Pradesh,28,Vijayawada,0
+993,01-10-2020,Andhra Pradesh,28,Tirupati,0
+994,01-10-2020,Delhi,7,Delhi,48817
+995,01-10-2020,Maharashtra,27,Mumbai,42463
+996,01-10-2020,Karnataka,29,Bangalore,19620
+997,01-10-2020,Telangana,36,Hyderabad,5222
+998,01-10-2020,Kerala,32,Cochin,1942
+999,01-10-2020,Maharashtra,27,Nagpur,0
+1000,01-10-2020,Kerala,32,Kannur,0
+1001,01-10-2020,Maharashtra,27,Pune,0
+1002,01-10-2020,Bihar,10,Patna,0
+1003,01-10-2020,West Bengal,19,Bagdogra,0
+1004,01-10-2020,Andhra Pradesh,28,Visakhapatnam,0
+1005,01-10-2020,Chandigarh,4,Chandigarh,0
+1006,01-10-2020,Tamil Nadu,33,Madurai,22
+1007,01-10-2020,Gujarat,24,Surat,0
+1008,01-10-2020,Maharashtra,27,Aurangabad,0
+1009,01-10-2020,Bihar,10,Gaya,0
+1010,01-10-2020,Madhya Pradesh,23,Indore,5
+1011,01-11-2020,Tamil Nadu,33,Chennai,22132
+1012,01-11-2020,West Bengal,19,Kolkata,3659
+1013,01-11-2020,Gujarat,24,Ahmedabad,2690
+1014,01-11-2020,Goa,30,Goa,63
+1015,01-11-2020,Assam,18,Guwahati,0
+1016,01-11-2020,Uttar Pradesh,9,Lucknow,16
+1017,01-11-2020,Rajasthan,8,Jaipur,45
+1018,01-11-2020,Kerala,32,Trivandrum,799
+1019,01-11-2020,Odisha,21,Bhubaneswar,0
+1020,01-11-2020,Kerala,32,Calicut,704
+1021,01-11-2020,Tamil Nadu,33,Coimbatore,24
+1022,01-11-2020,Uttar Pradesh,9,Varanasi,0
+1023,01-11-2020,Jammu and Kashmir,1,Srinagar,0
+1024,01-11-2020,Punjab,3,Amritsar,78
+1025,01-11-2020,Karnataka,29,Mangalore,37
+1026,01-11-2020,Andaman and Nicobar Islands,35,Portblair,0
+1027,01-11-2020,Tamil Nadu,33,Trichy,306
+1028,01-11-2020,Manipur,14,Imphal,0
+1029,01-11-2020,Andhra Pradesh,28,Vijayawada,0
+1030,01-11-2020,Andhra Pradesh,28,Tirupati,0
+1031,01-11-2020,Delhi,7,Delhi,43243
+1032,01-11-2020,Maharashtra,27,Mumbai,41975
+1033,01-11-2020,Karnataka,29,Bangalore,19248
+1034,01-11-2020,Telangana,36,Hyderabad,5535
+1035,01-11-2020,Kerala,32,Cochin,1878
+1036,01-11-2020,Maharashtra,27,Nagpur,0
+1037,01-11-2020,Kerala,32,Kannur,0
+1038,01-11-2020,Maharashtra,27,Pune,0
+1039,01-11-2020,Bihar,10,Patna,0
+1040,01-11-2020,West Bengal,19,Bagdogra,0
+1041,01-11-2020,Andhra Pradesh,28,Visakhapatnam,6
+1042,01-11-2020,Chandigarh,4,Chandigarh,0
+1043,01-11-2020,Tamil Nadu,33,Madurai,24
+1044,01-11-2020,Gujarat,24,Surat,0
+1045,01-11-2020,Maharashtra,27,Aurangabad,0
+1046,01-11-2020,Bihar,10,Gaya,0
+1047,01-11-2020,Madhya Pradesh,23,Indore,6
+1048,01-12-2020,Tamil Nadu,33,Chennai,23768
+1049,01-12-2020,West Bengal,19,Kolkata,4216
+1050,01-12-2020,Gujarat,24,Ahmedabad,3046
+1051,01-12-2020,Goa,30,Goa,67
+1052,01-12-2020,Assam,18,Guwahati,0
+1053,01-12-2020,Uttar Pradesh,9,Lucknow,20
+1054,01-12-2020,Rajasthan,8,Jaipur,95
+1055,01-12-2020,Kerala,32,Trivandrum,1148
+1056,01-12-2020,Odisha,21,Bhubaneswar,0
+1057,01-12-2020,Kerala,32,Calicut,633
+1058,01-12-2020,Tamil Nadu,33,Coimbatore,27
+1059,01-12-2020,Uttar Pradesh,9,Varanasi,0
+1060,01-12-2020,Jammu and Kashmir,1,Srinagar,0
+1061,01-12-2020,Punjab,3,Amritsar,69
+1062,01-12-2020,Karnataka,29,Mangalore,27
+1063,01-12-2020,Andaman and Nicobar Islands,35,Portblair,0
+1064,01-12-2020,Tamil Nadu,33,Trichy,268
+1065,01-12-2020,Manipur,14,Imphal,0
+1066,01-12-2020,Andhra Pradesh,28,Vijayawada,0
+1067,01-12-2020,Andhra Pradesh,28,Tirupati,0
+1068,01-12-2020,Delhi,7,Delhi,43141
+1069,01-12-2020,Maharashtra,27,Mumbai,45038
+1070,01-12-2020,Karnataka,29,Bangalore,20425
+1071,01-12-2020,Telangana,36,Hyderabad,5809
+1072,01-12-2020,Kerala,32,Cochin,2623
+1073,01-12-2020,Maharashtra,27,Nagpur,0
+1074,01-12-2020,Kerala,32,Kannur,0
+1075,01-12-2020,Maharashtra,27,Pune,0
+1076,01-12-2020,Bihar,10,Patna,0
+1077,01-12-2020,West Bengal,19,Bagdogra,0
+1078,01-12-2020,Andhra Pradesh,28,Visakhapatnam,25
+1079,01-12-2020,Chandigarh,4,Chandigarh,0
+1080,01-12-2020,Tamil Nadu,33,Madurai,21
+1081,01-12-2020,Gujarat,24,Surat,0
+1082,01-12-2020,Maharashtra,27,Aurangabad,0
+1083,01-12-2020,Bihar,10,Gaya,0
+1084,01-12-2020,Madhya Pradesh,23,Indore,7
+1085,01-01-2019,Tamil Nadu,33,Chennai,23143
+1086,01-01-2019,West Bengal,19,Kolkata,4673
+1087,01-01-2019,Gujarat,24,Ahmedabad,3097
+1088,01-01-2019,Goa,30,Goa,104
+1089,01-01-2019,Assam,18,Guwahati,7
+1090,01-01-2019,Uttar Pradesh,9,Lucknow,226
+1091,01-01-2019,Rajasthan,8,Jaipur,248
+1092,01-01-2019,Kerala,32,Trivandrum,1801
+1093,01-01-2019,Odisha,21,Bhubaneswar,0
+1094,01-01-2019,Kerala,32,Calicut,1694
+1095,01-01-2019,Tamil Nadu,33,Coimbatore,178
+1096,01-01-2019,Uttar Pradesh,9,Varanasi,0
+1097,01-01-2019,Jammu and Kashmir,1,Srinagar,0
+1098,01-01-2019,Punjab,3,Amritsar,73
+1099,01-01-2019,Karnataka,29,Mangalore,148
+1100,01-01-2019,Andaman and Nicobar Islands,35,Portblair,0
+1101,01-01-2019,Tamil Nadu,33,Trichy,601
+1102,01-01-2019,Manipur,14,Imphal,0
+1103,01-01-2019,Andhra Pradesh,28,Vijayawada,0
+1104,01-01-2019,Andhra Pradesh,28,Tirupati,0
+1105,01-01-2019,Delhi,7,Delhi,50326
+1106,01-01-2019,Maharashtra,27,Mumbai,51828
+1107,01-01-2019,Karnataka,29,Bangalore,18363
+1108,01-01-2019,Telangana,36,Hyderabad,6497
+1109,01-01-2019,Kerala,32,Cochin,5042
+1110,01-01-2019,Maharashtra,27,Nagpur,83
+1111,01-01-2019,Kerala,32,Kannur,0
+1112,01-01-2019,Maharashtra,27,Pune,39
+1113,01-01-2019,Bihar,10,Patna,0
+1114,01-01-2019,West Bengal,19,Bagdogra,0
+1115,01-01-2019,Andhra Pradesh,28,Visakhapatnam,37
+1116,01-01-2019,Punjab,3,Chandigarh,0
+1117,01-01-2019,Tamil Nadu,33,Madurai,126
+1118,01-01-2019,Gujarat,24,Surat,0
+1119,01-01-2019,Maharashtra,27,Aurangabad,0
+1120,01-01-2019,Bihar,10,Gaya,0
+1121,01-01-2019,Madhya Pradesh,23,Indore,0
+1122,01-02-2019,Tamil Nadu,33,Chennai,20749
+1123,01-02-2019,West Bengal,19,Kolkata,3936
+1124,01-02-2019,Gujarat,24,Ahmedabad,3327
+1125,01-02-2019,Goa,30,Goa,55
+1126,01-02-2019,Assam,18,Guwahati,0
+1127,01-02-2019,Uttar Pradesh,9,Lucknow,205
+1128,01-02-2019,Rajasthan,8,Jaipur,196
+1129,01-02-2019,Kerala,32,Trivandrum,1620
+1130,01-02-2019,Odisha,21,Bhubaneswar,6
+1131,01-02-2019,Kerala,32,Calicut,2370
+1132,01-02-2019,Tamil Nadu,33,Coimbatore,233
+1133,01-02-2019,Uttar Pradesh,9,Varanasi,0
+1134,01-02-2019,Jammu and Kashmir,1,Srinagar,0
+1135,01-02-2019,Punjab,3,Amritsar,83
+1136,01-02-2019,Karnataka,29,Mangalore,316
+1137,01-02-2019,Andaman and Nicobar Islands,35,Portblair,0
+1138,01-02-2019,Tamil Nadu,33,Trichy,777
+1139,01-02-2019,Manipur,14,Imphal,0
+1140,01-02-2019,Andhra Pradesh,28,Vijayawada,0
+1141,01-02-2019,Andhra Pradesh,28,Tirupati,0
+1142,01-02-2019,Delhi,7,Delhi,47331
+1143,01-02-2019,Maharashtra,27,Mumbai,49453
+1144,01-02-2019,Karnataka,29,Bangalore,19063
+1145,01-02-2019,Telangana,36,Hyderabad,6897
+1146,01-02-2019,Kerala,32,Cochin,4622
+1147,01-02-2019,Maharashtra,27,Nagpur,30
+1148,01-02-2019,Kerala,32,Kannur,0
+1149,01-02-2019,Maharashtra,27,Pune,57
+1150,01-02-2019,Bihar,10,Patna,0
+1151,01-02-2019,West Bengal,19,Bagdogra,0
+1152,01-02-2019,Andhra Pradesh,28,Visakhapatnam,32
+1153,01-02-2019,Punjab,3,Chandigarh,0
+1154,01-02-2019,Tamil Nadu,33,Madurai,150
+1155,01-02-2019,Gujarat,24,Surat,0
+1156,01-02-2019,Maharashtra,27,Aurangabad,0
+1157,01-02-2019,Bihar,10,Gaya,0
+1158,01-02-2019,Madhya Pradesh,23,Indore,25
+1159,01-03-2019,Tamil Nadu,33,Chennai,28699
+1160,01-03-2019,West Bengal,19,Kolkata,5516
+1161,01-03-2019,Gujarat,24,Ahmedabad,3782
+1162,01-03-2019,Goa,30,Goa,132
+1163,01-03-2019,Assam,18,Guwahati,0
+1164,01-03-2019,Uttar Pradesh,9,Lucknow,0
+1165,01-03-2019,Rajasthan,8,Jaipur,1211
+1166,01-03-2019,Kerala,32,Trivandrum,2289
+1167,01-03-2019,Odisha,21,Bhubaneswar,0
+1168,01-03-2019,Kerala,32,Calicut,2113
+1169,01-03-2019,Tamil Nadu,33,Coimbatore,277
+1170,01-03-2019,Uttar Pradesh,9,Varanasi,0
+1171,01-03-2019,Jammu and Kashmir,1,Srinagar,0
+1172,01-03-2019,Punjab,3,Amritsar,0
+1173,01-03-2019,Karnataka,29,Mangalore,226
+1174,01-03-2019,Andaman and Nicobar Islands,35,Portblair,0
+1175,01-03-2019,Tamil Nadu,33,Trichy,720
+1176,01-03-2019,Manipur,14,Imphal,0
+1177,01-03-2019,Andhra Pradesh,28,Vijayawada,0
+1178,01-03-2019,Andhra Pradesh,28,Tirupati,0
+1179,01-03-2019,Delhi,7,Delhi,55226
+1180,01-03-2019,Maharashtra,27,Mumbai,60233
+1181,01-03-2019,Karnataka,29,Bangalore,21568
+1182,01-03-2019,Telangana,36,Hyderabad,7766
+1183,01-03-2019,Kerala,32,Cochin,5162
+1184,01-03-2019,Maharashtra,27,Nagpur,58
+1185,01-03-2019,Kerala,32,Kannur,0
+1186,01-03-2019,Maharashtra,27,Pune,9
+1187,01-03-2019,Bihar,10,Patna,0
+1188,01-03-2019,West Bengal,19,Bagdogra,0
+1189,01-03-2019,Andhra Pradesh,28,Visakhapatnam,52
+1190,01-03-2019,Punjab,3,Chandigarh,0
+1191,01-03-2019,Tamil Nadu,33,Madurai,198
+1192,01-03-2019,Gujarat,24,Surat,0
+1193,01-03-2019,Maharashtra,27,Aurangabad,0
+1194,01-03-2019,Bihar,10,Gaya,0
+1195,01-03-2019,Madhya Pradesh,23,Indore,0
+1196,01-04-2019,Tamil Nadu,33,Chennai,24754
+1197,01-04-2019,West Bengal,19,Kolkata,5153
+1198,01-04-2019,Gujarat,24,Ahmedabad,4192
+1199,01-04-2019,Goa,30,Goa,159
+1200,01-04-2019,Assam,18,Guwahati,0
+1201,01-04-2019,Uttar Pradesh,9,Lucknow,368
+1202,01-04-2019,Rajasthan,8,Jaipur,240
+1203,01-04-2019,Kerala,32,Trivandrum,2066
+1204,01-04-2019,Odisha,21,Bhubaneswar,0
+1205,01-04-2019,Kerala,32,Calicut,2340
+1206,01-04-2019,Tamil Nadu,33,Coimbatore,215
+1207,01-04-2019,Uttar Pradesh,9,Varanasi,2
+1208,01-04-2019,Jammu and Kashmir,1,Srinagar,0
+1209,01-04-2019,Punjab,3,Amritsar,201
+1210,01-04-2019,Karnataka,29,Mangalore,250
+1211,01-04-2019,Andaman and Nicobar Islands,35,Portblair,0
+1212,01-04-2019,Tamil Nadu,33,Trichy,672
+1213,01-04-2019,Manipur,14,Imphal,0
+1214,01-04-2019,Andhra Pradesh,28,Vijayawada,0
+1215,01-04-2019,Andhra Pradesh,28,Tirupati,0
+1216,01-04-2019,Delhi,7,Delhi,52204
+1217,01-04-2019,Maharashtra,27,Mumbai,48712
+1218,01-04-2019,Karnataka,29,Bangalore,19610
+1219,01-04-2019,Telangana,36,Hyderabad,7193
+1220,01-04-2019,Kerala,32,Cochin,5001
+1221,01-04-2019,Maharashtra,27,Nagpur,79
+1222,01-04-2019,Kerala,32,Kannur,0
+1223,01-04-2019,Maharashtra,27,Pune,3
+1224,01-04-2019,Bihar,10,Patna,0
+1225,01-04-2019,West Bengal,19,Bagdogra,0
+1226,01-04-2019,Andhra Pradesh,28,Visakhapatnam,42
+1227,01-04-2019,Punjab,3,Chandigarh,0
+1228,01-04-2019,Tamil Nadu,33,Madurai,160
+1229,01-04-2019,Gujarat,24,Surat,0
+1230,01-04-2019,Maharashtra,27,Aurangabad,0
+1231,01-04-2019,Bihar,10,Gaya,0
+1232,01-04-2019,Madhya Pradesh,23,Indore,29
+1233,01-05-2019,Tamil Nadu,33,Chennai,24168
+1234,01-05-2019,West Bengal,19,Kolkata,4969
+1235,01-05-2019,Gujarat,24,Ahmedabad,4045
+1236,01-05-2019,Goa,30,Goa,138
+1237,01-05-2019,Assam,18,Guwahati,0
+1238,01-05-2019,Uttar Pradesh,9,Lucknow,383
+1239,01-05-2019,Rajasthan,8,Jaipur,198
+1240,01-05-2019,Kerala,32,Trivandrum,1915
+1241,01-05-2019,Odisha,21,Bhubaneswar,0
+1242,01-05-2019,Kerala,32,Calicut,2343
+1243,01-05-2019,Tamil Nadu,33,Coimbatore,259
+1244,01-05-2019,Uttar Pradesh,9,Varanasi,3
+1245,01-05-2019,Jammu and Kashmir,1,Srinagar,0
+1246,01-05-2019,Punjab,3,Amritsar,146
+1247,01-05-2019,Karnataka,29,Mangalore,217
+1248,01-05-2019,Andaman and Nicobar Islands,35,Portblair,0
+1249,01-05-2019,Tamil Nadu,33,Trichy,670
+1250,01-05-2019,Manipur,14,Imphal,0
+1251,01-05-2019,Andhra Pradesh,28,Vijayawada,0
+1252,01-05-2019,Andhra Pradesh,28,Tirupati,0
+1253,01-05-2019,Delhi,7,Delhi,53305
+1254,01-05-2019,Maharashtra,27,Mumbai,55028
+1255,01-05-2019,Karnataka,29,Bangalore,19968
+1256,01-05-2019,Telangana,36,Hyderabad,7772
+1257,01-05-2019,Kerala,32,Cochin,5501
+1258,01-05-2019,Maharashtra,27,Nagpur,31
+1259,01-05-2019,Kerala,32,Kannur,0
+1260,01-05-2019,Maharashtra,27,Pune,2
+1261,01-05-2019,Bihar,10,Patna,0
+1262,01-05-2019,West Bengal,19,Bagdogra,0
+1263,01-05-2019,Andhra Pradesh,28,Visakhapatnam,20
+1264,01-05-2019,Punjab,3,Chandigarh,0
+1265,01-05-2019,Tamil Nadu,33,Madurai,119
+1266,01-05-2019,Gujarat,24,Surat,0
+1267,01-05-2019,Maharashtra,27,Aurangabad,0
+1268,01-05-2019,Bihar,10,Gaya,0
+1269,01-05-2019,Madhya Pradesh,23,Indore,171
+1270,01-06-2019,Tamil Nadu,33,Chennai,23272
+1271,01-06-2019,West Bengal,19,Kolkata,5110
+1272,01-06-2019,Gujarat,24,Ahmedabad,4966
+1273,01-06-2019,Goa,30,Goa,68
+1274,01-06-2019,Assam,18,Guwahati,0
+1275,01-06-2019,Uttar Pradesh,9,Lucknow,286
+1276,01-06-2019,Rajasthan,8,Jaipur,174
+1277,01-06-2019,Kerala,32,Trivandrum,2017
+1278,01-06-2019,Odisha,21,Bhubaneswar,0
+1279,01-06-2019,Kerala,32,Calicut,2287
+1280,01-06-2019,Tamil Nadu,33,Coimbatore,231
+1281,01-06-2019,Uttar Pradesh,9,Varanasi,0
+1282,01-06-2019,Jammu and Kashmir,1,Srinagar,0
+1283,01-06-2019,Punjab,3,Amritsar,107
+1284,01-06-2019,Karnataka,29,Mangalore,188
+1285,01-06-2019,Andaman and Nicobar Islands,35,Portblair,0
+1286,01-06-2019,Tamil Nadu,33,Trichy,575
+1287,01-06-2019,Manipur,14,Imphal,0
+1288,01-06-2019,Andhra Pradesh,28,Vijayawada,0
+1289,01-06-2019,Andhra Pradesh,28,Tirupati,0
+1290,01-06-2019,Delhi,7,Delhi,48167
+1291,01-06-2019,Maharashtra,27,Mumbai,47137
+1292,01-06-2019,Karnataka,29,Bangalore,18908
+1293,01-06-2019,Telangana,36,Hyderabad,6975
+1294,01-06-2019,Kerala,32,Cochin,5752
+1295,01-06-2019,Maharashtra,27,Nagpur,113
+1296,01-06-2019,Kerala,32,Kannur,0
+1297,01-06-2019,Maharashtra,27,Pune,4
+1298,01-06-2019,Bihar,10,Patna,0
+1299,01-06-2019,West Bengal,19,Bagdogra,0
+1300,01-06-2019,Andhra Pradesh,28,Visakhapatnam,33
+1301,01-06-2019,Punjab,3,Chandigarh,0
+1302,01-06-2019,Tamil Nadu,33,Madurai,109
+1303,01-06-2019,Gujarat,24,Surat,0
+1304,01-06-2019,Maharashtra,27,Aurangabad,0
+1305,01-06-2019,Bihar,10,Gaya,0
+1306,01-06-2019,Madhya Pradesh,23,Indore,119
+1307,01-07-2019,Tamil Nadu,33,Chennai,24636
+1308,01-07-2019,West Bengal,19,Kolkata,5453
+1309,01-07-2019,Gujarat,24,Ahmedabad,4605
+1310,01-07-2019,Goa,30,Goa,109
+1311,01-07-2019,Assam,18,Guwahati,0
+1312,01-07-2019,Uttar Pradesh,9,Lucknow,342
+1313,01-07-2019,Rajasthan,8,Jaipur,180
+1314,01-07-2019,Kerala,32,Trivandrum,2857
+1315,01-07-2019,Odisha,21,Bhubaneswar,0
+1316,01-07-2019,Kerala,32,Calicut,2645
+1317,01-07-2019,Tamil Nadu,33,Coimbatore,196
+1318,01-07-2019,Uttar Pradesh,9,Varanasi,0
+1319,01-07-2019,Jammu and Kashmir,1,Srinagar,0
+1320,01-07-2019,Punjab,3,Amritsar,68
+1321,01-07-2019,Karnataka,29,Mangalore,197
+1322,01-07-2019,Andaman and Nicobar Islands,35,Portblair,0
+1323,01-07-2019,Tamil Nadu,33,Trichy,736
+1324,01-07-2019,Manipur,14,Imphal,0
+1325,01-07-2019,Andhra Pradesh,28,Vijayawada,0
+1326,01-07-2019,Andhra Pradesh,28,Tirupati,0
+1327,01-07-2019,Delhi,7,Delhi,53568
+1328,01-07-2019,Maharashtra,27,Mumbai,48030
+1329,01-07-2019,Karnataka,29,Bangalore,19182
+1330,01-07-2019,Telangana,36,Hyderabad,7229
+1331,01-07-2019,Kerala,32,Cochin,5445
+1332,01-07-2019,Maharashtra,27,Nagpur,309
+1333,01-07-2019,Kerala,32,Kannur,0
+1334,01-07-2019,Maharashtra,27,Pune,11
+1335,01-07-2019,Bihar,10,Patna,0
+1336,01-07-2019,West Bengal,19,Bagdogra,0
+1337,01-07-2019,Andhra Pradesh,28,Visakhapatnam,37
+1338,01-07-2019,Punjab,3,Chandigarh,0
+1339,01-07-2019,Tamil Nadu,33,Madurai,128
+1340,01-07-2019,Gujarat,24,Surat,0
+1341,01-07-2019,Maharashtra,27,Aurangabad,0
+1342,01-07-2019,Bihar,10,Gaya,0
+1343,01-07-2019,Madhya Pradesh,23,Indore,102
+1344,01-08-2019,Tamil Nadu,33,Chennai,23262
+1345,01-08-2019,West Bengal,19,Kolkata,4793
+1346,01-08-2019,Gujarat,24,Ahmedabad,3782
+1347,01-08-2019,Goa,30,Goa,93
+1348,01-08-2019,Assam,18,Guwahati,0
+1349,01-08-2019,Uttar Pradesh,9,Lucknow,216
+1350,01-08-2019,Rajasthan,8,Jaipur,183
+1351,01-08-2019,Kerala,32,Trivandrum,2398
+1352,01-08-2019,Odisha,21,Bhubaneswar,4
+1353,01-08-2019,Kerala,32,Calicut,2501
+1354,01-08-2019,Tamil Nadu,33,Coimbatore,225
+1355,01-08-2019,Uttar Pradesh,9,Varanasi,0
+1356,01-08-2019,Jammu and Kashmir,1,Srinagar,0
+1357,01-08-2019,Punjab,3,Amritsar,82
+1358,01-08-2019,Karnataka,29,Mangalore,204
+1359,01-08-2019,Andaman and Nicobar Islands,35,Portblair,0
+1360,01-08-2019,Tamil Nadu,33,Trichy,809
+1361,01-08-2019,Manipur,14,Imphal,0
+1362,01-08-2019,Andhra Pradesh,28,Vijayawada,0
+1363,01-08-2019,Andhra Pradesh,28,Tirupati,0
+1364,01-08-2019,Delhi,7,Delhi,51847
+1365,01-08-2019,Maharashtra,27,Mumbai,47938
+1366,01-08-2019,Karnataka,29,Bangalore,18312
+1367,01-08-2019,Telangana,36,Hyderabad,6659
+1368,01-08-2019,Kerala,32,Cochin,7488
+1369,01-08-2019,Maharashtra,27,Nagpur,65
+1370,01-08-2019,Kerala,32,Kannur,0
+1371,01-08-2019,Maharashtra,27,Pune,21
+1372,01-08-2019,Bihar,10,Patna,0
+1373,01-08-2019,West Bengal,19,Bagdogra,0
+1374,01-08-2019,Andhra Pradesh,28,Visakhapatnam,43
+1375,01-08-2019,Punjab,3,Chandigarh,43
+1376,01-08-2019,Tamil Nadu,33,Madurai,0
+1377,01-08-2019,Gujarat,24,Surat,0
+1378,01-08-2019,Maharashtra,27,Aurangabad,0
+1379,01-08-2019,Bihar,10,Gaya,0
+1380,01-08-2019,Madhya Pradesh,23,Indore,28
+1381,01-09-2019,Tamil Nadu,33,Chennai,22940
+1382,01-09-2019,West Bengal,19,Kolkata,4981
+1383,01-09-2019,Gujarat,24,Ahmedabad,3893
+1384,01-09-2019,Goa,30,Goa,86
+1385,01-09-2019,Assam,18,Guwahati,1
+1386,01-09-2019,Uttar Pradesh,9,Lucknow,247
+1387,01-09-2019,Rajasthan,8,Jaipur,208
+1388,01-09-2019,Kerala,32,Trivandrum,2214
+1389,01-09-2019,Odisha,21,Bhubaneswar,7
+1390,01-09-2019,Kerala,32,Calicut,2265
+1391,01-09-2019,Tamil Nadu,33,Coimbatore,226
+1392,01-09-2019,Uttar Pradesh,9,Varanasi,0
+1393,01-09-2019,Jammu and Kashmir,1,Srinagar,0
+1394,01-09-2019,Punjab,3,Amritsar,72
+1395,01-09-2019,Karnataka,29,Mangalore,239
+1396,01-09-2019,Andaman and Nicobar Islands,35,Portblair,0
+1397,01-09-2019,Tamil Nadu,33,Trichy,749
+1398,01-09-2019,Manipur,14,Imphal,0
+1399,01-09-2019,Andhra Pradesh,28,Vijayawada,0
+1400,01-09-2019,Andhra Pradesh,28,Tirupati,0
+1401,01-09-2019,Delhi,7,Delhi,51951
+1402,01-09-2019,Maharashtra,27,Mumbai,46415
+1403,01-09-2019,Karnataka,29,Bangalore,18268
+1404,01-09-2019,Telangana,36,Hyderabad,6427
+1405,01-09-2019,Kerala,32,Cochin,4832
+1406,01-09-2019,Maharashtra,27,Nagpur,59
+1407,01-09-2019,Kerala,32,Kannur,0
+1408,01-09-2019,Maharashtra,27,Pune,32
+1409,01-09-2019,Bihar,10,Patna,0
+1410,01-09-2019,West Bengal,19,Bagdogra,0
+1411,01-09-2019,Andhra Pradesh,28,Visakhapatnam,50
+1412,01-09-2019,Punjab,3,Chandigarh,0
+1413,01-09-2019,Tamil Nadu,33,Madurai,176
+1414,01-09-2019,Gujarat,24,Surat,0
+1415,01-09-2019,Maharashtra,27,Aurangabad,0
+1416,01-09-2019,Bihar,10,Gaya,0
+1417,01-09-2019,Madhya Pradesh,23,Indore,38
+1418,01-10-2019,Tamil Nadu,33,Chennai,22940
+1419,01-10-2019,West Bengal,19,Kolkata,4981
+1420,01-10-2019,Gujarat,24,Ahmedabad,3893
+1421,01-10-2019,Goa,30,Goa,86
+1422,01-10-2019,Assam,18,Guwahati,1
+1423,01-10-2019,Uttar Pradesh,9,Lucknow,247
+1424,01-10-2019,Rajasthan,8,Jaipur,208
+1425,01-10-2019,Kerala,32,Trivandrum,2214
+1426,01-10-2019,Odisha,21,Bhubaneswar,7
+1427,01-10-2019,Kerala,32,Calicut,2265
+1428,01-10-2019,Tamil Nadu,33,Coimbatore,226
+1429,01-10-2019,Uttar Pradesh,9,Varanasi,0
+1430,01-10-2019,Jammu and Kashmir,1,Srinagar,0
+1431,01-10-2019,Punjab,3,Amritsar,72
+1432,01-10-2019,Karnataka,29,Mangalore,239
+1433,01-10-2019,Andaman and Nicobar Islands,35,Portblair,0
+1434,01-10-2019,Tamil Nadu,33,Trichy,749
+1435,01-10-2019,Manipur,14,Imphal,0
+1436,01-10-2019,Andhra Pradesh,28,Vijayawada,0
+1437,01-10-2019,Andhra Pradesh,28,Tirupati,0
+1438,01-10-2019,Delhi,7,Delhi,51951
+1439,01-10-2019,Maharashtra,27,Mumbai,46415
+1440,01-10-2019,Karnataka,29,Bangalore,18268
+1441,01-10-2019,Telangana,36,Hyderabad,6427
+1442,01-10-2019,Kerala,32,Cochin,4832
+1443,01-10-2019,Maharashtra,27,Nagpur,59
+1444,01-10-2019,Kerala,32,Kannur,0
+1445,01-10-2019,Maharashtra,27,Pune,32
+1446,01-10-2019,Bihar,10,Patna,0
+1447,01-10-2019,West Bengal,19,Bagdogra,0
+1448,01-10-2019,Andhra Pradesh,28,Visakhapatnam,50
+1449,01-10-2019,Punjab,3,Chandigarh,0
+1450,01-10-2019,Tamil Nadu,33,Madurai,176
+1451,01-10-2019,Gujarat,24,Surat,0
+1452,01-10-2019,Maharashtra,27,Aurangabad,0
+1453,01-10-2019,Bihar,10,Gaya,0
+1454,01-10-2019,Madhya Pradesh,23,Indore,38
+1455,01-11-2019,Tamil Nadu,33,Chennai,22502
+1456,01-11-2019,West Bengal,19,Kolkata,5371
+1457,01-11-2019,Gujarat,24,Ahmedabad,4307
+1458,01-11-2019,Goa,30,Goa,60
+1459,01-11-2019,Assam,18,Guwahati,2
+1460,01-11-2019,Uttar Pradesh,9,Lucknow,241
+1461,01-11-2019,Rajasthan,8,Jaipur,214
+1462,01-11-2019,Kerala,32,Trivandrum,1623
+1463,01-11-2019,Odisha,21,Bhubaneswar,8
+1464,01-11-2019,Kerala,32,Calicut,2068
+1465,01-11-2019,Tamil Nadu,33,Coimbatore,209
+1466,01-11-2019,Uttar Pradesh,9,Varanasi,0
+1467,01-11-2019,Jammu and Kashmir,1,Srinagar,0
+1468,01-11-2019,Punjab,3,Amritsar,87
+1469,01-11-2019,Karnataka,29,Mangalore,336
+1470,01-11-2019,Andaman and Nicobar Islands,35,Portblair,0
+1471,01-11-2019,Tamil Nadu,33,Trichy,597
+1472,01-11-2019,Manipur,14,Imphal,0
+1473,01-11-2019,Andhra Pradesh,28,Vijayawada,0
+1474,01-11-2019,Andhra Pradesh,28,Tirupati,0
+1475,01-11-2019,Delhi,7,Delhi,50724
+1476,01-11-2019,Maharashtra,27,Mumbai,48988
+1477,01-11-2019,Karnataka,29,Bangalore,18732
+1478,01-11-2019,Telangana,36,Hyderabad,7088
+1479,01-11-2019,Kerala,32,Cochin,4164
+1480,01-11-2019,Maharashtra,27,Nagpur,37
+1481,01-11-2019,Kerala,32,Kannur,0
+1482,01-11-2019,Maharashtra,27,Pune,19
+1483,01-11-2019,Bihar,10,Patna,0
+1484,01-11-2019,West Bengal,19,Bagdogra,0
+1485,01-11-2019,Andhra Pradesh,28,Visakhapatnam,42
+1486,01-11-2019,Punjab,3,Chandigarh,0
+1487,01-11-2019,Tamil Nadu,33,Madurai,122
+1488,01-11-2019,Gujarat,24,Surat,0
+1489,01-11-2019,Maharashtra,27,Aurangabad,0
+1490,01-11-2019,Bihar,10,Gaya,0
+1491,01-11-2019,Madhya Pradesh,23,Indore,42
+1492,01-12-2019,Tamil Nadu,33,Chennai,23257
+1493,01-12-2019,West Bengal,19,Kolkata,4828
+1494,01-12-2019,Gujarat,24,Ahmedabad,3875
+1495,01-12-2019,Goa,30,Goa,63
+1496,01-12-2019,Assam,18,Guwahati,0
+1497,01-12-2019,Uttar Pradesh,9,Lucknow,232
+1498,01-12-2019,Rajasthan,8,Jaipur,164
+1499,01-12-2019,Kerala,32,Trivandrum,1620
+1500,01-12-2019,Odisha,21,Bhubaneswar,14
+1501,01-12-2019,Kerala,32,Calicut,2314
+1502,01-12-2019,Tamil Nadu,33,Coimbatore,208
+1503,01-12-2019,Uttar Pradesh,9,Varanasi,0
+1504,01-12-2019,Jammu and Kashmir,1,Srinagar,0
+1505,01-12-2019,Punjab,3,Amritsar,127
+1506,01-12-2019,Karnataka,29,Mangalore,300
+1507,01-12-2019,Andaman and Nicobar Islands,35,Portblair,0
+1508,01-12-2019,Tamil Nadu,33,Trichy,594
+1509,01-12-2019,Manipur,14,Imphal,0
+1510,01-12-2019,Andhra Pradesh,28,Vijayawada,0
+1511,01-12-2019,Andhra Pradesh,28,Tirupati,0
+1512,01-12-2019,Delhi,7,Delhi,52284
+1513,01-12-2019,Maharashtra,27,Mumbai,52430
+1514,01-12-2019,Karnataka,29,Bangalore,18896
+1515,01-12-2019,Telangana,36,Hyderabad,6912
+1516,01-12-2019,Kerala,32,Cochin,4023
+1517,01-12-2019,Maharashtra,27,Nagpur,37
+1518,01-12-2019,Kerala,32,Kannur,0
+1519,01-12-2019,Maharashtra,27,Pune,55
+1520,01-12-2019,Bihar,10,Patna,0
+1521,01-12-2019,West Bengal,19,Bagdogra,0
+1522,01-12-2019,Andhra Pradesh,28,Visakhapatnam,54
+1523,01-12-2019,Punjab,3,Chandigarh,0
+1524,01-12-2019,Tamil Nadu,33,Madurai,109
+1525,01-12-2019,Gujarat,24,Surat,0
+1526,01-12-2019,Maharashtra,27,Aurangabad,0
+1527,01-12-2019,Bihar,10,Gaya,0
+1528,01-12-2019,Madhya Pradesh,23,Indore,47
+1529,01-01-2018,Tamil Nadu,33,Chennai,24457
+1530,01-01-2018,West Bengal,19,Kolkata,4727
+1531,01-01-2018,Gujarat,24,Ahmedabad,3038
+1532,01-01-2018,Goa,30,Goa,68
+1533,01-01-2018,Uttar Pradesh,9,Lucknow,252
+1534,01-01-2018,Kerala,32,Trivandrum,2169
+1535,01-01-2018,Assam,18,Guwahati,0
+1536,01-01-2018,Rajasthan,8,Jaipur,260
+1537,01-01-2018,Kerala,32,Calicut,1332
+1538,01-01-2018,Odisha,21,Bhubaneswar,0
+1539,01-01-2018,Tamil Nadu,33,Coimbatore,137
+1540,01-01-2018,Jammu and Kashmir,1,Srinagar,0
+1541,01-01-2018,Uttar Pradesh,9,Varanasi,0
+1542,01-01-2018,Karnataka,29,Mangalore,137
+1543,01-01-2018,Punjab,3,Amritsar,63
+1544,01-01-2018,Tamil Nadu,33,Trichy,592
+1545,01-01-2018,Andaman and Nicobar Islands,35,Portblair,0
+1546,01-01-2018,Manipur,14,Imphal,0
+1547,01-01-2018,Andhra Pradesh,28,Vijayawada,0
+1548,01-01-2018,Andhra Pradesh,28,Tirupati,0
+1549,01-01-2018,Delhi,7,Delhi,52229
+1550,01-01-2018,Maharashtra,27,Mumbai,55088
+1551,01-01-2018,Karnataka,29,Bangalore,17106
+1552,01-01-2018,Telangana,36,Hyderabad,6281
+1553,01-01-2018,Kerala,32,Cochin,4060
+1554,01-01-2018,Maharashtra,27,Nagpur,111
+1555,01-01-2018,Maharashtra,27,Pune,12
+1556,01-01-2018,Andhra Pradesh,28,Visakhapatnam,0
+1557,01-01-2018,Bihar,10,Patna,0
+1558,01-01-2018,Chandigarh,4,Chandigarh,0
+1559,01-01-2018,West Bengal,19,Bagdogra,0
+1560,01-01-2018,Tamil Nadu,33,Madurai,32
+1561,01-01-2018,Maharashtra,27,Aurangabad,0
+1562,01-01-2018,Bihar,10,Gaya,0
+1563,01-02-2018,Tamil Nadu,33,Chennai,23943
+1564,01-02-2018,West Bengal,19,Kolkata,4127
+1565,01-02-2018,Gujarat,24,Ahmedabad,3013
+1566,01-02-2018,Goa,30,Goa,55
+1567,01-02-2018,Uttar Pradesh,9,Lucknow,240
+1568,01-02-2018,Kerala,32,Trivandrum,1962
+1569,01-02-2018,Assam,18,Guwahati,0
+1570,01-02-2018,Rajasthan,8,Jaipur,222
+1571,01-02-2018,Kerala,32,Calicut,1409
+1572,01-02-2018,Odisha,21,Bhubaneswar,0
+1573,01-02-2018,Tamil Nadu,33,Coimbatore,182
+1574,01-02-2018,Jammu and Kashmir,1,Srinagar,0
+1575,01-02-2018,Uttar Pradesh,9,Varanasi,2
+1576,01-02-2018,Karnataka,29,Mangalore,137
+1577,01-02-2018,Punjab,3,Amritsar,56
+1578,01-02-2018,Tamil Nadu,33,Trichy,568
+1579,01-02-2018,Andaman and Nicobar Islands,35,Portblair,0
+1580,01-02-2018,Manipur,14,Imphal,0
+1581,01-02-2018,Andhra Pradesh,28,Vijayawada,0
+1582,01-02-2018,Andhra Pradesh,28,Tirupati,0
+1583,01-02-2018,Delhi,7,Delhi,48640
+1584,01-02-2018,Maharashtra,27,Mumbai,52799
+1585,01-02-2018,Karnataka,29,Bangalore,17881
+1586,01-02-2018,Telangana,36,Hyderabad,6231
+1587,01-02-2018,Kerala,32,Cochin,6046
+1588,01-02-2018,Maharashtra,27,Nagpur,85
+1589,01-02-2018,Maharashtra,27,Pune,8
+1590,01-02-2018,Andhra Pradesh,28,Visakhapatnam,0
+1591,01-02-2018,Bihar,10,Patna,0
+1592,01-02-2018,Chandigarh,4,Chandigarh,0
+1593,01-02-2018,West Bengal,19,Bagdogra,0
+1594,01-02-2018,Tamil Nadu,33,Madurai,74
+1595,01-02-2018,Maharashtra,27,Aurangabad,0
+1596,01-02-2018,Bihar,10,Gaya,0
+1597,01-03-2018,Tamil Nadu,33,Chennai,28645
+1598,01-03-2018,West Bengal,19,Kolkata,4626
+1599,01-03-2018,Gujarat,24,Ahmedabad,3526
+1600,01-03-2018,Goa,30,Goa,99
+1601,01-03-2018,Uttar Pradesh,9,Lucknow,191
+1602,01-03-2018,Kerala,32,Trivandrum,2409
+1603,01-03-2018,Assam,18,Guwahati,0
+1604,01-03-2018,Rajasthan,8,Jaipur,506
+1605,01-03-2018,Kerala,32,Calicut,1537
+1606,01-03-2018,Odisha,21,Bhubaneswar,0
+1607,01-03-2018,Tamil Nadu,33,Coimbatore,190
+1608,01-03-2018,Jammu and Kashmir,1,Srinagar,0
+1609,01-03-2018,Uttar Pradesh,9,Varanasi,1
+1610,01-03-2018,Karnataka,29,Mangalore,168
+1611,01-03-2018,Punjab,3,Amritsar,131
+1612,01-03-2018,Tamil Nadu,33,Trichy,594
+1613,01-03-2018,Andaman and Nicobar Islands,35,Portblair,0
+1614,01-03-2018,Manipur,14,Imphal,0
+1615,01-03-2018,Andhra Pradesh,28,Vijayawada,0
+1616,01-03-2018,Andhra Pradesh,28,Tirupati,0
+1617,01-03-2018,Delhi,7,Delhi,54723
+1618,01-03-2018,Maharashtra,27,Mumbai,63231
+1619,01-03-2018,Karnataka,29,Bangalore,20638
+1620,01-03-2018,Telangana,36,Hyderabad,7667
+1621,01-03-2018,Kerala,32,Cochin,6309
+1622,01-03-2018,Maharashtra,27,Nagpur,73
+1623,01-03-2018,Maharashtra,27,Pune,3
+1624,01-03-2018,Andhra Pradesh,28,Visakhapatnam,0
+1625,01-03-2018,Bihar,10,Patna,0
+1626,01-03-2018,Chandigarh,4,Chandigarh,0
+1627,01-03-2018,West Bengal,19,Bagdogra,0
+1628,01-03-2018,Tamil Nadu,33,Madurai,86
+1629,01-03-2018,Maharashtra,27,Aurangabad,0
+1630,01-03-2018,Bihar,10,Gaya,0
+1631,01-04-2018,Tamil Nadu,33,Chennai,25628
+1632,01-04-2018,West Bengal,19,Kolkata,4551
+1633,01-04-2018,Gujarat,24,Ahmedabad,3312
+1634,01-04-2018,Goa,30,Goa,118
+1635,01-04-2018,Uttar Pradesh,9,Lucknow,235
+1636,01-04-2018,Kerala,32,Trivandrum,2246
+1637,01-04-2018,Assam,18,Guwahati,0
+1638,01-04-2018,Rajasthan,8,Jaipur,254
+1639,01-04-2018,Kerala,32,Calicut,1566
+1640,01-04-2018,Odisha,21,Bhubaneswar,0
+1641,01-04-2018,Tamil Nadu,33,Coimbatore,163
+1642,01-04-2018,Jammu and Kashmir,1,Srinagar,0
+1643,01-04-2018,Uttar Pradesh,9,Varanasi,0
+1644,01-04-2018,Karnataka,29,Mangalore,152
+1645,01-04-2018,Punjab,3,Amritsar,60
+1646,01-04-2018,Tamil Nadu,33,Trichy,515
+1647,01-04-2018,Andaman and Nicobar Islands,35,Portblair,0
+1648,01-04-2018,Manipur,14,Imphal,0
+1649,01-04-2018,Andhra Pradesh,28,Vijayawada,0
+1650,01-04-2018,Andhra Pradesh,28,Tirupati,0
+1651,01-04-2018,Delhi,7,Delhi,54442
+1652,01-04-2018,Maharashtra,27,Mumbai,58271
+1653,01-04-2018,Karnataka,29,Bangalore,19284
+1654,01-04-2018,Telangana,36,Hyderabad,6898
+1655,01-04-2018,Kerala,32,Cochin,5101
+1656,01-04-2018,Maharashtra,27,Nagpur,42
+1657,01-04-2018,Maharashtra,27,Pune,1
+1658,01-04-2018,Andhra Pradesh,28,Visakhapatnam,0
+1659,01-04-2018,Bihar,10,Patna,0
+1660,01-04-2018,Chandigarh,4,Chandigarh,0
+1661,01-04-2018,West Bengal,19,Bagdogra,0
+1662,01-04-2018,Tamil Nadu,33,Madurai,95
+1663,01-04-2018,Maharashtra,27,Aurangabad,0
+1664,01-04-2018,Bihar,10,Gaya,0
+1665,01-05-2018,Tamil Nadu,33,Chennai,27035
+1666,01-05-2018,West Bengal,19,Kolkata,4800
+1667,01-05-2018,Gujarat,24,Ahmedabad,3910
+1668,01-05-2018,Goa,30,Goa,126
+1669,01-05-2018,Uttar Pradesh,9,Lucknow,292
+1670,01-05-2018,Kerala,32,Trivandrum,2110
+1671,01-05-2018,Assam,18,Guwahati,1
+1672,01-05-2018,Rajasthan,8,Jaipur,170
+1673,01-05-2018,Kerala,32,Calicut,1509
+1674,01-05-2018,Odisha,21,Bhubaneswar,0
+1675,01-05-2018,Tamil Nadu,33,Coimbatore,162
+1676,01-05-2018,Jammu and Kashmir,1,Srinagar,0
+1677,01-05-2018,Uttar Pradesh,9,Varanasi,0
+1678,01-05-2018,Karnataka,29,Mangalore,240
+1679,01-05-2018,Punjab,3,Amritsar,53
+1680,01-05-2018,Tamil Nadu,33,Trichy,518
+1681,01-05-2018,Andaman and Nicobar Islands,35,Portblair,0
+1682,01-05-2018,Manipur,14,Imphal,0
+1683,01-05-2018,Andhra Pradesh,28,Vijayawada,0
+1684,01-05-2018,Andhra Pradesh,28,Tirupati,0
+1685,01-05-2018,Delhi,7,Delhi,56835
+1686,01-05-2018,Maharashtra,27,Mumbai,60084
+1687,01-05-2018,Karnataka,29,Bangalore,20877
+1688,01-05-2018,Telangana,36,Hyderabad,6942
+1689,01-05-2018,Kerala,32,Cochin,5747
+1690,01-05-2018,Maharashtra,27,Nagpur,30
+1691,01-05-2018,Maharashtra,27,Pune,1
+1692,01-05-2018,Andhra Pradesh,28,Visakhapatnam,0
+1693,01-05-2018,Bihar,10,Patna,0
+1694,01-05-2018,Chandigarh,4,Chandigarh,0
+1695,01-05-2018,West Bengal,19,Bagdogra,0
+1696,01-05-2018,Tamil Nadu,33,Madurai,106
+1697,01-05-2018,Maharashtra,27,Aurangabad,0
+1698,01-05-2018,Bihar,10,Gaya,0
+1699,01-06-2018,Tamil Nadu,33,Chennai,27190
+1700,01-06-2018,West Bengal,19,Kolkata,4601
+1701,01-06-2018,Gujarat,24,Ahmedabad,3475
+1702,01-06-2018,Goa,30,Goa,279
+1703,01-06-2018,Uttar Pradesh,9,Lucknow,239
+1704,01-06-2018,Kerala,32,Trivandrum,832
+1705,01-06-2018,Assam,18,Guwahati,0
+1706,01-06-2018,Rajasthan,8,Jaipur,188
+1707,01-06-2018,Kerala,32,Calicut,307
+1708,01-06-2018,Odisha,21,Bhubaneswar,0
+1709,01-06-2018,Tamil Nadu,33,Coimbatore,199
+1710,01-06-2018,Jammu and Kashmir,1,Srinagar,0
+1711,01-06-2018,Uttar Pradesh,9,Varanasi,0
+1712,01-06-2018,Karnataka,29,Mangalore,621
+1713,01-06-2018,Punjab,3,Amritsar,52
+1714,01-06-2018,Tamil Nadu,33,Trichy,644
+1715,01-06-2018,Andaman and Nicobar Islands,35,Portblair,0
+1716,01-06-2018,Manipur,14,Imphal,0
+1717,01-06-2018,Andhra Pradesh,28,Vijayawada,0
+1718,01-06-2018,Andhra Pradesh,28,Tirupati,0
+1719,01-06-2018,Delhi,7,Delhi,54097
+1720,01-06-2018,Maharashtra,27,Mumbai,58083
+1721,01-06-2018,Karnataka,29,Bangalore,22187
+1722,01-06-2018,Telangana,36,Hyderabad,7558
+1723,01-06-2018,Kerala,32,Cochin,2703
+1724,01-06-2018,Maharashtra,27,Nagpur,54
+1725,01-06-2018,Maharashtra,27,Pune,3
+1726,01-06-2018,Andhra Pradesh,28,Visakhapatnam,0
+1727,01-06-2018,Bihar,10,Patna,0
+1728,01-06-2018,Chandigarh,4,Chandigarh,0
+1729,01-06-2018,West Bengal,19,Bagdogra,0
+1730,01-06-2018,Tamil Nadu,33,Madurai,118
+1731,01-06-2018,Maharashtra,27,Aurangabad,0
+1732,01-06-2018,Bihar,10,Gaya,0
+1733,01-07-2018,Tamil Nadu,33,Chennai,28809
+1734,01-07-2018,West Bengal,19,Kolkata,5566
+1735,01-07-2018,Gujarat,24,Ahmedabad,3474
+1736,01-07-2018,Goa,30,Goa,226
+1737,01-07-2018,Uttar Pradesh,9,Lucknow,277
+1738,01-07-2018,Kerala,32,Trivandrum,1477
+1739,01-07-2018,Assam,18,Guwahati,0
+1740,01-07-2018,Rajasthan,8,Jaipur,175
+1741,01-07-2018,Kerala,32,Calicut,721
+1742,01-07-2018,Odisha,21,Bhubaneswar,0
+1743,01-07-2018,Tamil Nadu,33,Coimbatore,201
+1744,01-07-2018,Jammu and Kashmir,1,Srinagar,0
+1745,01-07-2018,Uttar Pradesh,9,Varanasi,0
+1746,01-07-2018,Karnataka,29,Mangalore,390
+1747,01-07-2018,Punjab,3,Amritsar,62
+1748,01-07-2018,Tamil Nadu,33,Trichy,542
+1749,01-07-2018,Andaman and Nicobar Islands,35,Portblair,0
+1750,01-07-2018,Manipur,14,Imphal,0
+1751,01-07-2018,Andhra Pradesh,28,Vijayawada,0
+1752,01-07-2018,Andhra Pradesh,28,Tirupati,0
+1753,01-07-2018,Delhi,7,Delhi,54536
+1754,01-07-2018,Maharashtra,27,Mumbai,55159
+1755,01-07-2018,Karnataka,29,Bangalore,22469
+1756,01-07-2018,Telangana,36,Hyderabad,7319
+1757,01-07-2018,Kerala,32,Cochin,4018
+1758,01-07-2018,Maharashtra,27,Nagpur,79
+1759,01-07-2018,Maharashtra,27,Pune,2
+1760,01-07-2018,Andhra Pradesh,28,Visakhapatnam,0
+1761,01-07-2018,Bihar,10,Patna,0
+1762,01-07-2018,Chandigarh,4,Chandigarh,0
+1763,01-07-2018,West Bengal,19,Bagdogra,0
+1764,01-07-2018,Tamil Nadu,33,Madurai,171
+1765,01-07-2018,Maharashtra,27,Aurangabad,0
+1766,01-07-2018,Bihar,10,Gaya,0
+1767,01-08-2018,Tamil Nadu,33,Chennai,29281
+1768,01-08-2018,West Bengal,19,Kolkata,5380
+1769,01-08-2018,Gujarat,24,Ahmedabad,3676
+1770,01-08-2018,Goa,30,Goa,166
+1771,01-08-2018,Uttar Pradesh,9,Lucknow,219
+1772,01-08-2018,Kerala,32,Trivandrum,2755
+1773,01-08-2018,Assam,18,Guwahati,17
+1774,01-08-2018,Rajasthan,8,Jaipur,243
+1775,01-08-2018,Kerala,32,Calicut,1293
+1776,01-08-2018,Odisha,21,Bhubaneswar,5
+1777,01-08-2018,Tamil Nadu,33,Coimbatore,177
+1778,01-08-2018,Jammu and Kashmir,1,Srinagar,0
+1779,01-08-2018,Uttar Pradesh,9,Varanasi,0
+1780,01-08-2018,Karnataka,29,Mangalore,225
+1781,01-08-2018,Punjab,3,Amritsar,52
+1782,01-08-2018,Tamil Nadu,33,Trichy,452
+1783,01-08-2018,Andaman and Nicobar Islands,35,Portblair,0
+1784,01-08-2018,Manipur,14,Imphal,0
+1785,01-08-2018,Andhra Pradesh,28,Vijayawada,0
+1786,01-08-2018,Andhra Pradesh,28,Tirupati,0
+1787,01-08-2018,Delhi,7,Delhi,56136
+1788,01-08-2018,Maharashtra,27,Mumbai,57805
+1789,01-08-2018,Karnataka,29,Bangalore,21682
+1790,01-08-2018,Telangana,36,Hyderabad,7035
+1791,01-08-2018,Kerala,32,Cochin,3004
+1792,01-08-2018,Maharashtra,27,Nagpur,111
+1793,01-08-2018,Maharashtra,27,Pune,3
+1794,01-08-2018,Andhra Pradesh,28,Visakhapatnam,0
+1795,01-08-2018,Bihar,10,Patna,0
+1796,01-08-2018,Chandigarh,4,Chandigarh,0
+1797,01-08-2018,West Bengal,19,Bagdogra,0
+1798,01-08-2018,Tamil Nadu,33,Madurai,156
+1799,01-08-2018,Maharashtra,27,Aurangabad,0
+1800,01-08-2018,Bihar,10,Gaya,0
+1801,01-09-2018,Tamil Nadu,33,Chennai,28005
+1802,01-09-2018,West Bengal,19,Kolkata,5778
+1803,01-09-2018,Gujarat,24,Ahmedabad,3571
+1804,01-09-2018,Goa,30,Goa,168
+1805,01-09-2018,Uttar Pradesh,9,Lucknow,279
+1806,01-09-2018,Kerala,32,Trivandrum,2070
+1807,01-09-2018,Assam,18,Guwahati,0
+1808,01-09-2018,Rajasthan,8,Jaipur,232
+1809,01-09-2018,Kerala,32,Calicut,1355
+1810,01-09-2018,Odisha,21,Bhubaneswar,5
+1811,01-09-2018,Tamil Nadu,33,Coimbatore,175
+1812,01-09-2018,Jammu and Kashmir,1,Srinagar,0
+1813,01-09-2018,Uttar Pradesh,9,Varanasi,0
+1814,01-09-2018,Karnataka,29,Mangalore,208
+1815,01-09-2018,Punjab,3,Amritsar,45
+1816,01-09-2018,Tamil Nadu,33,Trichy,608
+1817,01-09-2018,Andaman and Nicobar Islands,35,Portblair,0
+1818,01-09-2018,Manipur,14,Imphal,0
+1819,01-09-2018,Andhra Pradesh,28,Vijayawada,0
+1820,01-09-2018,Andhra Pradesh,28,Tirupati,0
+1821,01-09-2018,Delhi,7,Delhi,58723
+1822,01-09-2018,Maharashtra,27,Mumbai,53571
+1823,01-09-2018,Karnataka,29,Bangalore,19868
+1824,01-09-2018,Telangana,36,Hyderabad,7034
+1825,01-09-2018,Kerala,32,Cochin,5256
+1826,01-09-2018,Maharashtra,27,Nagpur,106
+1827,01-09-2018,Maharashtra,27,Pune,3
+1828,01-09-2018,Andhra Pradesh,28,Visakhapatnam,0
+1829,01-09-2018,Bihar,10,Patna,0
+1830,01-09-2018,Chandigarh,4,Chandigarh,0
+1831,01-09-2018,West Bengal,19,Bagdogra,0
+1832,01-09-2018,Tamil Nadu,33,Madurai,151
+1833,01-09-2018,Maharashtra,27,Aurangabad,0
+1834,01-09-2018,Bihar,10,Gaya,0
+1835,01-10-2018,Tamil Nadu,33,Chennai,28105
+1836,01-10-2018,West Bengal,19,Kolkata,5497
+1837,01-10-2018,Gujarat,24,Ahmedabad,5077
+1838,01-10-2018,Goa,30,Goa,144
+1839,01-10-2018,Uttar Pradesh,9,Lucknow,221
+1840,01-10-2018,Kerala,32,Trivandrum,1822
+1841,01-10-2018,Assam,18,Guwahati,0
+1842,01-10-2018,Rajasthan,8,Jaipur,212
+1843,01-10-2018,Kerala,32,Calicut,1409
+1844,01-10-2018,Odisha,21,Bhubaneswar,5
+1845,01-10-2018,Tamil Nadu,33,Coimbatore,176
+1846,01-10-2018,Jammu and Kashmir,1,Srinagar,0
+1847,01-10-2018,Uttar Pradesh,9,Varanasi,0
+1848,01-10-2018,Karnataka,29,Mangalore,190
+1849,01-10-2018,Punjab,3,Amritsar,79
+1850,01-10-2018,Tamil Nadu,33,Trichy,638
+1851,01-10-2018,Andaman and Nicobar Islands,35,Portblair,0
+1852,01-10-2018,Manipur,14,Imphal,0
+1853,01-10-2018,Andhra Pradesh,28,Vijayawada,0
+1854,01-10-2018,Andhra Pradesh,28,Tirupati,0
+1855,01-10-2018,Delhi,7,Delhi,59646
+1856,01-10-2018,Maharashtra,27,Mumbai,56713
+1857,01-10-2018,Karnataka,29,Bangalore,20086
+1858,01-10-2018,Telangana,36,Hyderabad,7061
+1859,01-10-2018,Kerala,32,Cochin,5294
+1860,01-10-2018,Maharashtra,27,Nagpur,99
+1861,01-10-2018,Maharashtra,27,Pune,9
+1862,01-10-2018,Andhra Pradesh,28,Visakhapatnam,0
+1863,01-10-2018,Bihar,10,Patna,0
+1864,01-10-2018,Chandigarh,4,Chandigarh,0
+1865,01-10-2018,West Bengal,19,Bagdogra,0
+1866,01-10-2018,Tamil Nadu,33,Madurai,148
+1867,01-10-2018,Maharashtra,27,Aurangabad,0
+1868,01-10-2018,Bihar,10,Gaya,0
+1869,01-11-2018,Tamil Nadu,33,Chennai,24247
+1870,01-11-2018,West Bengal,19,Kolkata,5253
+1871,01-11-2018,Gujarat,24,Ahmedabad,5128
+1872,01-11-2018,Goa,30,Goa,129
+1873,01-11-2018,Uttar Pradesh,9,Lucknow,207
+1874,01-11-2018,Kerala,32,Trivandrum,1716
+1875,01-11-2018,Assam,18,Guwahati,1
+1876,01-11-2018,Rajasthan,8,Jaipur,213
+1877,01-11-2018,Kerala,32,Calicut,1375
+1878,01-11-2018,Odisha,21,Bhubaneswar,3
+1879,01-11-2018,Tamil Nadu,33,Coimbatore,203
+1880,01-11-2018,Jammu and Kashmir,1,Srinagar,0
+1881,01-11-2018,Uttar Pradesh,9,Varanasi,0
+1882,01-11-2018,Karnataka,29,Mangalore,186
+1883,01-11-2018,Punjab,3,Amritsar,66
+1884,01-11-2018,Tamil Nadu,33,Trichy,521
+1885,01-11-2018,Andaman and Nicobar Islands,35,Portblair,0
+1886,01-11-2018,Manipur,14,Imphal,0
+1887,01-11-2018,Andhra Pradesh,28,Vijayawada,0
+1888,01-11-2018,Andhra Pradesh,28,Tirupati,0
+1889,01-11-2018,Delhi,7,Delhi,51854
+1890,01-11-2018,Maharashtra,27,Mumbai,56398
+1891,01-11-2018,Karnataka,29,Bangalore,18201
+1892,01-11-2018,Telangana,36,Hyderabad,6530
+1893,01-11-2018,Kerala,32,Cochin,4815
+1894,01-11-2018,Maharashtra,27,Nagpur,126
+1895,01-11-2018,Maharashtra,27,Pune,12
+1896,01-11-2018,Andhra Pradesh,28,Visakhapatnam,0
+1897,01-11-2018,Bihar,10,Patna,0
+1898,01-11-2018,Chandigarh,4,Chandigarh,0
+1899,01-11-2018,West Bengal,19,Bagdogra,0
+1900,01-11-2018,Tamil Nadu,33,Madurai,140
+1901,01-11-2018,Maharashtra,27,Aurangabad,0
+1902,01-11-2018,Bihar,10,Gaya,0
+1903,01-12-2018,Tamil Nadu,33,Chennai,24465
+1904,01-12-2018,West Bengal,19,Kolkata,5008
+1905,01-12-2018,Gujarat,24,Ahmedabad,3796
+1906,01-12-2018,Goa,30,Goa,107
+1907,01-12-2018,Uttar Pradesh,9,Lucknow,241
+1908,01-12-2018,Kerala,32,Trivandrum,1719
+1909,01-12-2018,Assam,18,Guwahati,1
+1910,01-12-2018,Rajasthan,8,Jaipur,215
+1911,01-12-2018,Kerala,32,Calicut,1569
+1912,01-12-2018,Odisha,21,Bhubaneswar,0
+1913,01-12-2018,Tamil Nadu,33,Coimbatore,179
+1914,01-12-2018,Jammu and Kashmir,1,Srinagar,0
+1915,01-12-2018,Uttar Pradesh,9,Varanasi,0
+1916,01-12-2018,Karnataka,29,Mangalore,146
+1917,01-12-2018,Punjab,3,Amritsar,82
+1918,01-12-2018,Tamil Nadu,33,Trichy,573
+1919,01-12-2018,Andaman and Nicobar Islands,35,Portblair,0
+1920,01-12-2018,Manipur,14,Imphal,0
+1921,01-12-2018,Andhra Pradesh,28,Vijayawada,0
+1922,01-12-2018,Andhra Pradesh,28,Tirupati,0
+1923,01-12-2018,Delhi,7,Delhi,53294
+1924,01-12-2018,Maharashtra,27,Mumbai,56243
+1925,01-12-2018,Karnataka,29,Bangalore,19259
+1926,01-12-2018,Telangana,36,Hyderabad,6906
+1927,01-12-2018,Kerala,32,Cochin,5286
+1928,01-12-2018,Maharashtra,27,Nagpur,113
+1929,01-12-2018,Maharashtra,27,Pune,11
+1930,01-12-2018,Andhra Pradesh,28,Visakhapatnam,0
+1931,01-12-2018,Bihar,10,Patna,0
+1932,01-12-2018,Chandigarh,4,Chandigarh,0
+1933,01-12-2018,West Bengal,19,Bagdogra,0
+1934,01-12-2018,Tamil Nadu,33,Madurai,161
+1935,01-12-2018,Maharashtra,27,Aurangabad,0
+1936,01-12-2018,Bihar,10,Gaya,0
+1937,01-01-2017,Tamil Nadu,33,Chennai,20692
+1938,01-01-2017,West Bengal,19,Kolkata,4644
+1939,01-01-2017,Gujarat,24,Ahmedabad,2621
+1940,01-01-2017,Goa,30,Goa,82
+1941,01-01-2017,Uttar Pradesh,9,Lucknow,147
+1942,01-01-2017,Kerala,32,Trivandrum,1473
+1943,01-01-2017,Assam,18,Guwahati,0
+1944,01-01-2017,Rajasthan,8,Jaipur,246
+1945,01-01-2017,Kerala,32,Calicut,1160
+1946,01-01-2017,Odisha,21,Bhubaneswar,0
+1947,01-01-2017,Tamil Nadu,33,Coimbatore,79
+1948,01-01-2017,Jammu and Kashmir,1,Srinagar,0
+1949,01-01-2017,Uttar Pradesh,9,Varanasi,0
+1950,01-01-2017,Karnataka,29,Mangalore,59
+1951,01-01-2017,Punjab,3,Amritsar,78
+1952,01-01-2017,Tamil Nadu,33,Trichy,556
+1953,01-01-2017,Andaman and Nicobar Islands,35,Portblair,0
+1954,01-01-2017,Manipur,14,Imphal,0
+1955,01-01-2017,Andhra Pradesh,28,Vijayawada,0
+1956,01-01-2017,Andhra Pradesh,28,Tirupati,0
+1957,01-01-2017,Delhi,7,Delhi,46427
+1958,01-01-2017,Maharashtra,27,Mumbai,46969
+1959,01-01-2017,Karnataka,29,Bangalore,15585
+1960,01-01-2017,Telangana,36,Hyderabad,5410
+1961,01-01-2017,Kerala,32,Cochin,4872
+1962,01-01-2017,Maharashtra,27,Nagpur,49
+1963,01-01-2017,Maharashtra,27,Pune,0
+1964,01-01-2017,Andhra Pradesh,28,Visakhapatnam,0
+1965,01-01-2017,Bihar,10,Patna,0
+1966,01-01-2017,Chandigarh,4,Chandigarh,0
+1967,01-01-2017,West Bengal,19,Bagdogra,0
+1968,01-01-2017,Tamil Nadu,33,Madurai,0
+1969,01-01-2017,Maharashtra,27,Aurangabad,0
+1970,01-01-2017,Bihar,10,Gaya,0
+1971,01-02-2017,Tamil Nadu,33,Chennai,21135
+1972,01-02-2017,West Bengal,19,Kolkata,4429
+1973,01-02-2017,Gujarat,24,Ahmedabad,2616
+1974,01-02-2017,Goa,30,Goa,51
+1975,01-02-2017,Uttar Pradesh,9,Lucknow,172
+1976,01-02-2017,Kerala,32,Trivandrum,2186
+1977,01-02-2017,Assam,18,Guwahati,0
+1978,01-02-2017,Rajasthan,8,Jaipur,245
+1979,01-02-2017,Kerala,32,Calicut,1086
+1980,01-02-2017,Odisha,21,Bhubaneswar,0
+1981,01-02-2017,Tamil Nadu,33,Coimbatore,88
+1982,01-02-2017,Jammu and Kashmir,1,Srinagar,0
+1983,01-02-2017,Uttar Pradesh,9,Varanasi,0
+1984,01-02-2017,Karnataka,29,Mangalore,78
+1985,01-02-2017,Punjab,3,Amritsar,83
+1986,01-02-2017,Tamil Nadu,33,Trichy,525
+1987,01-02-2017,Andaman and Nicobar Islands,35,Portblair,0
+1988,01-02-2017,Manipur,14,Imphal,0
+1989,01-02-2017,Andhra Pradesh,28,Vijayawada,0
+1990,01-02-2017,Andhra Pradesh,28,Tirupati,0
+1991,01-02-2017,Delhi,7,Delhi,44853
+1992,01-02-2017,Maharashtra,27,Mumbai,45350
+1993,01-02-2017,Karnataka,29,Bangalore,15959
+1994,01-02-2017,Telangana,36,Hyderabad,5180
+1995,01-02-2017,Kerala,32,Cochin,4700
+1996,01-02-2017,Maharashtra,27,Nagpur,47
+1997,01-02-2017,Maharashtra,27,Pune,0
+1998,01-02-2017,Andhra Pradesh,28,Visakhapatnam,0
+1999,01-02-2017,Bihar,10,Patna,0
+2000,01-02-2017,Chandigarh,4,Chandigarh,0
+2001,01-02-2017,West Bengal,19,Bagdogra,0
+2002,01-02-2017,Tamil Nadu,33,Madurai,0
+2003,01-02-2017,Maharashtra,27,Aurangabad,0
+2004,01-02-2017,Bihar,10,Gaya,0
+2005,01-03-2017,Tamil Nadu,33,Chennai,27960
+2006,01-03-2017,West Bengal,19,Kolkata,5984
+2007,01-03-2017,Gujarat,24,Ahmedabad,3457
+2008,01-03-2017,Goa,30,Goa,85
+2009,01-03-2017,Uttar Pradesh,9,Lucknow,240
+2010,01-03-2017,Kerala,32,Trivandrum,2581
+2011,01-03-2017,Assam,18,Guwahati,1
+2012,01-03-2017,Rajasthan,8,Jaipur,244
+2013,01-03-2017,Kerala,32,Calicut,1384
+2014,01-03-2017,Odisha,21,Bhubaneswar,0
+2015,01-03-2017,Tamil Nadu,33,Coimbatore,93
+2016,01-03-2017,Jammu and Kashmir,1,Srinagar,0
+2017,01-03-2017,Uttar Pradesh,9,Varanasi,0
+2018,01-03-2017,Karnataka,29,Mangalore,120
+2019,01-03-2017,Punjab,3,Amritsar,74
+2020,01-03-2017,Tamil Nadu,33,Trichy,596
+2021,01-03-2017,Andaman and Nicobar Islands,35,Portblair,0
+2022,01-03-2017,Manipur,14,Imphal,0
+2023,01-03-2017,Andhra Pradesh,28,Vijayawada,0
+2024,01-03-2017,Andhra Pradesh,28,Tirupati,0
+2025,01-03-2017,Delhi,7,Delhi,57064
+2026,01-03-2017,Maharashtra,27,Mumbai,59361
+2027,01-03-2017,Karnataka,29,Bangalore,19457
+2028,01-03-2017,Telangana,36,Hyderabad,7192
+2029,01-03-2017,Kerala,32,Cochin,5833
+2030,01-03-2017,Maharashtra,27,Nagpur,32
+2031,01-03-2017,Maharashtra,27,Pune,0
+2032,01-03-2017,Andhra Pradesh,28,Visakhapatnam,0
+2033,01-03-2017,Bihar,10,Patna,0
+2034,01-03-2017,Chandigarh,4,Chandigarh,0
+2035,01-03-2017,West Bengal,19,Bagdogra,0
+2036,01-03-2017,Tamil Nadu,33,Madurai,0
+2037,01-03-2017,Maharashtra,27,Aurangabad,0
+2038,01-03-2017,Bihar,10,Gaya,0
+2039,01-04-2017,Tamil Nadu,33,Chennai,24366
+2040,01-04-2017,West Bengal,19,Kolkata,4891
+2041,01-04-2017,Gujarat,24,Ahmedabad,3110
+2042,01-04-2017,Goa,30,Goa,123
+2043,01-04-2017,Uttar Pradesh,9,Lucknow,183
+2044,01-04-2017,Kerala,32,Trivandrum,2387
+2045,01-04-2017,Assam,18,Guwahati,0
+2046,01-04-2017,Rajasthan,8,Jaipur,233
+2047,01-04-2017,Kerala,32,Calicut,1558
+2048,01-04-2017,Odisha,21,Bhubaneswar,0
+2049,01-04-2017,Tamil Nadu,33,Coimbatore,67
+2050,01-04-2017,Jammu and Kashmir,1,Srinagar,0
+2051,01-04-2017,Uttar Pradesh,9,Varanasi,0
+2052,01-04-2017,Karnataka,29,Mangalore,142
+2053,01-04-2017,Punjab,3,Amritsar,106
+2054,01-04-2017,Tamil Nadu,33,Trichy,622
+2055,01-04-2017,Andaman and Nicobar Islands,35,Portblair,0
+2056,01-04-2017,Manipur,14,Imphal,0
+2057,01-04-2017,Andhra Pradesh,28,Vijayawada,0
+2058,01-04-2017,Andhra Pradesh,28,Tirupati,0
+2059,01-04-2017,Delhi,7,Delhi,55131
+2060,01-04-2017,Maharashtra,27,Mumbai,52581
+2061,01-04-2017,Karnataka,29,Bangalore,17259
+2062,01-04-2017,Telangana,36,Hyderabad,6170
+2063,01-04-2017,Kerala,32,Cochin,5940
+2064,01-04-2017,Maharashtra,27,Nagpur,31
+2065,01-04-2017,Maharashtra,27,Pune,0
+2066,01-04-2017,Andhra Pradesh,28,Visakhapatnam,0
+2067,01-04-2017,Bihar,10,Patna,0
+2068,01-04-2017,Chandigarh,4,Chandigarh,0
+2069,01-04-2017,West Bengal,19,Bagdogra,0
+2070,01-04-2017,Tamil Nadu,33,Madurai,1
+2071,01-04-2017,Maharashtra,27,Aurangabad,0
+2072,01-04-2017,Bihar,10,Gaya,0
+2073,01-05-2017,Tamil Nadu,33,Chennai,25605
+2074,01-05-2017,West Bengal,19,Kolkata,6027
+2075,01-05-2017,Gujarat,24,Ahmedabad,3800
+2076,01-05-2017,Goa,30,Goa,104
+2077,01-05-2017,Uttar Pradesh,9,Lucknow,391
+2078,01-05-2017,Kerala,32,Trivandrum,2336
+2079,01-05-2017,Assam,18,Guwahati,1
+2080,01-05-2017,Rajasthan,8,Jaipur,252
+2081,01-05-2017,Kerala,32,Calicut,1544
+2082,01-05-2017,Odisha,21,Bhubaneswar,0
+2083,01-05-2017,Tamil Nadu,33,Coimbatore,91
+2084,01-05-2017,Jammu and Kashmir,1,Srinagar,0
+2085,01-05-2017,Uttar Pradesh,9,Varanasi,0
+2086,01-05-2017,Karnataka,29,Mangalore,165
+2087,01-05-2017,Punjab,3,Amritsar,79
+2088,01-05-2017,Tamil Nadu,33,Trichy,547
+2089,01-05-2017,Andaman and Nicobar Islands,35,Portblair,0
+2090,01-05-2017,Manipur,14,Imphal,0
+2091,01-05-2017,Andhra Pradesh,28,Vijayawada,0
+2092,01-05-2017,Andhra Pradesh,28,Tirupati,0
+2093,01-05-2017,Delhi,7,Delhi,57772
+2094,01-05-2017,Maharashtra,27,Mumbai,54615
+2095,01-05-2017,Karnataka,29,Bangalore,17994
+2096,01-05-2017,Telangana,36,Hyderabad,6748
+2097,01-05-2017,Kerala,32,Cochin,6405
+2098,01-05-2017,Maharashtra,27,Nagpur,13
+2099,01-05-2017,Maharashtra,27,Pune,0
+2100,01-05-2017,Andhra Pradesh,28,Visakhapatnam,0
+2101,01-05-2017,Bihar,10,Patna,0
+2102,01-05-2017,Chandigarh,4,Chandigarh,0
+2103,01-05-2017,West Bengal,19,Bagdogra,0
+2104,01-05-2017,Tamil Nadu,33,Madurai,0
+2105,01-05-2017,Maharashtra,27,Aurangabad,0
+2106,01-05-2017,Bihar,10,Gaya,0
+2107,01-06-2017,Tamil Nadu,33,Chennai,26597
+2108,01-06-2017,West Bengal,19,Kolkata,5061
+2109,01-06-2017,Gujarat,24,Ahmedabad,3637
+2110,01-06-2017,Goa,30,Goa,139
+2111,01-06-2017,Uttar Pradesh,9,Lucknow,344
+2112,01-06-2017,Kerala,32,Trivandrum,2314
+2113,01-06-2017,Assam,18,Guwahati,0
+2114,01-06-2017,Rajasthan,8,Jaipur,258
+2115,01-06-2017,Kerala,32,Calicut,1611
+2116,01-06-2017,Odisha,21,Bhubaneswar,0
+2117,01-06-2017,Tamil Nadu,33,Coimbatore,93
+2118,01-06-2017,Jammu and Kashmir,1,Srinagar,0
+2119,01-06-2017,Uttar Pradesh,9,Varanasi,0
+2120,01-06-2017,Karnataka,29,Mangalore,216
+2121,01-06-2017,Punjab,3,Amritsar,112
+2122,01-06-2017,Tamil Nadu,33,Trichy,526
+2123,01-06-2017,Andaman and Nicobar Islands,35,Portblair,0
+2124,01-06-2017,Manipur,14,Imphal,0
+2125,01-06-2017,Andhra Pradesh,28,Vijayawada,0
+2126,01-06-2017,Andhra Pradesh,28,Tirupati,0
+2127,01-06-2017,Delhi,7,Delhi,54653
+2128,01-06-2017,Maharashtra,27,Mumbai,52446
+2129,01-06-2017,Karnataka,29,Bangalore,18330
+2130,01-06-2017,Telangana,36,Hyderabad,6644
+2131,01-06-2017,Kerala,32,Cochin,5751
+2132,01-06-2017,Maharashtra,27,Nagpur,36
+2133,01-06-2017,Maharashtra,27,Pune,0
+2134,01-06-2017,Andhra Pradesh,28,Visakhapatnam,0
+2135,01-06-2017,Bihar,10,Patna,0
+2136,01-06-2017,Chandigarh,4,Chandigarh,0
+2137,01-06-2017,West Bengal,19,Bagdogra,0
+2138,01-06-2017,Tamil Nadu,33,Madurai,0
+2139,01-06-2017,Maharashtra,27,Aurangabad,0
+2140,01-06-2017,Bihar,10,Gaya,0
+2141,01-07-2017,Tamil Nadu,33,Chennai,28085
+2142,01-07-2017,West Bengal,19,Kolkata,5075
+2143,01-07-2017,Gujarat,24,Ahmedabad,3628
+2144,01-07-2017,Goa,30,Goa,201
+2145,01-07-2017,Uttar Pradesh,9,Lucknow,214
+2146,01-07-2017,Kerala,32,Trivandrum,2358
+2147,01-07-2017,Assam,18,Guwahati,0
+2148,01-07-2017,Rajasthan,8,Jaipur,242
+2149,01-07-2017,Kerala,32,Calicut,1683
+2150,01-07-2017,Odisha,21,Bhubaneswar,0
+2151,01-07-2017,Tamil Nadu,33,Coimbatore,118
+2152,01-07-2017,Jammu and Kashmir,1,Srinagar,9
+2153,01-07-2017,Uttar Pradesh,9,Varanasi,0
+2154,01-07-2017,Karnataka,29,Mangalore,205
+2155,01-07-2017,Punjab,3,Amritsar,103
+2156,01-07-2017,Tamil Nadu,33,Trichy,472
+2157,01-07-2017,Andaman and Nicobar Islands,35,Portblair,0
+2158,01-07-2017,Manipur,14,Imphal,0
+2159,01-07-2017,Andhra Pradesh,28,Vijayawada,0
+2160,01-07-2017,Andhra Pradesh,28,Tirupati,0
+2161,01-07-2017,Delhi,7,Delhi,51228
+2162,01-07-2017,Maharashtra,27,Mumbai,48784
+2163,01-07-2017,Karnataka,29,Bangalore,18804
+2164,01-07-2017,Telangana,36,Hyderabad,6316
+2165,01-07-2017,Kerala,32,Cochin,5629
+2166,01-07-2017,Maharashtra,27,Nagpur,45
+2167,01-07-2017,Maharashtra,27,Pune,2
+2168,01-07-2017,Andhra Pradesh,28,Visakhapatnam,0
+2169,01-07-2017,Bihar,10,Patna,0
+2170,01-07-2017,Chandigarh,4,Chandigarh,0
+2171,01-07-2017,West Bengal,19,Bagdogra,0
+2172,01-07-2017,Tamil Nadu,33,Madurai,0
+2173,01-07-2017,Maharashtra,27,Aurangabad,0
+2174,01-07-2017,Bihar,10,Gaya,0
+2175,01-08-2017,Tamil Nadu,33,Chennai,27113
+2176,01-08-2017,West Bengal,19,Kolkata,5420
+2177,01-08-2017,Gujarat,24,Ahmedabad,3329
+2178,01-08-2017,Goa,30,Goa,217
+2179,01-08-2017,Uttar Pradesh,9,Lucknow,274
+2180,01-08-2017,Kerala,32,Trivandrum,3636
+2181,01-08-2017,Assam,18,Guwahati,1
+2182,01-08-2017,Rajasthan,8,Jaipur,321
+2183,01-08-2017,Kerala,32,Calicut,1603
+2184,01-08-2017,Odisha,21,Bhubaneswar,0
+2185,01-08-2017,Tamil Nadu,33,Coimbatore,135
+2186,01-08-2017,Jammu and Kashmir,1,Srinagar,2
+2187,01-08-2017,Uttar Pradesh,9,Varanasi,0
+2188,01-08-2017,Karnataka,29,Mangalore,245
+2189,01-08-2017,Punjab,3,Amritsar,121
+2190,01-08-2017,Tamil Nadu,33,Trichy,628
+2191,01-08-2017,Andaman and Nicobar Islands,35,Portblair,0
+2192,01-08-2017,Manipur,14,Imphal,0
+2193,01-08-2017,Andhra Pradesh,28,Vijayawada,0
+2194,01-08-2017,Andhra Pradesh,28,Tirupati,0
+2195,01-08-2017,Delhi,7,Delhi,55181
+2196,01-08-2017,Maharashtra,27,Mumbai,51080
+2197,01-08-2017,Karnataka,29,Bangalore,18844
+2198,01-08-2017,Telangana,36,Hyderabad,7348
+2199,01-08-2017,Kerala,32,Cochin,5677
+2200,01-08-2017,Maharashtra,27,Nagpur,85
+2201,01-08-2017,Maharashtra,27,Pune,1
+2202,01-08-2017,Andhra Pradesh,28,Visakhapatnam,0
+2203,01-08-2017,Bihar,10,Patna,0
+2204,01-08-2017,Chandigarh,4,Chandigarh,0
+2205,01-08-2017,West Bengal,19,Bagdogra,0
+2206,01-08-2017,Tamil Nadu,33,Madurai,4
+2207,01-08-2017,Maharashtra,27,Aurangabad,0
+2208,01-08-2017,Bihar,10,Gaya,0
+2209,01-09-2017,Tamil Nadu,33,Chennai,26421
+2210,01-09-2017,West Bengal,19,Kolkata,4995
+2211,01-09-2017,Gujarat,24,Ahmedabad,3929
+2212,01-09-2017,Goa,30,Goa,155
+2213,01-09-2017,Uttar Pradesh,9,Lucknow,236
+2214,01-09-2017,Kerala,32,Trivandrum,2116
+2215,01-09-2017,Assam,18,Guwahati,0
+2216,01-09-2017,Rajasthan,8,Jaipur,342
+2217,01-09-2017,Kerala,32,Calicut,1413
+2218,01-09-2017,Odisha,21,Bhubaneswar,0
+2219,01-09-2017,Tamil Nadu,33,Coimbatore,123
+2220,01-09-2017,Jammu and Kashmir,1,Srinagar,0
+2221,01-09-2017,Uttar Pradesh,9,Varanasi,0
+2222,01-09-2017,Karnataka,29,Mangalore,178
+2223,01-09-2017,Punjab,3,Amritsar,120
+2224,01-09-2017,Tamil Nadu,33,Trichy,499
+2225,01-09-2017,Andaman and Nicobar Islands,35,Portblair,0
+2226,01-09-2017,Manipur,14,Imphal,0
+2227,01-09-2017,Andhra Pradesh,28,Vijayawada,0
+2228,01-09-2017,Andhra Pradesh,28,Tirupati,0
+2229,01-09-2017,Delhi,7,Delhi,56371
+2230,01-09-2017,Maharashtra,27,Mumbai,52031
+2231,01-09-2017,Karnataka,29,Bangalore,18012
+2232,01-09-2017,Telangana,36,Hyderabad,6593
+2233,01-09-2017,Kerala,32,Cochin,5025
+2234,01-09-2017,Maharashtra,27,Nagpur,82
+2235,01-09-2017,Maharashtra,27,Pune,1
+2236,01-09-2017,Andhra Pradesh,28,Visakhapatnam,0
+2237,01-09-2017,Bihar,10,Patna,0
+2238,01-09-2017,Chandigarh,4,Chandigarh,0
+2239,01-09-2017,West Bengal,19,Bagdogra,0
+2240,01-09-2017,Tamil Nadu,33,Madurai,0
+2241,01-09-2017,Maharashtra,27,Aurangabad,0
+2242,01-09-2017,Bihar,10,Gaya,0
+2243,01-10-2017,Tamil Nadu,33,Chennai,26134
+2244,01-10-2017,West Bengal,19,Kolkata,5120
+2245,01-10-2017,Gujarat,24,Ahmedabad,3275
+2246,01-10-2017,Goa,30,Goa,127
+2247,01-10-2017,Uttar Pradesh,9,Lucknow,189
+2248,01-10-2017,Kerala,32,Trivandrum,2170
+2249,01-10-2017,Assam,18,Guwahati,0
+2250,01-10-2017,Rajasthan,8,Jaipur,270
+2251,01-10-2017,Kerala,32,Calicut,1505
+2252,01-10-2017,Odisha,21,Bhubaneswar,0
+2253,01-10-2017,Tamil Nadu,33,Coimbatore,107
+2254,01-10-2017,Jammu and Kashmir,1,Srinagar,0
+2255,01-10-2017,Uttar Pradesh,9,Varanasi,0
+2256,01-10-2017,Karnataka,29,Mangalore,204
+2257,01-10-2017,Punjab,3,Amritsar,109
+2258,01-10-2017,Tamil Nadu,33,Trichy,500
+2259,01-10-2017,Andaman and Nicobar Islands,35,Portblair,0
+2260,01-10-2017,Manipur,14,Imphal,0
+2261,01-10-2017,Andhra Pradesh,28,Vijayawada,0
+2262,01-10-2017,Andhra Pradesh,28,Tirupati,0
+2263,01-10-2017,Delhi,7,Delhi,55955
+2264,01-10-2017,Maharashtra,27,Mumbai,52599
+2265,01-10-2017,Karnataka,29,Bangalore,17836
+2266,01-10-2017,Telangana,36,Hyderabad,6405
+2267,01-10-2017,Kerala,32,Cochin,4931
+2268,01-10-2017,Maharashtra,27,Nagpur,80
+2269,01-10-2017,Maharashtra,27,Pune,6
+2270,01-10-2017,Andhra Pradesh,28,Visakhapatnam,0
+2271,01-10-2017,Bihar,10,Patna,0
+2272,01-10-2017,Chandigarh,4,Chandigarh,0
+2273,01-10-2017,West Bengal,19,Bagdogra,0
+2274,01-10-2017,Tamil Nadu,33,Madurai,1
+2275,01-10-2017,Maharashtra,27,Aurangabad,0
+2276,01-10-2017,Bihar,10,Gaya,0
+2277,01-11-2017,Tamil Nadu,33,Chennai,25976
+2278,01-11-2017,West Bengal,19,Kolkata,5542
+2279,01-11-2017,Gujarat,24,Ahmedabad,3446
+2280,01-11-2017,Goa,30,Goa,121
+2281,01-11-2017,Uttar Pradesh,9,Lucknow,240
+2282,01-11-2017,Kerala,32,Trivandrum,1938
+2283,01-11-2017,Assam,18,Guwahati,0
+2284,01-11-2017,Rajasthan,8,Jaipur,298
+2285,01-11-2017,Kerala,32,Calicut,1344
+2286,01-11-2017,Odisha,21,Bhubaneswar,0
+2287,01-11-2017,Tamil Nadu,33,Coimbatore,136
+2288,01-11-2017,Jammu and Kashmir,1,Srinagar,0
+2289,01-11-2017,Uttar Pradesh,9,Varanasi,0
+2290,01-11-2017,Karnataka,29,Mangalore,134
+2291,01-11-2017,Punjab,3,Amritsar,28
+2292,01-11-2017,Tamil Nadu,33,Trichy,491
+2293,01-11-2017,Andaman and Nicobar Islands,35,Portblair,0
+2294,01-11-2017,Manipur,14,Imphal,0
+2295,01-11-2017,Andhra Pradesh,28,Vijayawada,0
+2296,01-11-2017,Andhra Pradesh,28,Tirupati,0
+2297,01-11-2017,Delhi,7,Delhi,54634
+2298,01-11-2017,Maharashtra,27,Mumbai,56683
+2299,01-11-2017,Karnataka,29,Bangalore,18358
+2300,01-11-2017,Telangana,36,Hyderabad,6014
+2301,01-11-2017,Kerala,32,Cochin,5135
+2302,01-11-2017,Maharashtra,27,Nagpur,130
+2303,01-11-2017,Maharashtra,27,Pune,8
+2304,01-11-2017,Andhra Pradesh,28,Visakhapatnam,0
+2305,01-11-2017,Bihar,10,Patna,0
+2306,01-11-2017,Chandigarh,4,Chandigarh,0
+2307,01-11-2017,West Bengal,19,Bagdogra,0
+2308,01-11-2017,Tamil Nadu,33,Madurai,1
+2309,01-11-2017,Maharashtra,27,Aurangabad,0
+2310,01-11-2017,Bihar,10,Gaya,0
+2311,01-12-2017,Tamil Nadu,33,Chennai,24743
+2312,01-12-2017,West Bengal,19,Kolkata,5161
+2313,01-12-2017,Gujarat,24,Ahmedabad,3535
+2314,01-12-2017,Goa,30,Goa,81
+2315,01-12-2017,Uttar Pradesh,9,Lucknow,240
+2316,01-12-2017,Kerala,32,Trivandrum,1725
+2317,01-12-2017,Assam,18,Guwahati,0
+2318,01-12-2017,Rajasthan,8,Jaipur,278
+2319,01-12-2017,Kerala,32,Calicut,1400
+2320,01-12-2017,Odisha,21,Bhubaneswar,0
+2321,01-12-2017,Tamil Nadu,33,Coimbatore,190
+2322,01-12-2017,Jammu and Kashmir,1,Srinagar,0
+2323,01-12-2017,Uttar Pradesh,9,Varanasi,0
+2324,01-12-2017,Karnataka,29,Mangalore,115
+2325,01-12-2017,Punjab,3,Amritsar,34
+2326,01-12-2017,Tamil Nadu,33,Trichy,498
+2327,01-12-2017,Andaman and Nicobar Islands,35,Portblair,0
+2328,01-12-2017,Manipur,14,Imphal,0
+2329,01-12-2017,Andhra Pradesh,28,Vijayawada,0
+2330,01-12-2017,Andhra Pradesh,28,Tirupati,0
+2331,01-12-2017,Delhi,7,Delhi,54903
+2332,01-12-2017,Maharashtra,27,Mumbai,56028
+2333,01-12-2017,Karnataka,29,Bangalore,18837
+2334,01-12-2017,Telangana,36,Hyderabad,6760
+2335,01-12-2017,Kerala,32,Cochin,4615
+2336,01-12-2017,Maharashtra,27,Nagpur,94
+2337,01-12-2017,Maharashtra,27,Pune,10
+2338,01-12-2017,Andhra Pradesh,28,Visakhapatnam,0
+2339,01-12-2017,Bihar,10,Patna,0
+2340,01-12-2017,Chandigarh,4,Chandigarh,0
+2341,01-12-2017,West Bengal,19,Bagdogra,0
+2342,01-12-2017,Tamil Nadu,33,Madurai,1
+2343,01-12-2017,Maharashtra,27,Aurangabad,0
+2344,01-12-2017,Bihar,10,Gaya,0
+2345,01-04-2023,Tamil Nadu,33,Chennai,21123
+2346,01-04-2023,West Bengal,19,Kolkata,3128
+2347,01-04-2023,Goa,30,Goa,256
+2348,01-04-2023,Jammu and Kashmir,1,Srinagar,11
+2349,01-04-2023,Odisha,21,Bhubaneswar,0
+2350,01-04-2023,Kerala,32,Calicut,1491
+2351,01-04-2023,Tamil Nadu,33,Coimbatore,69
+2352,01-04-2023,Uttar Pradesh,9,Varanasi,29
+2353,01-04-2023,Punjab,3,Amritsar,71
+2354,01-04-2023,Tamil Nadu,33,Trichy,525
+2355,01-04-2023,Andaman and Nicobar Islands,35,Portblair,0
+2356,01-04-2023,Manipur,14,Imphal,0
+2357,01-04-2023,Andhra Pradesh,28,Vijayawada,0
+2358,01-04-2023,Andhra Pradesh,28,Tirupati,0
+2359,01-04-2023,Uttar Pradesh,9,Kushinagar,0
+2360,01-04-2023,Gujarat,24,Ahmedabad,4158
+2361,01-04-2023,Uttar Pradesh,9,Lucknow,295
+2362,01-04-2023,Assam,18,Guwahati,0
+2363,01-04-2023,Rajasthan,8,Jaipur,61
+2364,01-04-2023,Kerala,32,Trivandrum,1477
+2365,01-04-2023,Karnataka,29,Mangalore,5
+2366,01-04-2023,Delhi,7,Delhi,47841
+2367,01-04-2023,Maharashtra,27,Mumbai,45638
+2368,01-04-2023,Karnataka,29,Bangalore,20678
+2369,01-04-2023,Telangana,36,Hyderabad,6022
+2370,01-04-2023,Kerala,32,Cochin,3428
+2371,01-04-2023,Maharashtra,27,Nagpur,1
+2372,01-04-2023,Kerala,32,Kannur,378
+2373,01-04-2023,Maharashtra,27,Shirdi,0
+2374,01-04-2023,Goa,30,Goa,0
+2375,01-04-2023,Maharashtra,27,Pune,0
+2376,01-04-2023,Bihar,10,Patna,0
+2377,01-04-2023,Punjab,3,Chandigarh,0
+2378,01-04-2023,Madhya Pradesh,23,Indore,0
+2379,01-04-2023,West Bengal,19,Bagdogra,0
+2380,01-04-2023,Andhra Pradesh,28,Visakhapatnam,0
+2381,01-04-2023,Gujarat,24,Surat,0
+2382,01-04-2023,Tamil Nadu,33,Madurai,60
+2383,01-04-2023,Maharashtra,27,Aurangabad,0
+2384,01-04-2023,Bihar,10,Gaya,0
+2385,01-08-2022,West Bengal,19,Kolkata,3928
+2386,01-08-2022,Tamil Nadu,33,Chennai,21755
+2387,01-08-2022,Goa,30,Goa,173
+2388,01-08-2022,Jammu and Kashmir,1,Srinagar,0
+2389,01-08-2022,Odisha,21,Bhubaneswar,0
+2390,01-08-2022,Uttar Pradesh,9,Varanasi,81
+2391,01-08-2022,Kerala,32,Calicut,1167
+2392,01-08-2022,Punjab,3,Amritsar,63
+2393,01-08-2022,Tamil Nadu,33,Coimbatore,68
+2394,01-08-2022,Manipur,14,Imphal,0
+2395,01-08-2022,Andaman and Nicobar Islands,35,Portblair,0
+2396,01-08-2022,Andhra Pradesh,28,Vijayawada,0
+2397,01-08-2022,Andhra Pradesh,28,Tirupati,0
+2398,01-08-2022,Tamil Nadu,33,Trichy,655
+2399,01-08-2022,Uttar Pradesh,9,Kushinagar,0
+2400,01-08-2022,Gujarat,24,Ahmedabad,3047
+2401,01-08-2022,Uttar Pradesh,9,Lucknow,343
+2402,01-08-2022,Assam,18,Guwahati,0
+2403,01-08-2022,Rajasthan,8,Jaipur,115
+2404,01-08-2022,Kerala,32,Trivandrum,1477
+2405,01-08-2022,Karnataka,29,Mangalore,243
+2406,01-08-2022,Delhi,7,Delhi,45412
+2407,01-08-2022,Maharashtra,27,Mumbai,42548
+2408,01-08-2022,Karnataka,29,Bangalore,22042
+2409,01-08-2022,Telangana,36,Hyderabad,5776
+2410,01-08-2022,Kerala,32,Cochin,4206
+2411,01-08-2022,Maharashtra,27,Nagpur,9
+2412,01-08-2022,Kerala,32,Kannur,418
+2413,01-08-2022,Maharashtra,27,Shirdi,0
+2414,01-08-2022,Maharashtra,27,Pune,1
+2415,01-08-2022,Bihar,10,Patna,0
+2416,01-08-2022,Punjab,3,Chandigarh,0
+2417,01-08-2022,West Bengal,19,Bagdogra,0
+2418,01-08-2022,Madhya Pradesh,23,Indore,9
+2419,01-08-2022,Andhra Pradesh,28,Visakhapatnam,0
+2420,01-08-2022,Gujarat,24,Surat,0
+2421,01-08-2022,Tamil Nadu,33,Madurai,67
+2422,01-08-2022,Maharashtra,27,Aurangabad,0
+2423,01-08-2022,Bihar,10,Gaya,0
+2424,01-12-2022,West Bengal,19,Kolkata,3469
+2425,01-12-2022,Tamil Nadu,33,Chennai,20792
+2426,01-12-2022,Goa,30,Goa,266
+2427,01-12-2022,Jammu and Kashmir,1,Srinagar,0
+2428,01-12-2022,Odisha,21,Bhubaneswar,0
+2429,01-12-2022,Uttar Pradesh,9,Varanasi,79
+2430,01-12-2022,Kerala,32,Calicut,1494
+2431,01-12-2022,Punjab,3,Amritsar,71
+2432,01-12-2022,Tamil Nadu,33,Coimbatore,61
+2433,01-12-2022,Manipur,14,Imphal,0
+2434,01-12-2022,Andaman and Nicobar Islands,35,Portblair,0
+2435,01-12-2022,Andhra Pradesh,28,Vijayawada,0
+2436,01-12-2022,Andhra Pradesh,28,Tirupati,0
+2437,01-12-2022,Tamil Nadu,33,Trichy,518
+2438,01-12-2022,Uttar Pradesh,9,Kushinagar,0
+2439,01-12-2022,Gujarat,24,Ahmedabad,3772
+2440,01-12-2022,Uttar Pradesh,9,Lucknow,242
+2441,01-12-2022,Assam,18,Guwahati,0
+2442,01-12-2022,Rajasthan,8,Jaipur,114
+2443,01-12-2022,Kerala,32,Trivandrum,1065
+2444,01-12-2022,Karnataka,29,Mangalore,105
+2445,01-12-2022,Delhi,7,Delhi,44662
+2446,01-12-2022,Maharashtra,27,Mumbai,45679
+2447,01-12-2022,Karnataka,29,Bangalore,21639
+2448,01-12-2022,Telangana,36,Hyderabad,6669
+2449,01-12-2022,Kerala,32,Cochin,2881
+2450,01-12-2022,Maharashtra,27,Nagpur,3
+2451,01-12-2022,Kerala,32,Kannur,236
+2452,01-12-2022,Maharashtra,27,Shirdi,0
+2453,01-12-2022,Maharashtra,27,Pune,19
+2454,01-12-2022,Bihar,10,Patna,0
+2455,01-12-2022,Punjab,3,Chandigarh,0
+2456,01-12-2022,West Bengal,19,Bagdogra,0
+2457,01-12-2022,Madhya Pradesh,23,Indore,25
+2458,01-12-2022,Andhra Pradesh,28,Visakhapatnam,0
+2459,01-12-2022,Gujarat,24,Surat,0
+2460,01-12-2022,Tamil Nadu,33,Madurai,59
+2461,01-12-2022,Maharashtra,27,Aurangabad,0
+2462,01-12-2022,Bihar,10,Gaya,0
+2463,01-02-2023,West Bengal,19,Kolkata,4035
+2464,01-02-2023,Tamil Nadu,33,Chennai,19117
+2465,01-02-2023,Goa,30,Goa,290
+2466,01-02-2023,Jammu and Kashmir,1,Srinagar,0
+2467,01-02-2023,Odisha,21,Bhubaneswar,0
+2468,01-02-2023,Uttar Pradesh,9,Varanasi,4
+2469,01-02-2023,Kerala,32,Calicut,1198
+2470,01-02-2023,Punjab,3,Amritsar,49
+2471,01-02-2023,Tamil Nadu,33,Coimbatore,61
+2472,01-02-2023,Manipur,14,Imphal,0
+2473,01-02-2023,Andaman and Nicobar Islands,35,Portblair,0
+2474,01-02-2023,Andhra Pradesh,28,Vijayawada,0
+2475,01-02-2023,Andhra Pradesh,28,Tirupati,0
+2476,01-02-2023,Tamil Nadu,33,Trichy,463
+2477,01-02-2023,Uttar Pradesh,9,Kushinagar,0
+2478,01-02-2023,Gujarat,24,Ahmedabad,3165
+2479,01-02-2023,Uttar Pradesh,9,Lucknow,238
+2480,01-02-2023,Assam,18,Guwahati,0
+2481,01-02-2023,Rajasthan,8,Jaipur,107
+2482,01-02-2023,Kerala,32,Trivandrum,1127
+2483,01-02-2023,Karnataka,29,Mangalore,155
+2484,01-02-2023,Delhi,7,Delhi,41250
+2485,01-02-2023,Maharashtra,27,Mumbai,42189
+2486,01-02-2023,Karnataka,29,Bangalore,19134
+2487,01-02-2023,Telangana,36,Hyderabad,6631
+2488,01-02-2023,Kerala,32,Cochin,2962
+2489,01-02-2023,Maharashtra,27,Nagpur,10
+2490,01-02-2023,Kerala,32,Kannur,297
+2491,01-02-2023,Maharashtra,27,Shirdi,0
+2492,01-02-2023,Goa,30,Goa,0
+2493,01-02-2023,Maharashtra,27,Pune,0
+2494,01-02-2023,Bihar,10,Patna,0
+2495,01-02-2023,Punjab,3,Chandigarh,0
+2496,01-02-2023,West Bengal,19,Bagdogra,0
+2497,01-02-2023,Madhya Pradesh,23,Indore,0
+2498,01-02-2023,Andhra Pradesh,28,Visakhapatnam,0
+2499,01-02-2023,Gujarat,24,Surat,0
+2500,01-02-2023,Tamil Nadu,33,Madurai,58
+2501,01-02-2023,Maharashtra,27,Aurangabad,0
+2502,01-02-2023,Bihar,10,Gaya,0
+2503,01-01-2023,West Bengal,19,Kolkata,3652
+2504,01-01-2023,Tamil Nadu,33,Chennai,17595
+2505,01-01-2023,Goa,30,Goa,258
+2506,01-01-2023,Jammu and Kashmir,1,Srinagar,0
+2507,01-01-2023,Odisha,21,Bhubaneswar,0
+2508,01-01-2023,Uttar Pradesh,9,Varanasi,42
+2509,01-01-2023,Kerala,32,Calicut,1362
+2510,01-01-2023,Punjab,3,Amritsar,49
+2511,01-01-2023,Tamil Nadu,33,Coimbatore,65
+2512,01-01-2023,Manipur,14,Imphal,0
+2513,01-01-2023,Andaman and Nicobar Islands,35,Portblair,0
+2514,01-01-2023,Andhra Pradesh,28,Vijayawada,0
+2515,01-01-2023,Andhra Pradesh,28,Tirupati,0
+2516,01-01-2023,Tamil Nadu,33,Trichy,530
+2517,01-01-2023,Uttar Pradesh,9,Kushinagar,0
+2518,01-01-2023,Gujarat,24,Ahmedabad,3546
+2519,01-01-2023,Uttar Pradesh,9,Lucknow,267
+2520,01-01-2023,Assam,18,Guwahati,0
+2521,01-01-2023,Rajasthan,8,Jaipur,157
+2522,01-01-2023,Kerala,32,Trivandrum,1081
+2523,01-01-2023,Karnataka,29,Mangalore,136
+2524,01-01-2023,Delhi,7,Delhi,41421
+2525,01-01-2023,Maharashtra,27,Mumbai,41377
+2526,01-01-2023,Karnataka,29,Bangalore,19439
+2527,01-01-2023,Telangana,36,Hyderabad,5609
+2528,01-01-2023,Kerala,32,Cochin,3035
+2529,01-01-2023,Maharashtra,27,Nagpur,5
+2530,01-01-2023,Kerala,32,Kannur,302
+2531,01-01-2023,Maharashtra,27,Shirdi,0
+2532,01-01-2023,Goa,30,Goa,0
+2533,01-01-2023,Maharashtra,27,Pune,0
+2534,01-01-2023,Bihar,10,Patna,0
+2535,01-01-2023,Punjab,3,Chandigarh,0
+2536,01-01-2023,West Bengal,19,Bagdogra,0
+2537,01-01-2023,Madhya Pradesh,23,Indore,0
+2538,01-01-2023,Andhra Pradesh,28,Visakhapatnam,0
+2539,01-01-2023,Gujarat,24,Surat,0
+2540,01-01-2023,Tamil Nadu,33,Madurai,67
+2541,01-01-2023,Maharashtra,27,Aurangabad,0
+2542,01-01-2023,Bihar,10,Gaya,0
+2543,01-07-2022,West Bengal,19,Kolkata,3593
+2544,01-07-2022,Tamil Nadu,33,Chennai,23554
+2545,01-07-2022,Goa,30,Goa,194
+2546,01-07-2022,Jammu and Kashmir,1,Srinagar,0
+2547,01-07-2022,Odisha,21,Bhubaneswar,0
+2548,01-07-2022,Uttar Pradesh,9,Varanasi,15
+2549,01-07-2022,Kerala,32,Calicut,1233
+2550,01-07-2022,Punjab,3,Amritsar,59
+2551,01-07-2022,Tamil Nadu,33,Coimbatore,101
+2552,01-07-2022,Manipur,14,Imphal,0
+2553,01-07-2022,Andaman and Nicobar Islands,35,Portblair,0
+2554,01-07-2022,Andhra Pradesh,28,Vijayawada,0
+2555,01-07-2022,Andhra Pradesh,28,Tirupati,0
+2556,01-07-2022,Tamil Nadu,33,Trichy,518
+2557,01-07-2022,Uttar Pradesh,9,Kushinagar,0
+2558,01-07-2022,Gujarat,24,Ahmedabad,3689
+2559,01-07-2022,Uttar Pradesh,9,Lucknow,279
+2560,01-07-2022,Assam,18,Guwahati,0
+2561,01-07-2022,Rajasthan,8,Jaipur,85
+2562,01-07-2022,Kerala,32,Trivandrum,1259
+2563,01-07-2022,Karnataka,29,Mangalore,141
+2564,01-07-2022,Delhi,7,Delhi,46013
+2565,01-07-2022,Maharashtra,27,Mumbai,45139
+2566,01-07-2022,Karnataka,29,Bangalore,23215
+2567,01-07-2022,Telangana,36,Hyderabad,6294
+2568,01-07-2022,Kerala,32,Cochin,3634
+2569,01-07-2022,Maharashtra,27,Nagpur,59
+2570,01-07-2022,Kerala,32,Kannur,373
+2571,01-07-2022,Maharashtra,27,Shirdi,0
+2572,01-07-2022,Maharashtra,27,Pune,0
+2573,01-07-2022,Bihar,10,Patna,0
+2574,01-07-2022,Punjab,3,Chandigarh,0
+2575,01-07-2022,West Bengal,19,Bagdogra,0
+2576,01-07-2022,Madhya Pradesh,23,Indore,0
+2577,01-07-2022,Andhra Pradesh,28,Visakhapatnam,0
+2578,01-07-2022,Gujarat,24,Surat,0
+2579,01-07-2022,Tamil Nadu,33,Madurai,70
+2580,01-07-2022,Maharashtra,27,Aurangabad,0
+2581,01-07-2022,Bihar,10,Gaya,0
+2582,01-07-2023,Tamil Nadu,33,Chennai,20997
+2583,01-07-2023,West Bengal,19,Kolkata,3612
+2584,01-07-2023,Goa,30,Goa,133
+2585,01-07-2023,Jammu and Kashmir,1,Srinagar,0
+2586,01-07-2023,Odisha,21,Bhubaneswar,0
+2587,01-07-2023,Kerala,32,Calicut,1499
+2588,01-07-2023,Tamil Nadu,33,Coimbatore,82
+2589,01-07-2023,Uttar Pradesh,9,Varanasi,52
+2590,01-07-2023,Punjab,3,Amritsar,68
+2591,01-07-2023,Tamil Nadu,33,Trichy,533
+2592,01-07-2023,Andaman and Nicobar Islands,35,Portblair,0
+2593,01-07-2023,Manipur,14,Imphal,0
+2594,01-07-2023,Andhra Pradesh,28,Vijayawada,0
+2595,01-07-2023,Andhra Pradesh,28,Tirupati,0
+2596,01-07-2023,Uttar Pradesh,9,Kushinagar,0
+2597,01-07-2023,Gujarat,24,Ahmedabad,3397
+2598,01-07-2023,Uttar Pradesh,9,Lucknow,244
+2599,01-07-2023,Assam,18,Guwahati,0
+2600,01-07-2023,Rajasthan,8,Jaipur,59
+2601,01-07-2023,Kerala,32,Trivandrum,1329
+2602,01-07-2023,Karnataka,29,Mangalore,124
+2603,01-07-2023,Delhi,7,Delhi,50955
+2604,01-07-2023,Maharashtra,27,Mumbai,46204
+2605,01-07-2023,Karnataka,29,Bangalore,21629
+2606,01-07-2023,Telangana,36,Hyderabad,6139
+2607,01-07-2023,Kerala,32,Cochin,3664
+2608,01-07-2023,Maharashtra,27,Nagpur,0
+2609,01-07-2023,Kerala,32,Kannur,261
+2610,01-07-2023,Maharashtra,27,Shirdi,0
+2611,01-07-2023,Goa,30,Goa,0
+2612,01-07-2023,Maharashtra,27,Pune,0
+2613,01-07-2023,Bihar,10,Patna,0
+2614,01-07-2023,Punjab,3,Chandigarh,0
+2615,01-07-2023,Madhya Pradesh,23,Indore,0
+2616,01-07-2023,West Bengal,19,Bagdogra,0
+2617,01-07-2023,Andhra Pradesh,28,Visakhapatnam,0
+2618,01-07-2023,Gujarat,24,Surat,0
+2619,01-07-2023,Tamil Nadu,33,Madurai,80
+2620,01-07-2023,Maharashtra,27,Aurangabad,0
+2621,01-07-2023,Bihar,10,Gaya,0
+2622,01-06-2022,West Bengal,19,Kolkata,3307
+2623,01-06-2022,Tamil Nadu,33,Chennai,22969
+2624,01-06-2022,Goa,30,Goa,220
+2625,01-06-2022,Jammu and Kashmir,1,Srinagar,12
+2626,01-06-2022,Odisha,21,Bhubaneswar,0
+2627,01-06-2022,Uttar Pradesh,9,Varanasi,39
+2628,01-06-2022,Kerala,32,Calicut,1164
+2629,01-06-2022,Punjab,3,Amritsar,128
+2630,01-06-2022,Tamil Nadu,33,Coimbatore,100
+2631,01-06-2022,Manipur,14,Imphal,0
+2632,01-06-2022,Andaman and Nicobar Islands,35,Portblair,0
+2633,01-06-2022,Andhra Pradesh,28,Vijayawada,0
+2634,01-06-2022,Andhra Pradesh,28,Tirupati,0
+2635,01-06-2022,Tamil Nadu,33,Trichy,513
+2636,01-06-2022,Uttar Pradesh,9,Kushinagar,0
+2637,01-06-2022,Gujarat,24,Ahmedabad,3824
+2638,01-06-2022,Uttar Pradesh,9,Lucknow,397
+2639,01-06-2022,Assam,18,Guwahati,0
+2640,01-06-2022,Rajasthan,8,Jaipur,43
+2641,01-06-2022,Kerala,32,Trivandrum,1176
+2642,01-06-2022,Karnataka,29,Mangalore,143
+2643,01-06-2022,Delhi,7,Delhi,44599
+2644,01-06-2022,Maharashtra,27,Mumbai,47652
+2645,01-06-2022,Karnataka,29,Bangalore,21229
+2646,01-06-2022,Telangana,36,Hyderabad,6534
+2647,01-06-2022,Kerala,32,Cochin,3537
+2648,01-06-2022,Maharashtra,27,Nagpur,29
+2649,01-06-2022,Kerala,32,Kannur,338
+2650,01-06-2022,Maharashtra,27,Shirdi,0
+2651,01-06-2022,Maharashtra,27,Pune,2
+2652,01-06-2022,Bihar,10,Patna,0
+2653,01-06-2022,Punjab,3,Chandigarh,0
+2654,01-06-2022,West Bengal,19,Bagdogra,0
+2655,01-06-2022,Madhya Pradesh,23,Indore,0
+2656,01-06-2022,Andhra Pradesh,28,Visakhapatnam,0
+2657,01-06-2022,Gujarat,24,Surat,0
+2658,01-06-2022,Tamil Nadu,33,Madurai,196
+2659,01-06-2022,Maharashtra,27,Aurangabad,0
+2660,01-06-2022,Bihar,10,Gaya,0
+2661,01-06-2023,Tamil Nadu,33,Chennai,20677
+2662,01-06-2023,West Bengal,19,Kolkata,3299
+2663,01-06-2023,Goa,30,Goa,160
+2664,01-06-2023,Jammu and Kashmir,1,Srinagar,0
+2665,01-06-2023,Odisha,21,Bhubaneswar,0
+2666,01-06-2023,Kerala,32,Calicut,1289
+2667,01-06-2023,Tamil Nadu,33,Coimbatore,68
+2668,01-06-2023,Uttar Pradesh,9,Varanasi,89
+2669,01-06-2023,Punjab,3,Amritsar,114
+2670,01-06-2023,Tamil Nadu,33,Trichy,494
+2671,01-06-2023,Andaman and Nicobar Islands,35,Portblair,0
+2672,01-06-2023,Manipur,14,Imphal,0
+2673,01-06-2023,Andhra Pradesh,28,Vijayawada,0
+2674,01-06-2023,Andhra Pradesh,28,Tirupati,0
+2675,01-06-2023,Uttar Pradesh,9,Kushinagar,0
+2676,01-06-2023,Gujarat,24,Ahmedabad,3575
+2677,01-06-2023,Uttar Pradesh,9,Lucknow,421
+2678,01-06-2023,Assam,18,Guwahati,0
+2679,01-06-2023,Rajasthan,8,Jaipur,158
+2680,01-06-2023,Kerala,32,Trivandrum,1208
+2681,01-06-2023,Karnataka,29,Mangalore,157
+2682,01-06-2023,Delhi,7,Delhi,48642
+2683,01-06-2023,Maharashtra,27,Mumbai,49550
+2684,01-06-2023,Karnataka,29,Bangalore,21778
+2685,01-06-2023,Telangana,36,Hyderabad,6916
+2686,01-06-2023,Kerala,32,Cochin,3458
+2687,01-06-2023,Maharashtra,27,Nagpur,6
+2688,01-06-2023,Kerala,32,Kannur,246
+2689,01-06-2023,Maharashtra,27,Shirdi,0
+2690,01-06-2023,Goa,30,Goa,0
+2691,01-06-2023,Maharashtra,27,Pune,0
+2692,01-06-2023,Bihar,10,Patna,0
+2693,01-06-2023,Punjab,3,Chandigarh,0
+2694,01-06-2023,Madhya Pradesh,23,Indore,0
+2695,01-06-2023,West Bengal,19,Bagdogra,0
+2696,01-06-2023,Andhra Pradesh,28,Visakhapatnam,0
+2697,01-06-2023,Gujarat,24,Surat,0
+2698,01-06-2023,Tamil Nadu,33,Madurai,64
+2699,01-06-2023,Maharashtra,27,Aurangabad,0
+2700,01-06-2023,Bihar,10,Gaya,0
+2701,01-03-2023,West Bengal,19,Kolkata,4618
+2702,01-03-2023,Tamil Nadu,33,Chennai,24588
+2703,01-03-2023,Goa,30,Goa,319
+2704,01-03-2023,Jammu and Kashmir,1,Srinagar,0
+2705,01-03-2023,Odisha,21,Bhubaneswar,0
+2706,01-03-2023,Uttar Pradesh,9,Varanasi,33
+2707,01-03-2023,Kerala,32,Calicut,1520
+2708,01-03-2023,Punjab,3,Amritsar,92
+2709,01-03-2023,Tamil Nadu,33,Coimbatore,68
+2710,01-03-2023,Manipur,14,Imphal,0
+2711,01-03-2023,Andaman and Nicobar Islands,35,Portblair,0
+2712,01-03-2023,Andhra Pradesh,28,Vijayawada,0
+2713,01-03-2023,Andhra Pradesh,28,Tirupati,0
+2714,01-03-2023,Tamil Nadu,33,Trichy,473
+2715,01-03-2023,Uttar Pradesh,9,Kushinagar,0
+2716,01-03-2023,Gujarat,24,Ahmedabad,4039
+2717,01-03-2023,Uttar Pradesh,9,Lucknow,380
+2718,01-03-2023,Assam,18,Guwahati,0
+2719,01-03-2023,Rajasthan,8,Jaipur,90
+2720,01-03-2023,Kerala,32,Trivandrum,1390
+2721,01-03-2023,Karnataka,29,Mangalore,158
+2722,01-03-2023,Delhi,7,Delhi,52244
+2723,01-03-2023,Maharashtra,27,Mumbai,50141
+2724,01-03-2023,Karnataka,29,Bangalore,23416
+2725,01-03-2023,Telangana,36,Hyderabad,7134
+2726,01-03-2023,Kerala,32,Cochin,3792
+2727,01-03-2023,Maharashtra,27,Nagpur,4
+2728,01-03-2023,Kerala,32,Kannur,377
+2729,01-03-2023,Maharashtra,27,Shirdi,0
+2730,01-03-2023,Goa,30,Goa,0
+2731,01-03-2023,Maharashtra,27,Pune,0
+2732,01-03-2023,Bihar,10,Patna,0
+2733,01-03-2023,Punjab,3,Chandigarh,0
+2734,01-03-2023,West Bengal,19,Bagdogra,0
+2735,01-03-2023,Madhya Pradesh,23,Indore,0
+2736,01-03-2023,Andhra Pradesh,28,Visakhapatnam,0
+2737,01-03-2023,Gujarat,24,Surat,0
+2738,01-03-2023,Tamil Nadu,33,Madurai,51
+2739,01-03-2023,Maharashtra,27,Aurangabad,0
+2740,01-03-2023,Bihar,10,Gaya,0
+2741,01-05-2023,Tamil Nadu,33,Chennai,21511
+2742,01-05-2023,West Bengal,19,Kolkata,3198
+2743,01-05-2023,Goa,30,Goa,204
+2744,01-05-2023,Jammu and Kashmir,1,Srinagar,0
+2745,01-05-2023,Odisha,21,Bhubaneswar,0
+2746,01-05-2023,Kerala,32,Calicut,1512
+2747,01-05-2023,Tamil Nadu,33,Coimbatore,75
+2748,01-05-2023,Uttar Pradesh,9,Varanasi,41
+2749,01-05-2023,Punjab,3,Amritsar,54
+2750,01-05-2023,Tamil Nadu,33,Trichy,556
+2751,01-05-2023,Andaman and Nicobar Islands,35,Portblair,0
+2752,01-05-2023,Manipur,14,Imphal,0
+2753,01-05-2023,Andhra Pradesh,28,Vijayawada,0
+2754,01-05-2023,Andhra Pradesh,28,Tirupati,0
+2755,01-05-2023,Uttar Pradesh,9,Kushinagar,0
+2756,01-05-2023,Gujarat,24,Ahmedabad,3783
+2757,01-05-2023,Uttar Pradesh,9,Lucknow,264
+2758,01-05-2023,Assam,18,Guwahati,0
+2759,01-05-2023,Rajasthan,8,Jaipur,125
+2760,01-05-2023,Kerala,32,Trivandrum,1447
+2761,01-05-2023,Karnataka,29,Mangalore,142
+2762,01-05-2023,Delhi,7,Delhi,47600
+2763,01-05-2023,Maharashtra,27,Mumbai,49230
+2764,01-05-2023,Karnataka,29,Bangalore,20545
+2765,01-05-2023,Telangana,36,Hyderabad,6275
+2766,01-05-2023,Kerala,32,Cochin,3927
+2767,01-05-2023,Maharashtra,27,Nagpur,0
+2768,01-05-2023,Kerala,32,Kannur,304
+2769,01-05-2023,Maharashtra,27,Shirdi,0
+2770,01-05-2023,Goa,30,Goa,0
+2771,01-05-2023,Maharashtra,27,Pune,0
+2772,01-05-2023,Bihar,10,Patna,0
+2773,01-05-2023,Punjab,3,Chandigarh,0
+2774,01-05-2023,Madhya Pradesh,23,Indore,0
+2775,01-05-2023,West Bengal,19,Bagdogra,0
+2776,01-05-2023,Andhra Pradesh,28,Visakhapatnam,0
+2777,01-05-2023,Gujarat,24,Surat,0
+2778,01-05-2023,Tamil Nadu,33,Madurai,51
+2779,01-05-2023,Maharashtra,27,Aurangabad,0
+2780,01-05-2023,Bihar,10,Gaya,0
+2781,01-11-2022,West Bengal,19,Kolkata,3591
+2782,01-11-2022,Tamil Nadu,33,Chennai,20005
+2783,01-11-2022,Goa,30,Goa,162
+2784,01-11-2022,Jammu and Kashmir,1,Srinagar,0
+2785,01-11-2022,Odisha,21,Bhubaneswar,0
+2786,01-11-2022,Uttar Pradesh,9,Varanasi,83
+2787,01-11-2022,Kerala,32,Calicut,1254
+2788,01-11-2022,Punjab,3,Amritsar,147
+2789,01-11-2022,Tamil Nadu,33,Coimbatore,57
+2790,01-11-2022,Manipur,14,Imphal,0
+2791,01-11-2022,Andaman and Nicobar Islands,35,Portblair,0
+2792,01-11-2022,Andhra Pradesh,28,Vijayawada,0
+2793,01-11-2022,Andhra Pradesh,28,Tirupati,0
+2794,01-11-2022,Tamil Nadu,33,Trichy,529
+2795,01-11-2022,Uttar Pradesh,9,Kushinagar,0
+2796,01-11-2022,Gujarat,24,Ahmedabad,3692
+2797,01-11-2022,Uttar Pradesh,9,Lucknow,252
+2798,01-11-2022,Assam,18,Guwahati,0
+2799,01-11-2022,Rajasthan,8,Jaipur,79
+2800,01-11-2022,Kerala,32,Trivandrum,1250
+2801,01-11-2022,Karnataka,29,Mangalore,142
+2802,01-11-2022,Delhi,7,Delhi,44187
+2803,01-11-2022,Maharashtra,27,Mumbai,44015
+2804,01-11-2022,Karnataka,29,Bangalore,20770
+2805,01-11-2022,Telangana,36,Hyderabad,6247
+2806,01-11-2022,Kerala,32,Cochin,2965
+2807,01-11-2022,Maharashtra,27,Nagpur,8
+2808,01-11-2022,Kerala,32,Kannur,198
+2809,01-11-2022,Maharashtra,27,Shirdi,0
+2810,01-11-2022,Maharashtra,27,Pune,15
+2811,01-11-2022,Bihar,10,Patna,0
+2812,01-11-2022,Punjab,3,Chandigarh,0
+2813,01-11-2022,West Bengal,19,Bagdogra,0
+2814,01-11-2022,Madhya Pradesh,23,Indore,0
+2815,01-11-2022,Andhra Pradesh,28,Visakhapatnam,0
+2816,01-11-2022,Gujarat,24,Surat,0
+2817,01-11-2022,Tamil Nadu,33,Madurai,65
+2818,01-11-2022,Maharashtra,27,Aurangabad,0
+2819,01-11-2022,Bihar,10,Gaya,0
+2820,01-10-2022,West Bengal,19,Kolkata,3140
+2821,01-10-2022,Tamil Nadu,33,Chennai,19974
+2822,01-10-2022,Goa,30,Goa,134
+2823,01-10-2022,Jammu and Kashmir,1,Srinagar,0
+2824,01-10-2022,Odisha,21,Bhubaneswar,0
+2825,01-10-2022,Uttar Pradesh,9,Varanasi,92
+2826,01-10-2022,Kerala,32,Calicut,894
+2827,01-10-2022,Punjab,3,Amritsar,102
+2828,01-10-2022,Tamil Nadu,33,Coimbatore,72
+2829,01-10-2022,Manipur,14,Imphal,0
+2830,01-10-2022,Andaman and Nicobar Islands,35,Portblair,0
+2831,01-10-2022,Andhra Pradesh,28,Vijayawada,0
+2832,01-10-2022,Andhra Pradesh,28,Tirupati,0
+2833,01-10-2022,Tamil Nadu,33,Trichy,582
+2834,01-10-2022,Uttar Pradesh,9,Kushinagar,0
+2835,01-10-2022,Gujarat,24,Ahmedabad,3728
+2836,01-10-2022,Uttar Pradesh,9,Lucknow,262
+2837,01-10-2022,Assam,18,Guwahati,0
+2838,01-10-2022,Rajasthan,8,Jaipur,76
+2839,01-10-2022,Kerala,32,Trivandrum,1354
+2840,01-10-2022,Karnataka,29,Mangalore,143
+2841,01-10-2022,Delhi,7,Delhi,44408
+2842,01-10-2022,Maharashtra,27,Mumbai,43825
+2843,01-10-2022,Karnataka,29,Bangalore,20843
+2844,01-10-2022,Telangana,36,Hyderabad,5785
+2845,01-10-2022,Kerala,32,Cochin,3639
+2846,01-10-2022,Maharashtra,27,Nagpur,26
+2847,01-10-2022,Kerala,32,Kannur,302
+2848,01-10-2022,Maharashtra,27,Shirdi,0
+2849,01-10-2022,Maharashtra,27,Pune,5
+2850,01-10-2022,Bihar,10,Patna,0
+2851,01-10-2022,Punjab,3,Chandigarh,0
+2852,01-10-2022,West Bengal,19,Bagdogra,0
+2853,01-10-2022,Madhya Pradesh,23,Indore,0
+2854,01-10-2022,Andhra Pradesh,28,Visakhapatnam,0
+2855,01-10-2022,Gujarat,24,Surat,0
+2856,01-10-2022,Tamil Nadu,33,Madurai,96
+2857,01-10-2022,Maharashtra,27,Aurangabad,0
+2858,01-10-2022,Bihar,10,Gaya,0
+2859,01-09-2022,West Bengal,19,Kolkata,3759
+2860,01-09-2022,Tamil Nadu,33,Chennai,22130
+2861,01-09-2022,Goa,30,Goa,177
+2862,01-09-2022,Jammu and Kashmir,1,Srinagar,0
+2863,01-09-2022,Odisha,21,Bhubaneswar,0
+2864,01-09-2022,Uttar Pradesh,9,Varanasi,86
+2865,01-09-2022,Kerala,32,Calicut,1004
+2866,01-09-2022,Punjab,3,Amritsar,67
+2867,01-09-2022,Tamil Nadu,33,Coimbatore,66
+2868,01-09-2022,Manipur,14,Imphal,0
+2869,01-09-2022,Andaman and Nicobar Islands,35,Portblair,0
+2870,01-09-2022,Andhra Pradesh,28,Vijayawada,0
+2871,01-09-2022,Andhra Pradesh,28,Tirupati,0
+2872,01-09-2022,Tamil Nadu,33,Trichy,551
+2873,01-09-2022,Uttar Pradesh,9,Kushinagar,0
+2874,01-09-2022,Gujarat,24,Ahmedabad,3909
+2875,01-09-2022,Uttar Pradesh,9,Lucknow,287
+2876,01-09-2022,Assam,18,Guwahati,0
+2877,01-09-2022,Rajasthan,8,Jaipur,117
+2878,01-09-2022,Kerala,32,Trivandrum,1394
+2879,01-09-2022,Karnataka,29,Mangalore,248
+2880,01-09-2022,Delhi,7,Delhi,49355
+2881,01-09-2022,Maharashtra,27,Mumbai,45008
+2882,01-09-2022,Karnataka,29,Bangalore,22664
+2883,01-09-2022,Telangana,36,Hyderabad,6006
+2884,01-09-2022,Kerala,32,Cochin,4052
+2885,01-09-2022,Maharashtra,27,Nagpur,36
+2886,01-09-2022,Kerala,32,Kannur,366
+2887,01-09-2022,Maharashtra,27,Shirdi,0
+2888,01-09-2022,Maharashtra,27,Pune,4
+2889,01-09-2022,Bihar,10,Patna,0
+2890,01-09-2022,Punjab,3,Chandigarh,0
+2891,01-09-2022,West Bengal,19,Bagdogra,0
+2892,01-09-2022,Madhya Pradesh,23,Indore,0
+2893,01-09-2022,Andhra Pradesh,28,Visakhapatnam,0
+2894,01-09-2022,Gujarat,24,Surat,0
+2895,01-09-2022,Tamil Nadu,33,Madurai,109
+2896,01-09-2022,Maharashtra,27,Aurangabad,0
+2897,01-09-2022,Bihar,10,Gaya,0
+2898,01-08-2023,Tamil Nadu,33,Chennai,20468
+2899,01-08-2023,West Bengal,19,Kolkata,3962
+2900,01-08-2023,Goa,30,Goa,66
+2901,01-08-2023,Jammu and Kashmir,1,Srinagar,0
+2902,01-08-2023,Odisha,21,Bhubaneswar,0
+2903,01-08-2023,Kerala,32,Calicut,1592
+2904,01-08-2023,Tamil Nadu,33,Coimbatore,74
+2905,01-08-2023,Uttar Pradesh,9,Varanasi,91
+2906,01-08-2023,Punjab,3,Amritsar,83
+2907,01-08-2023,Tamil Nadu,33,Trichy,599
+2908,01-08-2023,Andaman and Nicobar Islands,35,Portblair,0
+2909,01-08-2023,Manipur,14,Imphal,0
+2910,01-08-2023,Andhra Pradesh,28,Vijayawada,0
+2911,01-08-2023,Andhra Pradesh,28,Tirupati,0
+2912,01-08-2023,Uttar Pradesh,9,Kushinagar,0
+2913,01-08-2023,Gujarat,24,Ahmedabad,3592
+2914,01-08-2023,Uttar Pradesh,9,Lucknow,325
+2915,01-08-2023,Assam,18,Guwahati,0
+2916,01-08-2023,Rajasthan,8,Jaipur,126
+2917,01-08-2023,Kerala,32,Trivandrum,1527
+2918,01-08-2023,Karnataka,29,Mangalore,171
+2919,01-08-2023,Delhi,7,Delhi,53562
+2920,01-08-2023,Maharashtra,27,Mumbai,45952
+2921,01-08-2023,Karnataka,29,Bangalore,21423
+2922,01-08-2023,Telangana,36,Hyderabad,6571
+2923,01-08-2023,Kerala,32,Cochin,4362
+2924,01-08-2023,Maharashtra,27,Nagpur,25
+2925,01-08-2023,Kerala,32,Kannur,345
+2926,01-08-2023,Maharashtra,27,Shirdi,0
+2927,01-08-2023,Goa,30,Goa,0
+2928,01-08-2023,Maharashtra,27,Pune,0
+2929,01-08-2023,Bihar,10,Patna,0
+2930,01-08-2023,Chandigarh,4,Chandigarh,0
+2931,01-08-2023,Punjab,3,Chandigarh,0
+2932,01-08-2023,Madhya Pradesh,23,Indore,0
+2933,01-08-2023,West Bengal,19,Bagdogra,0
+2934,01-08-2023,Andhra Pradesh,28,Visakhapatnam,0
+2935,01-08-2023,Gujarat,24,Surat,0
+2936,01-08-2023,Tamil Nadu,33,Madurai,104
+2937,01-08-2023,Maharashtra,27,Aurangabad,0
+2938,01-08-2023,Bihar,10,Gaya,0
+2939,01-12-2023,Tamil Nadu,33,Chennai,21062
+2940,01-12-2023,West Bengal,19,Kolkata,4025
+2941,01-12-2023,Goa,30,Goa,146
+2942,01-12-2023,Jammu and Kashmir,1,Srinagar,10
+2943,01-12-2023,Odisha,21,Bhubaneswar,0
+2944,01-12-2023,Kerala,32,Calicut,1501
+2945,01-12-2023,Tamil Nadu,33,Coimbatore,60
+2946,01-12-2023,Uttar Pradesh,9,Varanasi,94
+2947,01-12-2023,Punjab,3,Amritsar,116
+2948,01-12-2023,Tamil Nadu,33,Trichy,542
+2949,01-12-2023,Andaman and Nicobar Islands,35,Portblair,0
+2950,01-12-2023,Manipur,14,Imphal,0
+2951,01-12-2023,Andhra Pradesh,28,Vijayawada,0
+2952,01-12-2023,Andhra Pradesh,28,Tirupati,0
+2953,01-12-2023,Uttar Pradesh,9,Kushinagar,0
+2954,01-12-2023,Gujarat,24,Ahmedabad,3956
+2955,01-12-2023,Uttar Pradesh,9,Lucknow,322
+2956,01-12-2023,Assam,18,Guwahati,0
+2957,01-12-2023,Rajasthan,8,Jaipur,108
+2958,01-12-2023,Kerala,32,Trivandrum,919
+2959,01-12-2023,Karnataka,29,Mangalore,132
+2960,01-12-2023,Delhi,7,Delhi,54573
+2961,01-12-2023,Maharashtra,27,Mumbai,51760
+2962,01-12-2023,Karnataka,29,Bangalore,22352
+2963,01-12-2023,Telangana,36,Hyderabad,6674
+2964,01-12-2023,Kerala,32,Cochin,3750
+2965,01-12-2023,Maharashtra,27,Nagpur,6
+2966,01-12-2023,Kerala,32,Kannur,199
+2967,01-12-2023,Maharashtra,27,Shirdi,0
+2968,01-12-2023,Goa,30,Goa,171
+2969,01-12-2023,Maharashtra,27,Pune,0
+2970,01-12-2023,Bihar,10,Patna,0
+2971,01-12-2023,Chandigarh,4,Chandigarh,0
+2972,01-12-2023,Punjab,3,Chandigarh,0
+2973,01-12-2023,Madhya Pradesh,23,Indore,0
+2974,01-12-2023,West Bengal,19,Bagdogra,0
+2975,01-12-2023,Andhra Pradesh,28,Visakhapatnam,0
+2976,01-12-2023,Gujarat,24,Surat,0
+2977,01-12-2023,Tamil Nadu,33,Madurai,128
+2978,01-12-2023,Maharashtra,27,Aurangabad,0
+2979,01-12-2023,Bihar,10,Gaya,0
+2980,01-11-2023,Tamil Nadu,33,Chennai,20429
+2981,01-11-2023,West Bengal,19,Kolkata,4095
+2982,01-11-2023,Goa,30,Goa,157
+2983,01-11-2023,Jammu and Kashmir,1,Srinagar,0
+2984,01-11-2023,Odisha,21,Bhubaneswar,17
+2985,01-11-2023,Kerala,32,Calicut,1357
+2986,01-11-2023,Tamil Nadu,33,Coimbatore,75
+2987,01-11-2023,Uttar Pradesh,9,Varanasi,124
+2988,01-11-2023,Punjab,3,Amritsar,154
+2989,01-11-2023,Tamil Nadu,33,Trichy,535
+2990,01-11-2023,Andaman and Nicobar Islands,35,Portblair,0
+2991,01-11-2023,Manipur,14,Imphal,0
+2992,01-11-2023,Andhra Pradesh,28,Vijayawada,0
+2993,01-11-2023,Andhra Pradesh,28,Tirupati,0
+2994,01-11-2023,Uttar Pradesh,9,Kushinagar,0
+2995,01-11-2023,Gujarat,24,Ahmedabad,3374
+2996,01-11-2023,Uttar Pradesh,9,Lucknow,318
+2997,01-11-2023,Assam,18,Guwahati,0
+2998,01-11-2023,Rajasthan,8,Jaipur,102
+2999,01-11-2023,Kerala,32,Trivandrum,1110
+3000,01-11-2023,Karnataka,29,Mangalore,122
+3001,01-11-2023,Delhi,7,Delhi,49624
+3002,01-11-2023,Maharashtra,27,Mumbai,44198
+3003,01-11-2023,Karnataka,29,Bangalore,21214
+3004,01-11-2023,Telangana,36,Hyderabad,5805
+3005,01-11-2023,Kerala,32,Cochin,3487
+3006,01-11-2023,Maharashtra,27,Nagpur,7
+3007,01-11-2023,Kerala,32,Kannur,215
+3008,01-11-2023,Maharashtra,27,Shirdi,0
+3009,01-11-2023,Goa,30,Goa,146
+3010,01-11-2023,Maharashtra,27,Pune,0
+3011,01-11-2023,Bihar,10,Patna,0
+3012,01-11-2023,Chandigarh,4,Chandigarh,0
+3013,01-11-2023,Punjab,3,Chandigarh,0
+3014,01-11-2023,Madhya Pradesh,23,Indore,0
+3015,01-11-2023,West Bengal,19,Bagdogra,0
+3016,01-11-2023,Andhra Pradesh,28,Visakhapatnam,0
+3017,01-11-2023,Gujarat,24,Surat,0
+3018,01-11-2023,Tamil Nadu,33,Madurai,390
+3019,01-11-2023,Maharashtra,27,Aurangabad,0
+3020,01-11-2023,Bihar,10,Gaya,0
+3021,01-10-2023,Tamil Nadu,33,Chennai,20862
+3022,01-10-2023,West Bengal,19,Kolkata,4274
+3023,01-10-2023,Goa,30,Goa,89
+3024,01-10-2023,Jammu and Kashmir,1,Srinagar,0
+3025,01-10-2023,Odisha,21,Bhubaneswar,0
+3026,01-10-2023,Kerala,32,Calicut,1489
+3027,01-10-2023,Tamil Nadu,33,Coimbatore,85
+3028,01-10-2023,Uttar Pradesh,9,Varanasi,67
+3029,01-10-2023,Punjab,3,Amritsar,157
+3030,01-10-2023,Tamil Nadu,33,Trichy,560
+3031,01-10-2023,Andaman and Nicobar Islands,35,Portblair,0
+3032,01-10-2023,Manipur,14,Imphal,0
+3033,01-10-2023,Andhra Pradesh,28,Vijayawada,0
+3034,01-10-2023,Andhra Pradesh,28,Tirupati,0
+3035,01-10-2023,Uttar Pradesh,9,Kushinagar,0
+3036,01-10-2023,Gujarat,24,Ahmedabad,4269
+3037,01-10-2023,Uttar Pradesh,9,Lucknow,363
+3038,01-10-2023,Assam,18,Guwahati,0
+3039,01-10-2023,Rajasthan,8,Jaipur,65
+3040,01-10-2023,Kerala,32,Trivandrum,1383
+3041,01-10-2023,Karnataka,29,Mangalore,173
+3042,01-10-2023,Delhi,7,Delhi,56026
+3043,01-10-2023,Maharashtra,27,Mumbai,48653
+3044,01-10-2023,Karnataka,29,Bangalore,21587
+3045,01-10-2023,Telangana,36,Hyderabad,7095
+3046,01-10-2023,Kerala,32,Cochin,4041
+3047,01-10-2023,Maharashtra,27,Nagpur,12
+3048,01-10-2023,Kerala,32,Kannur,263
+3049,01-10-2023,Maharashtra,27,Shirdi,0
+3050,01-10-2023,Goa,30,Goa,148
+3051,01-10-2023,Maharashtra,27,Pune,0
+3052,01-10-2023,Bihar,10,Patna,0
+3053,01-10-2023,Chandigarh,4,Chandigarh,0
+3054,01-10-2023,Punjab,3,Chandigarh,0
+3055,01-10-2023,Madhya Pradesh,23,Indore,0
+3056,01-10-2023,West Bengal,19,Bagdogra,0
+3057,01-10-2023,Andhra Pradesh,28,Visakhapatnam,0
+3058,01-10-2023,Gujarat,24,Surat,0
+3059,01-10-2023,Tamil Nadu,33,Madurai,181
+3060,01-10-2023,Maharashtra,27,Aurangabad,0
+3061,01-10-2023,Bihar,10,Gaya,0
+3062,01-09-2023,Tamil Nadu,33,Chennai,20889
+3063,01-09-2023,West Bengal,19,Kolkata,4188
+3064,01-09-2023,Goa,30,Goa,42
+3065,01-09-2023,Jammu and Kashmir,1,Srinagar,0
+3066,01-09-2023,Odisha,21,Bhubaneswar,0
+3067,01-09-2023,Kerala,32,Calicut,1515
+3068,01-09-2023,Tamil Nadu,33,Coimbatore,95
+3069,01-09-2023,Uttar Pradesh,9,Varanasi,99
+3070,01-09-2023,Punjab,3,Amritsar,117
+3071,01-09-2023,Tamil Nadu,33,Trichy,529
+3072,01-09-2023,Andaman and Nicobar Islands,35,Portblair,0
+3073,01-09-2023,Manipur,14,Imphal,0
+3074,01-09-2023,Andhra Pradesh,28,Vijayawada,0
+3075,01-09-2023,Andhra Pradesh,28,Tirupati,0
+3076,01-09-2023,Uttar Pradesh,9,Kushinagar,0
+3077,01-09-2023,Gujarat,24,Ahmedabad,3863
+3078,01-09-2023,Uttar Pradesh,9,Lucknow,348
+3079,01-09-2023,Assam,18,Guwahati,0
+3080,01-09-2023,Rajasthan,8,Jaipur,168
+3081,01-09-2023,Kerala,32,Trivandrum,1394
+3082,01-09-2023,Karnataka,29,Mangalore,164
+3083,01-09-2023,Delhi,7,Delhi,54445
+3084,01-09-2023,Maharashtra,27,Mumbai,45512
+3085,01-09-2023,Karnataka,29,Bangalore,21481
+3086,01-09-2023,Telangana,36,Hyderabad,6519
+3087,01-09-2023,Kerala,32,Cochin,3876
+3088,01-09-2023,Maharashtra,27,Nagpur,0
+3089,01-09-2023,Kerala,32,Kannur,303
+3090,01-09-2023,Maharashtra,27,Shirdi,0
+3091,01-09-2023,Goa,30,Goa,104
+3092,01-09-2023,Maharashtra,27,Pune,0
+3093,01-09-2023,Bihar,10,Patna,0
+3094,01-09-2023,Chandigarh,4,Chandigarh,0
+3095,01-09-2023,Punjab,3,Chandigarh,0
+3096,01-09-2023,Madhya Pradesh,23,Indore,0
+3097,01-09-2023,West Bengal,19,Bagdogra,0
+3098,01-09-2023,Andhra Pradesh,28,Visakhapatnam,0
+3099,01-09-2023,Gujarat,24,Surat,0
+3100,01-09-2023,Tamil Nadu,33,Madurai,104
+3101,01-09-2023,Maharashtra,27,Aurangabad,0
+3102,01-09-2023,Bihar,10,Gaya,0
